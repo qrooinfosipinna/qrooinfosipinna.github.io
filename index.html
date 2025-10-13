@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InfoSESIPINNA QROO</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container header-inner">
+      <a href="index.html" class="logo">
+        <img src="images/logo.png" alt="Logo SESIPINNA" height="60">
+      </a>
+      <nav id="main-nav">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="#">Acerca</a></li>
+          <li><a href="#">Indicadores</a></li>
+          <li><a href="#">Descargas</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+      <button class="nav-toggle" aria-label="Abrir menú">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Bienvenidos al Sistema Estatal de Información</h1>
+        <p>Consulta datos estadísticos sobre niñas, niños y adolescentes en el estado de Quintana Roo.</p>
+      </div>
+    </section>
+
+    <section class="stats-overview">
+      <div class="container">
+        <h2>Indicadores</h2>
+        <div class="stats-grid">
+          <a href="demografico.html" class="stat-card">
+              <img src="images/demografico.png" alt="demografico" class="card-image">
+          </a>
+          <a href="desarrollo.html" class="stat-card">
+              <img src="images/desarrollo.png" alt="desarrollo" class="card-image">
+          </a>
+          <a class="stat-card">
+            <h3>Indicador 3</h3>
+            <p>Valor Z</p>
+          </a>
+          <a class="stat-card">
+            <h3>Indicador 4</h3>
+            <p>Valor X</p>
+          </a>
+          <a class="stat-card">
+            <h3>Indicador 5</h3>
+            <p>Valor X</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="info-sections">
+      <div class="container">
+        <div class="info-block">
+          <h2>Acerca de InfoSIPINNA</h2>
+          <p>Descripción breve del sistema, propósito, misión, etc.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <section class="contact">
+        <h3>Contacto</h3>
+        <p>Juárez y Av. Héroes 134, Av Héroes de Chapultepec, 77000 Chetumal, Q.R.</p>
+        <p>Tel: 983 832 9470</p>
+        <p>Email: <a href="mailto:sipinna.qroo.gob@outlook.com">sipinna.qroo.gob@outlook.com</a></p>
+      </section>
+      <section class="social">
+        <p>Síguenos en redes</p>
+        <ul>
+          <li><a href="https://www.facebook.com/SIPINNAQROO">Facebook</a></li>
+          <li><a href="https://x.com/SIPINNAQROO">Twitter</a></li>
+        </ul>
+      </section>
+    </div>
+  </footer>
+
+  <script>
+    const navToggle = document.querySelector(".nav-toggle");
+    const mainNav = document.getElementById("main-nav");
+    navToggle.addEventListener("click", () => {
+      mainNav.classList.toggle("nav-open");
+    });
+  </script>
+</body>
+</html>
