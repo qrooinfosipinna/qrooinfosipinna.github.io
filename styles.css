@@ -124,6 +124,43 @@ nav ul li a {
   padding: 2rem 0;
 }
 
+.info-layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap; /* para que en pantallas pequeñas se acomode */
+}
+
+.info-text {
+  flex: 1 1 60%;
+}
+
+.info-text h1, .info-text h3 {
+  text-align: center;
+  color: #003366; /* puedes cambiar color institucional */
+}
+
+.info-text p {
+  text-align: justify;
+  line-height: 1.6;
+  margin-bottom: 1em; /* salto entre párrafos */
+}
+
+.info-image {
+  flex: 1 1 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
 .info-block {
   margin-bottom: 2rem;
 }
