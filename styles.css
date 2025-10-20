@@ -11,9 +11,76 @@ body {
 }
 
 .container {
-  width: 90%;
-  max-width: 1200px;
+  width: 100%;
+  max-width: 1400px;
   margin: auto;
+}
+/* --- CONTENEDOR GENERAL --- */
+.header-inner {
+  position: relative;          /* base para posicionar el menú centrado */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* --- LOGOS --- */
+.logo-left img,
+.logo-right img {
+  height: 60px;
+  width: auto;
+}
+
+/* Menú centrado */
+.main-nav {
+  flex: 2; /* Más espacio para el menú */
+  text-align: center;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: inline-flex;
+  gap: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #A4163D;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.main-nav a:hover {
+  color: #D72638;
+}
+
+.nav-link:hover {
+  color: #72122A;
+  transform: scale(1.05);
+}
+
+/* --- RESPONSIVO --- */
+@media (max-width: 768px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+  }
+
+  #main-nav {
+    position: static; /* se vuelve normal en móvil */
+    transform: none;
+    margin-top: 10px;
+  }
+
+  #main-nav ul {
+    flex-direction: column;
+    gap: 10px;
+  }
 }
 
 header {
@@ -32,6 +99,26 @@ header {
   font-size: 1.5rem;
   text-decoration: none;
   color: white;
+}
+
+#main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+  margin: 0;
+  padding: 0;
+}
+
+#main-nav .nav-link {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #A4163D; /* tu color institucional */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#main-nav .nav-link:hover {
+  color: #72122A; /* tono más oscuro al pasar el mouse */
 }
 
 nav ul {
@@ -54,9 +141,16 @@ nav ul li a {
 }
 
 .hero {
-  background-color: #e5f4fc;
+  background-color: #a4163cbd;
   padding: 2rem 0;
   text-align: center;
+}
+
+.hero h3 {
+  color: #ffffff; /* ← texto blanco */
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 0;
 }
 
 .hero img {
@@ -123,7 +217,12 @@ nav ul li a {
 .info-sections {
   padding: 2rem 0;
 }
-
+.info-sections p {
+  font-size: 1.15rem; /* apenas más grande */
+  font-weight: 450; /* mantiene buena lectura */
+  line-height: 1.5;
+  color: #333;
+}
 .info-layout {
   display: flex;
   align-items: flex-start;
@@ -138,7 +237,7 @@ nav ul li a {
 
 .info-text h1, .info-text h3 {
   text-align: center;
-  color: #003366; /* puedes cambiar color institucional */
+  color: #A4163D; /* puedes cambiar color institucional */
 }
 
 .info-text p {
@@ -167,6 +266,11 @@ nav ul li a {
 
 .info-block h2 {
   margin-bottom: 0.5rem;
+}
+
+footer section p {
+  line-height: 1.3; /* reduce el espacio entre líneas */
+  margin-bottom: 6px; /* reduce el espacio entre párrafos */
 }
 
 footer {
@@ -204,3 +308,4 @@ footer .social ul {
     display: block;
   }
 }
+
