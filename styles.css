@@ -268,32 +268,74 @@ nav ul li a {
   margin-bottom: 0.5rem;
 }
 
-footer section p {
-  line-height: 1.3; /* reduce el espacio entre líneas */
-  margin-bottom: 6px; /* reduce el espacio entre párrafos */
+.footer-inst{
+  background:linear-gradient(180deg,#5f6265,#37393b);
+  color:#fff;
+  margin-top:80px;
+  padding-top:60px;
 }
 
-footer {
-  background-color: #222;
-  color: #ccc;
-  padding: 2rem 0;
+.footer-grid{
+  display:grid;
+  grid-template-columns:2fr 1fr 1fr 1fr;
+  gap:40px;
+  max-width:1200px;
+  margin:auto;
 }
 
-.footer-inner {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
+.footer-col h4{
+  font-size:18px;
+  margin-bottom:18px;
+  font-weight:800;
 }
 
-footer a {
-  color: #ccc;
-  text-decoration: none;
+.footer-col p,
+.footer-col a{
+  color:#f1f1f1;
+  font-size:14px;
+  text-decoration:none;
+  line-height:1.6;
 }
 
-footer .social ul {
-  list-style: none;
-  display: flex;
-  gap: 0.5rem;
+.footer-col ul{
+  list-style:none;
+  padding:0;
+}
+
+.footer-col ul li{
+  margin-bottom:8px;
+}
+
+.footer-col a:hover{
+  color:#ffd166;
+}
+
+.footer-desc{
+  margin-top:15px;
+  font-size:14px;
+  opacity:.9;
+}
+
+.footer-social{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+.footer-bottom{
+  text-align:center;
+  margin-top:40px;
+  padding:18px;
+  background:rgba(0,0,0,.25);
+  font-size:14px;
+}
+
+/* responsive */
+@media(max-width:900px){
+.footer-grid{
+grid-template-columns:1fr;
+text-align:center;
+}
 }
 
 @media (max-width: 768px) {
@@ -309,3 +351,501 @@ footer .social ul {
   }
 }
 
+/* ===== SECCION DESCARGAS PRO ===== */
+/* ===== FONDO SECCION ===== */
+.downloads-section{
+  padding:90px 0;
+  background:linear-gradient(135deg,#f3f4f8,#e9edf5);
+  position:relative;
+  overflow:hidden;
+}
+
+/* decoracion fondo suave */
+.downloads-section::before{
+  content:"";
+  position:absolute;
+  width:600px;
+  height:600px;
+  background:radial-gradient(circle,#7a1f3d22,transparent 70%);
+  top:-200px;
+  right:-200px;
+}
+
+.section-title{
+  text-align:center;
+  font-weight:800;
+  font-size:36px;
+  color:#7a1f3d;
+}
+
+.section-desc{
+  text-align:center;
+  margin-bottom:60px;
+  color:#555;
+  font-size:17px;
+}
+
+/* GRID */
+.downloads-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+  gap:40px;
+}
+
+/* ===== CARD VIDRIO ===== */
+.download-card{
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background:rgba(255,255,255,0.45);
+  border-radius:22px;
+  padding:40px 30px;
+  text-align:center;
+  border:1px solid rgba(255,255,255,0.6);
+  box-shadow:0 20px 40px rgba(0,0,0,0.12);
+  transition:.45s;
+  position:relative;
+  overflow:hidden;
+}
+
+/* reflejo vidrio */
+.download-card::after{
+  content:"";
+  position:absolute;
+  top:0;
+  left:-100%;
+  width:100%;
+  height:100%;
+  background:linear-gradient(120deg,transparent,rgba(255,255,255,.7),transparent);
+  transition:.8s;
+}
+
+.download-card:hover::after{
+  left:120%;
+}
+
+.download-card:hover{
+  transform:translateY(-15px) scale(1.04);
+  box-shadow:0 30px 60px rgba(0,0,0,.25);
+  background:rgba(255,255,255,0.65);
+}
+
+
+
+/* ICONO */
+.icon-circle{
+  width:85px;
+  height:85px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:40px;
+  margin:0 auto 18px auto;
+  color:#fff;
+  animation:flotar 4s ease-in-out infinite;
+}
+
+/* COLORES */
+.icon-circle.pdf{
+  background:linear-gradient(135deg,#7a1f3d,#a8325a);
+  box-shadow:0 10px 25px rgba(122,31,61,.5);
+}
+
+.icon-circle.excel{
+  background:linear-gradient(135deg,#1f7a4d,#2ecc71);
+  box-shadow:0 10px 25px rgba(46,204,113,.4);
+}
+
+/* DISCRIMINACION → guinda SIPINNA */
+.icon-circle.discriminacion{
+  background:linear-gradient(135deg,#b49864,#c8a979);
+  box-shadow:0 10px 25px rgba(122,31,61,.45);
+}
+
+/* EMBARAZO → verde salud/estadistica */
+.icon-circle.embarazo{
+  background:linear-gradient(135deg,#1f7a4d,#2ecc71);
+  box-shadow:0 10px 25px rgba(46,204,113,.45);
+}
+
+/* NACIMIENTO → azul institucional (ultimo) */
+.icon-circle.nacimiento{
+  background:linear-gradient(135deg,#1f4e79,#3498db);
+  box-shadow:0 10px 25px rgba(52,152,219,.45);
+}
+
+/* TEXTOS */
+.download-card h3{
+  font-size:20px;
+  font-weight:800;
+  margin-bottom:10px;
+}
+
+.download-card p{
+  font-size:15px;
+  color:#555;
+  margin-bottom:25px;
+}
+
+/* BOTON */
+.btn-download{
+  display:inline-block;
+  padding:14px 26px;
+  background:linear-gradient(135deg,#7a1f3d,#a8325a);
+  color:#fff;
+  border-radius:12px;
+  font-weight:700;
+  text-decoration:none;
+  letter-spacing:.5px;
+  transition:.3s;
+}
+
+.btn-download:hover{
+  transform:scale(1.1);
+  box-shadow:0 15px 35px rgba(122,31,61,.5);
+  color:#fff;
+}
+
+.year-tag{
+  position:absolute;
+  top:18px;
+  left:18px;
+  background:linear-gradient(135deg,#7a1f3d,#a8325a);
+  color:#fff;
+  padding:6px 14px;
+  border-radius:20px;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:1px;
+  box-shadow:0 6px 15px rgba(0,0,0,.2);
+  backdrop-filter:blur(6px);
+}
+
+/* grupo por año */
+.year-group{
+  margin-top:18px;
+  padding-top:15px;
+  border-top:1px dashed rgba(0,0,0,0.15);
+}
+
+/* etiqueta año */
+.year-badge{
+  display:inline-block;
+  background:linear-gradient(135deg,#7a1f3d,#a8325a);
+  color:#fff;
+  font-weight:700;
+  padding:6px 14px;
+  border-radius:20px;
+  font-size:13px;
+  margin-bottom:12px;
+  box-shadow:0 5px 15px rgba(122,31,61,.3);
+}
+
+/* contenedor botones */
+.buttons-group{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+
+/* botones mas pequeños dentro del card */
+.buttons-group .btn-download{
+  padding:10px 18px;
+  font-size:14px;
+}
+
+/* ANIMACION */
+@keyframes flotar{
+  0%{transform:translateY(0)}
+  50%{transform:translateY(-10px)}
+  100%{transform:translateY(0)}
+}
+
+.download-card.guinda:hover{
+  box-shadow:0 25px 60px rgba(183,154,102,.65);
+}
+
+.download-card.verde:hover{
+  box-shadow:0 25px 60px rgba(46,204,113,.35);
+}
+
+.download-card.azul:hover{
+  box-shadow:0 25px 60px rgba(52,152,219,.35);
+}
+
+/* ===== SECCIONES MISION VISION ===== */
+.info-sections.MV{
+  padding:90px 0;
+  background:linear-gradient(180deg,#f4f6fb,#eef1f7);
+}
+
+/* GRID HORIZONTAL */
+.info-layout.MV{
+  max-width:1200px;
+  margin:auto;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:50px;
+  align-items:stretch;
+}
+
+/* TARJETA */
+.info-sections.MV .info-text{
+  background:rgba(255,255,255,0.75);
+  backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);
+  border-radius:24px;
+  padding:60px 55px;
+  box-shadow:0 25px 50px rgba(0,0,0,.12);
+  border:1px solid rgba(255,255,255,.65);
+  position:relative;
+  overflow:hidden;
+  transition:.45s ease;
+  height:100%;
+}
+
+/* línea institucional */
+.info-sections.MV .info-text::before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:0;
+  width:7px;
+  height:100%;
+  background:linear-gradient(180deg,#7a1f3d,#a8325a);
+}
+
+/* brillo premium */
+.info-sections.MV .info-text::after{
+  content:"";
+  position:absolute;
+  top:-60%;
+  left:-60%;
+  width:200%;
+  height:200%;
+  background:linear-gradient(
+    120deg,
+    transparent,
+    rgba(255,255,255,.7),
+    transparent
+  );
+  transform:rotate(25deg);
+  opacity:.35;
+  transition:.8s;
+}
+
+.info-sections.MV .info-text:hover::after{
+  left:120%;
+}
+
+/* hover */
+.info-sections.MV .info-text:hover{
+  transform:translateY(-12px) scale(1.02);
+  box-shadow:0 40px 80px rgba(0,0,0,.22);
+}
+
+/* TITULOS */
+.info-sections.MV h3{
+  font-size:34px;
+  font-weight:900;
+  color:#7a1f3d;
+  margin-bottom:22px;
+  letter-spacing:1.5px;
+}
+
+/* TEXTO */
+.info-sections.MV p{
+  font-size:17px;
+  line-height:1.9;
+  color:#444;
+  text-align:justify;
+}
+
+@media(max-width:900px){
+  .info-layout.MV{
+    grid-template-columns:1fr;
+  }
+}
+
+/* ===== CONTACTO ===== */
+.contact-section{
+  padding:90px 0;
+  background:linear-gradient(180deg,#f4f6fb,#eef1f7);
+}
+
+.contact-container{
+  max-width:900px;
+  margin:auto;
+  background:rgba(255,255,255,.75);
+  backdrop-filter:blur(14px);
+  border-radius:24px;
+  padding:60px;
+  box-shadow:0 25px 60px rgba(0,0,0,.15);
+  border:1px solid rgba(255,255,255,.7);
+}
+
+.contact-title{
+  text-align:center;
+  font-size:34px;
+  font-weight:900;
+  color:#7a1f3d;
+  margin-bottom:10px;
+}
+
+.contact-desc{
+  text-align:center;
+  margin-bottom:40px;
+  color:#555;
+}
+
+.contact-form{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:25px;
+}
+
+.contact-form textarea{
+  resize:none;
+}
+
+.input-group{
+  display:flex;
+  flex-direction:column;
+  gap:6px;
+}
+
+.input-group label{
+  font-weight:700;
+  color:#7a1f3d;
+  font-size:14px;
+}
+
+.input-group input,
+.input-group textarea{
+  padding:12px;
+  border-radius:10px;
+  border:1px solid #ccc;
+  font-size:15px;
+}
+
+.input-group input:focus,
+.input-group textarea:focus{
+  outline:none;
+  border:1px solid #7a1f3d;
+  box-shadow:0 0 0 3px rgba(122,31,61,.15);
+}
+
+/* textarea ancho completo */
+.input-group:nth-child(5){
+  grid-column:1/3;
+}
+
+/* boton */
+.btn-contact{
+  grid-column:1/3;
+  padding:16px;
+  border:none;
+  border-radius:12px;
+  background:linear-gradient(135deg,#7a1f3d,#a8325a);
+  color:#fff;
+  font-size:16px;
+  font-weight:800;
+  cursor:pointer;
+  transition:.3s;
+}
+
+.btn-contact:hover{
+  transform:scale(1.05);
+  box-shadow:0 15px 35px rgba(122,31,61,.4);
+}
+
+/* responsive */
+@media(max-width:768px){
+  .contact-form{
+    grid-template-columns:1fr;
+  }
+  .btn-contact,
+  .input-group:nth-child(5){
+    grid-column:1/2;
+  }
+}
+
+/* =========================
+   ANIMACION SUAVE FORMULARIO
+   ========================= */
+.contact-container{
+  opacity:0;
+  transform:translateY(60px);
+  transition:all 1s cubic-bezier(.23,1,.32,1);
+}
+
+.contact-container.visible{
+  opacity:1;
+  transform:translateY(0);
+}
+
+/* =========================
+   VALIDACION VISUAL PRO
+   ========================= */
+.input-group input.error,
+.input-group textarea.error{
+  border:2px solid #e63946;
+  background:#fff5f5;
+}
+
+.input-group input.ok,
+.input-group textarea.ok{
+  border:2px solid #2a9d8f;
+  background:#f1fffb;
+}
+
+/* alerta visual */
+.alerta-form{
+  grid-column:1/3;
+  padding:14px;
+  border-radius:12px;
+  font-weight:700;
+  text-align:center;
+  display:none;
+}
+
+.alerta-ok{
+  background:#e8fff5;
+  color:#1b7f5c;
+  display:block;
+}
+
+.alerta-error{
+  background:#ffeaea;
+  color:#b02a37;
+  display:block;
+}
+
+/* =========================
+   MAPA
+   ========================= */
+.mapa-section{
+  padding:70px 0;
+  background:#fff;
+}
+
+.mapa-container{
+  max-width:1000px;
+  margin:auto;
+  text-align:center;
+}
+
+.mapa-container h2{
+  color:#7a1f3d;
+  font-weight:900;
+  margin-bottom:25px;
+}
+
+.mapa-container iframe{
+  width:100%;
+  height:420px;
+  border:0;
+  border-radius:18px;
+  box-shadow:0 25px 50px rgba(0,0,0,.2);
+}

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Detalle del Indicador</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InfoSESIPINNA QROO</title>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="styles.css" />
@@ -33,21 +33,23 @@
       </a>
     </div>
   </header>
+  
+  <main>
+    <section class="info-sections MV">
+      <div class="container info-layout MV">
+        <div class="info-text">
+          <h3>MISIÓN</h3>
+          <p>Lograr, a través de la coordinación de acciones entre las dependencias integrantes del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, trascender en la instrumentación y articulación de políticas públicas que garanticen y protejan de manera integral de los derechos de niñas, niños y adolescentes, con transversalidad de la perspectiva de esos derechos y siempre con la participación directa y efectiva de la niñez y adolescencia.</p>
+        </div>
 
-  <!-- CONTENIDO -->
-  <main class="container my-5">
-    <a href="javascript:history.back()" class="volver d-block mb-3">← Volver al listado</a>
-
-    <div class="card shadow-sm">
-      <div class="card-body">
-        <h2 id="nombreIndicador"></h2>
-        <p id="descripcionIndicador" class="text-muted"></p>
-        <div id="contenidoIndicador" class="mt-4"></div>
+        <div class="info-text">
+          <h3>VISIÓN</h3>
+          <p>Ser reconocida como un órgano coordinador operativo eficaz en las acciones y estrategias destinadas a la atención y protección de los derechos humanos de niñas, niños y adolescentes ante posibles vulneraciones, así como las medidas positivas para facilitar el disfrute de ichos derechos humanos, garantizando la participación de la niñez y adolescencia en el ejercicio de sus derechos.</p>
+        </div>
       </div>
-    </div>
+    </section>
   </main>
 
-  <!-- FOOTER -->
     <footer class="footer-inst">
         <div class="container footer-grid">
 
@@ -97,40 +99,11 @@
     </footer>
 
   <script>
-    // Datos de prueba simulados (100 % estáticos)
-    const datosIndicadores = {
-      Demografico: {
-        1: { nombre: "Tasa de natalidad", descripcion: "Número de nacimientos por cada mil habitantes.", contenido: "<p>En los últimos años, la tasa de natalidad ha mostrado una tendencia descendente...</p>" },
-        2: { nombre: "Distribución por edad", descripcion: "Población agrupada por grupos etarios.", contenido: "<p>La mayoría de la población infantil se concentra en el rango de 5 a 9 años...</p>" }
-      },
-      Desarrollo: {
-        3: { nombre: "Escolaridad promedio", descripcion: "Nivel educativo medio de la población.", contenido: "<p>El promedio de escolaridad de niñas y niños en el estado es de 8.5 años...</p>" },
-        4: { nombre: "Acceso a servicios básicos", descripcion: "Disponibilidad de agua, luz y drenaje.", contenido: "<p>El 95 % de los hogares cuenta con acceso a agua potable...</p>" }
-      },
-      Supervivencia: {
-        5: { nombre: "Mortalidad infantil", descripcion: "Defunciones de menores de 1 año por cada mil nacidos vivos.", contenido: "<p>La tasa de mortalidad infantil ha disminuido un 10 % en el último lustro...</p>" }
-      },
-      Proteccion: {
-        6: { nombre: "Casos atendidos", descripcion: "Número de casos de protección infantil registrados.", contenido: "<p>Durante 2024 se atendieron 235 casos de protección infantil...</p>" }
-      },
-      Participacion: {
-        7: { nombre: "Consejos infantiles", descripcion: "Número de consejos activos en el estado.", contenido: "<p>Actualmente existen 45 consejos municipales de participación infantil...</p>" }
-      }
-    };
-
-    const params = new URLSearchParams(window.location.search);
-    const tema = params.get("tema");
-    const id = params.get("id");
-
-    const indicador = datosIndicadores[tema]?.[id];
-    if (indicador) {
-      document.getElementById("tituloIndicador").textContent = indicador.nombre;
-      document.getElementById("nombreIndicador").textContent = indicador.nombre;
-      document.getElementById("descripcionIndicador").textContent = indicador.descripcion;
-      document.getElementById("contenidoIndicador").innerHTML = indicador.contenido;
-    } else {
-      document.getElementById("contenidoIndicador").innerHTML = "<p class='text-danger'>Indicador no encontrado.</p>";
-    }
+    const navToggle = document.querySelector(".nav-toggle");
+    const mainNav = document.getElementById("main-nav");
+    navToggle.addEventListener("click", () => {
+      mainNav.classList.toggle("nav-open");
+    });
   </script>
 </body>
 </html>
