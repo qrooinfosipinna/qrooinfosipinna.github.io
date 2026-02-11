@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,34 +9,13 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/styles.css" />
 </head>
+
 <body>
-  <header>
-    <div class="container header-inner">
-      <!-- Logo izquierdo -->
-      <a href="index.html" class="logo-left">
-        <img src="images/logoqroo.png" alt="Logo Institucional Izquierdo" height="60">
-      </a>
 
-      <!-- Menú centrado -->
-      <nav id="main-nav">
-        <ul>
-          <li><a href="index.html" class="nav-link">Inicio</a></li>
-          <li><a href="acerca.html" class="nav-link">Acerca</a></li>
-          <li><a href="#" class="nav-link">Indicadores</a></li>
-          <li><a href="descargables.html" class="nav-link">Descargas</a></li>
-          <li><a href="contacto.html" class="nav-link">Contacto</a></li>
-        </ul>
-      </nav>
-
-      <!-- Logo derecho -->
-      <a href="index.html" class="logo-right">
-        <img src="images/logo.png" alt="Logo SESIPINNA" height="60">
-      </a>
-    </div>
-  </header>
+  <div id="header"></div>
 
   <!-- CONTENIDO -->
-    <h1 id="tituloTema" class="text-center flex-grow-1">Listado de Indicadores</h1>
+  <h1 id="tituloTema" class="text-center flex-grow-1">Listado de Indicadores</h1>
   <main class="container my-5">
     <div id="descripcionTema" class="mb-4 text-center text-secondary"></div>
 
@@ -45,55 +25,33 @@
   </main>
 
   <!-- FOOTER -->
-    <footer class="footer-inst">
-        <div class="container footer-grid">
-
-            <!-- LOGO -->
-            <div class="footer-col">
-            <img src="images/logomonocromatico.png" height="70">
-            <p class="footer-desc">
-                Secretaría Ejecutiva del Sistema de Protección de 
-                Niñas, Niños y Adolescentes del Estado de Quintana Roo.
-            </p>
-            </div>
-
-            <!-- CONTACTO -->
-            <div class="footer-col">
-            <h4>Contacto</h4>
-            <p>Av. Héroes de Chapultepec entre Juárez y Av. Héroes 134 <br>Chetumal, Quintana Roo</p>
-            <p>Tel: 983 832 9470</p>
-            <p>Email: <a href="mailto:sipinna.qroo.gob@outlook.com">sipinna.qroo.gob@outlook.com</a></p>
-            </div>
-
-            <!-- NAVEGACION -->
-            <div class="footer-col">
-            <h4>Enlaces</h4>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="acerca.html">Acerca</a></li>
-                <li><a href="#">Indicadores</a></li>
-                <li><a href="descargables.html">Descargas</a></li>
-                <li><a href="contacto.html">Contacto</a></li>
-            </ul>
-            </div>
-
-            <!-- REDES -->
-            <div class="footer-col">
-            <h4>Redes oficiales</h4>
-            <div class="footer-social">
-                <a href="https://www.facebook.com/SIPINNAQROO" target="_blank">Facebook</a>
-                <a href="https://x.com/SIPINNAQROO" target="_blank">Twitter / X</a>
-            </div>
-            </div>
-
-        </div>
-
-        <div class="footer-bottom">
-            © 2026 SESIPINNA Quintana Roo — Todos los derechos reservados
-        </div>
-    </footer>
+  <div id="footer"></div>
 
   <script>
+
+    /* cargar header */
+    fetch("partials/header.html")
+      .then(res => res.text())
+      .then(data => {
+        document.getElementById("header").innerHTML = data;
+
+        const navToggle = document.querySelector(".nav-toggle");
+        const mainNav = document.getElementById("main-nav");
+
+        if (navToggle) {
+          navToggle.addEventListener("click", () => {
+            mainNav.classList.toggle("nav-open");
+          });
+        }
+      });
+
+    /* cargar footer */
+    fetch("partials/footer.html")
+      .then(res => res.text())
+      .then(data => {
+        document.getElementById("footer").innerHTML = data;
+      });
+
     const indicadores = {
       demografico: [
         { titulo: "Tasa de natalidad", descripcion: "Número de nacimientos por cada mil habitantes.", enlace: "indicador.html?tema=Demografico&id=1" },
@@ -117,42 +75,43 @@
       ]
     };
 
-  // Leer parámetro de la URL
-  const params = new URLSearchParams(window.location.search);
-  const tema = params.get("tema"); // puede ser null
+    // Leer parámetro de la URL
+    const params = new URLSearchParams(window.location.search);
+    const tema = params.get("tema"); // puede ser null
 
-  // Obtener referencias de los elementos del DOM
-  const titulo = document.getElementById("tituloTema");
-  const descripcion = document.getElementById("descripcionTema");
-  const contenedor = document.getElementById("contenedorIndicadores");
+    // Obtener referencias de los elementos del DOM
+    const titulo = document.getElementById("tituloTema");
+    const descripcion = document.getElementById("descripcionTema");
+    const contenedor = document.getElementById("contenedorIndicadores");
 
-  // Comprobar si el parámetro existe y si hay datos para él
-  if (tema && indicadores[tema]) {
-    titulo.textContent = `Indicadores de ${tema.charAt(0).toUpperCase() + tema.slice(1)}`;
-    descripcion.textContent = `Consulta los principales indicadores del tema ${tema}.`;
+    // Comprobar si el parámetro existe y si hay datos para él
+    if (tema && indicadores[tema]) {
+      titulo.textContent = `Indicadores de ${tema.charAt(0).toUpperCase() + tema.slice(1)}`;
+      descripcion.textContent = `Consulta los principales indicadores del tema ${tema}.`;
 
-    indicadores[tema].forEach(ind => {
-      const card = document.createElement("div");
-      card.className = "col-md-6 col-lg-4 mb-4";
-      card.innerHTML = `
-        <div class="card shadow-sm h-100">
-          <div class="card-body">
-            <h5 class="card-title">${ind.titulo}</h5>
-            <p class="card-text">${ind.descripcion}</p>
-            <a href="${ind.enlace}" class="btn btn-primary w-100">Ver indicador</a>
-          </div>
-        </div>`;
-      contenedor.appendChild(card);
-    });
-  } else {
-    // Si no se envió tema o no existe
-    titulo.textContent = "Listado de Indicadores";
-    descripcion.textContent = "No se mandó tema alguno.";
-    contenedor.innerHTML = `
-      <div class="alert alert-warning text-center mt-4">
-        No se proporcionó un tema válido o no se envió ninguno.
-      </div>`;
-  }
+      indicadores[tema].forEach(ind => {
+        const card = document.createElement("div");
+        card.className = "col-md-6 col-lg-4 mb-4";
+        card.innerHTML = `
+            <div class="card shadow-sm h-100">
+              <div class="card-body">
+                <h5 class="card-title">${ind.titulo}</h5>
+                <p class="card-text">${ind.descripcion}</p>
+                <a href="${ind.enlace}" class="btn btn-primary w-100">Ver indicador</a>
+              </div>
+            </div>`;
+        contenedor.appendChild(card);
+      });
+    } else {
+      // Si no se envió tema o no existe
+      titulo.textContent = "Listado de Indicadores";
+      descripcion.textContent = "No se mandó tema alguno.";
+      contenedor.innerHTML = `
+          <div class="alert alert-warning text-center mt-4">
+            No se proporcionó un tema válido o no se envió ninguno.
+          </div>`;
+    }
   </script>
 </body>
+
 </html>
