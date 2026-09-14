@@ -1,0 +1,1362 @@
+{
+    "id":  29,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de adolescentes que trabajan y no estudian",
+    "definicion":  "Se refiere al valor relativo de la población de 15 a 17 años que se dedica a producir o proporcionar bienes y \nservicios para el mercado o el autoconsumo, o para el consumo del hogar o de la comunidad y que no asiste \na la escuela.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  51.234979235632871,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.520183496047236
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.231116720919417,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.810912558980021
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  54.558629214440991,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  6.2731260261216892
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  36.078051480763904,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  6.5781837450480687
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  46.092020011482,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.927261768194279
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  65.812504143737982,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  12.710149937899331
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  42.364879148756252,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  15.969399952187423
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  52.720358627559918,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  16.870708680725848
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  73.874231303312826,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.1118919847984268
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  49.452820081120379,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  6.1086165335350007
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  61.021323404975462,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.152128265007752
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.611429406301205,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  16.442881056061573
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  54.554171903953552,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  18.743015889269291
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  42.2363060208239,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.1139346492788817
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  46.43813373408647,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  12.36005940147952
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  55.294435632437356,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.3592548136251512
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  62.696492567244121,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  18.765707470269557
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.970875646675616,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.219788064489213
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  38.826875603735104,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.373282610746061
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.005495224388326,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.9985984910420225
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.201016786273385,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  12.298297247091112
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  51.212383540039937,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  16.110375621159463
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  67.981287765577278,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.1411048304662721
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.339111317803237,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.514096372009435
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.0817872281287,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.452812134944908
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  38.481252021596873,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.58020992832257
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  36.607898619071804,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.98679617183975
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  37.861140523370139,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.266120707923465
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  39.492397869618259,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.1262899051832447
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.641987395215075,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.013101664417453
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.221547500030859,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.5012153803404935
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  42.8900515383414,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.8375483593638062
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  49.042889218708375,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.023461304082877
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.326757074492058,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.512533675628744
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  67.754984108639121,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.896910354624321
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.464833483701412,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  6.2318952905957232
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.017303449076763,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.8554594459069822
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  44.021739130434781,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.643350272305792
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.431520898483477,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.2796449324028369
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  36.052318668252084,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.815438396233146
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.308675956190143,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  16.7148623501314
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  63.16060012208051,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.0578625103087322
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  44.87674487674488,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  6.7221634861981974
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.164638988596295,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  17.27063339731286
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  67.739361702127667,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  17.825108184713002
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  44.601646611779607,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  15.030305617210177
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.982798675300288,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.454973383280755
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.577537654595218,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  15.628874836149787
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  48.538946669617175,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.9857203866750925
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  65.5365485872494,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  20.390167742133965
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  62.589965852377205,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.171604200461026
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  42.193960093474743,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.814463326712279
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  55.149357742871132,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.618907392363932
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.662172458342994,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.238250520782977
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  39.499813616184895,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.733293068086017
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  62.555960437272248,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.420297772343764
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  40.042006424511982,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.6300115356545888
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  47.068463219227965,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  12.007827152321726
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  35.54274735830932,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.3245997088791839
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  38.261318389618047,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.60773352354727
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.431893569212107,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.0598633989554038
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  33.887993185897244,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.8635899487330647
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.951304957085306,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.5856235658252835
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.459681056514746,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.2944491898190051
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  44.920971158546521,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.351956779549347
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  46.885368126747437,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.607937332294643
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  51.094653246158281,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.097406650504094
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.559446753423728,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.064691375674613
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  47.566962079530853,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.1289260197405779
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  28.9951638903815,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.6270465305441428
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  52.42132490300331,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.591401054376782
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  51.258207630878438,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.2592732388566716
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  33.247289623128552,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.182738135574079
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  60.159283880734549,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.588208883774728
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  65.645558614693527,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.790301067073171
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  34.057093861905479,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  3.3005437771124821
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  48.612509565427523,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.966964436204282
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  62.786373033029065,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  19.973994228280226
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.58746357679312,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.18420312163795
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.626155878467635,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.98720558301832
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  45.035904810090628,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.785132758985126
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  46.253797353860357,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.6547066499289746
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  72.073291473975758,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  23.025119914158278
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  61.695439576888532,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.261486898787785
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.3392778317295,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.34140608305435
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  52.064550833781595,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.9585007089940429
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  60.553554394407506,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  16.675880726930544
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  42.074081491309315,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.227420230696788
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  71.525290957923,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.578188227700405
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.932993554189778,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.31217718637836
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.1511708787387,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.395853271433582
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  37.183757532609526,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.3080996017520636
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.4679366485768,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.485290564561593
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.068580542264755,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  6.6100969766115236
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  39.678772378516626,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.0965805150335388
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  49.492371391299415,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.901504172705012
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  60.073004038521283,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.68719516969175
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.830029787077564,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  12.602451959501343
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.848713119899564,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.012169873782224
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  38.382459819471954,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.1205598136699022
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  37.016458748296465,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.0242705208617391
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  32.162678555181515,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  3.5489473631371289
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  27.707865168539325,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  3.0678510114204673
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  34.68741756792403,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.0072347879064809
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  36.564934110615781,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.1791011349193461
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.125992912134912,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.61277883535901
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.45418485632544,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.442117715163032
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  40.479543694106049,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.5270584050035332
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  23.765786452353616,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  2.1868807767330525
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  47.556186815941182,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.858209810314476
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  37.659389812404029,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.5307354489033
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  27.909775206103742,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.039153869622699
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  40.602426703177372,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.62503270367851
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  28.948369131880131,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.7433443743261625
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.754745718637388,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.6799732853312364
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  35.603999947438275,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.863986656081346
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  33.424054664427587,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.7201752125740786
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  27.081402322665067,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.6535486455668895
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  44.033515437971886,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.15984477667766
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  31.631846563216271,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.726553949925179
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  31.360929300076656,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.8923256980438055
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  31.14489003880983,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.0152102669301772
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  24.42269557986311,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.1622605719020154
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  31.352954369875647,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.6661995003351411
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  34.349157733537517,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.209857617355353
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  38.993969298245609,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.9876696158296419
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  18.308826225660958,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  3.6082325225108036
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.588601869534628,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.245902679796318
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  31.998161025228434,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.3935386208819658
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.047209397709459,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.093126312664255
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  25.5062969968169,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.9099095098970782
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  40.27446591074991,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.40679025676582
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  47.537639651571062,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.5357137060642021
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  40.310172933718995,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.3427799926125
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  38.533450189891909,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.8967923967923968
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  59.231950844854076,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.2158409215840926
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  62.592181028386705,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  12.804298408762142
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  53.380407434461489,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.6149566687314385
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  51.483708301008534,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.068951086822736
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  46.870830682074754,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.136737705342426
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  48.58545210657887,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.9723267168240755
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  72.0714103219213,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.6777183457201366
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  50.074616741283407,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  10.356631779791801
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  31.089231860918932,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.8613222385143109
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  48.187442411478216,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  17.09392131043435
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.277445637796944,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.303031108041335
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  43.658528156480571,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.461017164422833
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  34.851398864080295,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  4.8291125009368834
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  35.514448365853987,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.8758004534806343
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  34.400271447152633,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.703008540918594
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  64.115678776290636,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  20.200909665953795
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  62.642198164862364,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  8.6625362163507749
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  47.948195576251457,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  14.543180815065471
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  57.402870490681323,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  13.670152331505857
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  33.951714273330154,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  5.727677559466791
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  54.35915744377008,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.247094213176708
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  44.021590805713075,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.441214344246303
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  55.928029681189869,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.8586087751688538
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  66.30931351647682,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.819825297640051
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  71.326769807782469,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.272886241210424
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  56.375819202398091,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.3980873620882246
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  42.383188361173119,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  7.4783364572297826
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  52.03039035892062,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.53231175068904
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  45.404005306715526,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  11.984525338091347
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población \nde 15 a 17 años que trabaja":  41.206646086798621,
+                                               "Porcentaje de adolescentes de 15 a 17 años que trabajan \ny no estudian, respecto de la población total \nde 15 a 17 años":  9.9827334015199014
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "qroo":  56.932993554189778,
+                             "nacional":  51.094653246158281,
+                             "year":  2017
+                         },
+                         {
+                             "qroo":  24.42269557986311,
+                             "nacional":  38.382459819471954,
+                             "year":  2019
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.19 Porcentaje de adolescentes de 15 a 17 años que trabajan y no estudian, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_19_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_19_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.19 Porcentaje de adolescentes de 15 a 17 años que trabajan y no estudian, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_19.xlsx"
+}

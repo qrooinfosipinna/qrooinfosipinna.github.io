@@ -1,0 +1,179 @@
+.tablero-sesa {
+  width: min(1200px, 92%);
+  margin: auto;
+  padding: 40px 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.tablero-hero-sesa {
+  background: linear-gradient(
+    135deg,
+    var(--color-verde),
+    var(--color-verde-medio)
+  );
+  color: white;
+  padding: 40px;
+  border-radius: 26px;
+  margin-bottom: 28px;
+  box-shadow: 0 16px 36px rgba(21, 79, 57, 0.25);
+}
+
+.etiqueta-sesa {
+  color: #000000;
+  display: inline-block;
+  background: rgba(255,255,255,.18);
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-weight: 800;
+  margin-bottom: 14px;
+}
+
+.tablero-hero-sesa h1 {
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.tablero-hero-sesa p {
+  max-width: 900px;
+  margin: 0;
+  opacity: 0.95;
+}
+
+.filtros-tablero-sesa,
+.resumen-cards-sesa {
+  display: grid;
+  gap: 20px;
+  margin-bottom: 26px;
+}
+
+.filtros-tablero-sesa {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.resumen-cards-sesa {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.filtros-tablero-sesa label,
+.selector-estadistica-sesa label {
+  display: block;
+  font-weight: 800;
+  color: var(--color-verde);
+  margin-bottom: 7px;
+}
+
+.filtros-tablero-sesa select,
+.selector-estadistica-sesa select {
+  width: 100%;
+  padding: 13px 15px;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  background: #fff;
+  font-weight: 600;
+}
+
+.card-indicador-sesa {
+  background: white;
+  border-radius: 20px;
+  padding: 24px;
+
+  border-left: 7px solid var(--color-verde);
+
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+}
+
+.card-indicador-sesa span {
+  display: block;
+  color: #666;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.card-indicador-sesa strong {
+  display: block;
+  color: var(--color-verde);
+  font-size: 2rem;
+  font-weight: 800;
+  margin-top: 8px;
+}
+
+.selector-estadistica-sesa,
+.panel-grafica-sesa,
+.panel-tabla-sesa {
+  background: #fff;
+  border-radius: 22px;
+  padding: 26px;
+  margin-bottom: 26px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.panel-grafica-sesa h2,
+.panel-tabla-sesa h2 {
+  color: var(--color-verde);
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.grafica-activa-sesa {
+  width: 85%;
+  margin: 0 auto 26px auto;
+}
+
+#graficaPrincipal {
+  max-height: 400px;
+}
+
+.tabla-responsive {
+  overflow-x: auto;
+}
+
+.panel-tabla-sesa table {
+  width: 100%;
+  min-width: 900px;
+  border-collapse: collapse;
+}
+
+.panel-tabla-sesa th {
+  background: var(--color-verde);
+  color: #fff;
+  padding: 14px;
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+.panel-tabla-sesa td {
+  padding: 13px 14px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 0.9rem;
+}
+
+.panel-tabla-sesa tr:hover {
+  background: #EDF6F1;
+}
+
+.panel-tabla-sesa td:last-child {
+  font-weight: 800;
+  color: var(--color-verde);
+}
+
+@media (max-width: 900px) {
+  .filtros-tablero-sesa,
+  .resumen-cards-sesa {
+    grid-template-columns: 1fr;
+  }
+
+  .grafica-activa-sesa {
+    width: 100%;
+  }
+
+  .tablero-hero-sesa {
+    padding: 30px;
+  }
+}
+
+.descripcion-sesa {
+    color: #000000;
+    font-weight: 700;
+    opacity: 1;
+}

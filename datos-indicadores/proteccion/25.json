@@ -1,0 +1,1362 @@
+{
+    "id":  25,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de adolescentes de 15 a 17 años que no recibe ingresos por su trabajo",
+    "definicion":  "Se refiere al valor relativo de la población de adolescentes de 15 a 17 años que no recibe ningún tipo de \npago monetario o en especie por su trabajo. ",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.2025546030092471,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  36.480123333844546
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.6666499347455073,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.116787351358534
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.7074664902349972,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.850176889305654
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.4341803133910322,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.834763354553
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.329003908148783,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  39.350446977774133
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.2484538854530784,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  21.998276204999005
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  11.129704890163891,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  29.525755760693396
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  22.264897008337421,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  69.57700339086955
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.5733819681836412,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  26.730807379488198
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.9100061445384504,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  15.462615749598225
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.5434778342524087,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  36.837874428837367
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.6189230888371284,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  30.19838660864302
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  24.002635597483717,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  69.863031449637816
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.6442202359770857,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  44.69378516458643
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.9606212328105821,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.637612064051407
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.4049500909571391,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  26.024425461089258
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  11.277237576334917,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  37.677409338491195
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.378118539258133,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  27.787890400459858
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.9508598736127265,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  30.5570462595256
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.0471140594706969,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  17.06790527279864
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  19.097836590434756,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  67.086194336376465
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  13.572890349682782,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  43.146111715850552
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.0784371969491793,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  15.457085309596518
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  10.059530495338651,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  37.864118716441894
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.0199118291057871,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  31.6447779862414
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.2243525730643769,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  23.43061879525267
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  7.314350851361942,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  29.7951582867784
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.15930328737345,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  30.091262038017447
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.4806876630837458,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  30.372816805022463
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.630960413855151,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  28.862509943094906
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.2589822561475366,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  43.655348613322467
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.3861226536753124,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  27.842417616742154
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  15.5654217811439,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  54.435437835369335
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  7.2658448755097682,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  31.762461704221913
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.4395515194561412,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  8.198497544062409
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  0.7353297358044546,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  5.9545757658965206
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.0595461953115208,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  23.435141098594819
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  11.038001336221733,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  41.733006736068582
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.291003591555465,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  13.191432126164296
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.0117000784761352,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  26.70630202140309
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  18.600337419727968,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  59.322017699791651
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.050237503973757,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  28.242361936582387
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.4185866367985263,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  16.146333793392618
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  11.717850287907869,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  38.78529906927988
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.4354799202174187,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  20.656028368794328
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  23.91283933754482,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  70.960101329955677
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.9690703864353312,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  19.932282141268352
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.1652672972685725,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  16.715630777167917
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.454943380303904,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.662867891126357
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.6562324547573093,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  21.393963364892592
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.103987022965935,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  25.253480430785398
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  13.353932170970353,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  40.7873449577566
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.2085702680747361,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  11.470222624025315
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  13.290293660071548,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  50.089442475237689
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  15.213217067431707,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  51.21488359483547
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.2632085533674982,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  13.586673607496097
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.5371142029804368,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  29.058561897702003
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.30780799089542,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  36.484887108521484
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.7039301310043671,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.530937447024918
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.3445084020370581,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  19.311311016074324
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.84939660431826,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.835182080821774
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.7819313002010668,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  27.636662306452102
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.0292971876834418,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  39.5165528113505
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  7.6662058564785722,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  41.619927607461285
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.1291672157069446,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  36.125142577806749
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  13.356920280446637,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  46.020503261882574
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.6158371449962772,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  30.460621612102816
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.1432741222583607,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  12.257273284731212
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.4832590222538229,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  9.8968800448061156
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.3307610486578931,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  17.162815690488983
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  12.188670106741679,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  47.011064808162089
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.8706607647348132,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  11.60958296362023
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.078177588037315,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  29.640828969688034
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  14.655046815393627,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  64.882511683011913
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.02734375,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.417620634690625
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.7875603348200646,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  28.763806929944014
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.4669297349818073,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  22.207902050022152
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.6648048215781834,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  20.950187375515636
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  20.089130542728039,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  66.415409239524479
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  7.47542890375109,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.654201808759268
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.0116487850653977,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  19.151599073309722
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.1608511446599055,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  25.142069378512748
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.4913797935634721,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  20.319334260756225
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.4517527482035355,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  13.431793234208165
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.8681530023505939,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  27.478590977310851
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.758967941621838,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  16.034427111350187
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  14.550765551177244,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  52.836823896237028
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  13.531728022287922,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  43.042030690665136
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.9658316989813227,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  20.053715308863026
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.81375295456535,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.971068805276573
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  7.4018153826034743,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  28.870855552979364
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.16346913152408,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  27.585242441963949
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.4086197176616775,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  11.593199689888138
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.1861095265259554,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.221336168704589
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.7169660865894274,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  24.937084398976982
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.53195742341712,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  25.114854517611025
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.1743433627014355,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  29.085119602360983
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.7893794338453066,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  29.000110322509471
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  11.402688301997834,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  34.055241682360325
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.4638125301138918,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.671234950382129
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.8668757385692207,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  8.6120138379285045
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  0.90304898250122989,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  8.1839687016649982
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.9086113806573612,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  26.269662921348313
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.4974487853171885,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  24.228435768926403
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.2396208350363656,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  10.846029491010631
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  0.84687850832235079,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  4.2404985946474394
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.9032002315543082,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.255821640659725
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.1258286741694032,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  15.569326103795508
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  0.795440197687632,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  8.644395284366162
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.5458068145123489,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  10.209708413401286
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.1958212855535524,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  9.69357099939916
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.6344313674731659,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  36.745353064673054
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.9811888441211869,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.300552381851658
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.2463098665589338,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  6.2818169551403926
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.5134907101320123,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.90189085775846
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.1635592336869793,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  13.645024375500977
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.8591560462212355,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  10.8633968382651
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.2112237665259329,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.90104138269451
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.763881446209508,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  23.586642931680068
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  15.957831728943784,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  47.058513581157627
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.81235022014156,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  31.078876506083297
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.5819011165870294,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  12.270375161707632
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.0979406730695853,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  24.045288812128192
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.4958869051246118,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  10.207590898896004
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.4702808166678281,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  9.6937212863705984
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.6333376187749091,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  12.769554093567251
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.4259636647443958,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  12.309779619375893
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  0.95884860053996257,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  6.5802258183402014
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.4697048161574311,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  15.01637836905925
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.9102385062842941,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  13.916728890384594
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.3904927670079652,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  17.613138349402593
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.4428670478182295,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.740376660664753
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.9288704263218577,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  24.571508063079463
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.6277973787112634,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  7.8650993907317375
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  0.81953519453519463,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  6.4490213263219394
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.4363901436390143,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  9.23195084485407
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  8.45835916511676,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  41.34761086978483
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.348855788212274,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  9.45540134729324
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.091844521576447,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  12.179984484096199
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  13.583162424385375,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  48.463638416223645
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.8663958700176084,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  11.37430644472898
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.1476050781702081,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  27.261113949923356
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.918151463284604,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.109347442680775
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.6071245335493982,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.26512329253149
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  17.862512724250319,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  50.3540871396604
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.6415004117631433,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  23.109888365694935
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.6495082919040533,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  10.092789383650407
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.2949141814971812,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  23.779186825735493
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.467713006170495,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  19.662488337187131
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.01885377309845,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  18.209579822428321
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.8240007229133415,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  21.658699808795411
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.9876639675833407,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  14.373578018351377
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  12.568780344269531,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  41.438688397361275
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.9197714436888358,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  20.658804392029282
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.4858471595603882,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  8.8075939491136062
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.4964635551028569,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  26.226347732952515
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.7096291671544339,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  17.296903902720079
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  2.8619713744986486,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  16.236004859309848
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  1.9153198442988288,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  10.74495949320826
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  5.0733174769007343,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  32.100328176277543
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  3.9614728879656669,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  23.763481940811708
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.0230353407763566,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  22.800400277114928
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  9.4682004923339829,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  42.717728956922038
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  4.7040971168437027,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  17.821719628529912
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población total de 15 a 17 años":  6.055407084804294,
+                                               "Porcentaje de adolescentes que no recibe ingresos por su trabajo, respecto a la población de 15 a 17 años que trabaja":  24.995460323224986
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "qroo":  32.971068805276573,
+                             "nacional":  30.460621612102816,
+                             "year":  2017
+                         },
+                         {
+                             "qroo":  24.045288812128192,
+                             "nacional":  18.671234950382129,
+                             "year":  2019
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.15 Porcentaje de adolescentes de 15 a 17 años que no recibe ingresos por su trabajo, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_15_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_15_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.15 Porcentaje de adolescentes de 15 a 17 años que no recibe ingresos por su trabajo, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_15.xlsx"
+}

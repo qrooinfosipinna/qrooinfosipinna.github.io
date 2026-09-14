@@ -1,0 +1,328 @@
+{
+    "id":  43,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de adolescentes usuarios de TIC que han sufrido ciberacoso en el último año",
+    "definicion":  "Se refiere al valor relativo de personas de 12 a 17 años que usa internet o celular y que ha sufrido \nciberacoso en el último año.",
+    "fuente":  "INEGI. Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH), Módulo sobre Ciberacoso (MOCIBA). 2020 y 2021. Base de datos.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "2020 y 2021",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "2021":  25.799535152924332,
+                                               "2020":  24.362949562573863,
+                                               "2022":  22.605130442396582
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "2021":  26.530838992819746,
+                                               "2020":  27.144150900677811,
+                                               "2022":  27.202703106778696
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "2021":  22.418943090842784,
+                                               "2020":  23.0798274435456,
+                                               "2022":  26.285529113128526
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "2021":  18.816628245505807,
+                                               "2020":  30.594990620088218,
+                                               "2022":  25.950424192816929
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "2021":  33.122354240373014,
+                                               "2020":  27.112357074651715,
+                                               "2022":  31.537317025140581
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+                                               "2021":  27.281278504104588,
+                                               "2020":  20.83306964301125,
+                                               "2022":  26.117080129344128
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "2021":  28.111550091597326,
+                                               "2020":  35.329897655512809,
+                                               "2022":  29.242085441920679
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "2021":  22.332802991928844,
+                                               "2020":  24.151787175096256,
+                                               "2022":  19.424145422565388
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "2021":  33.38912156157371,
+                                               "2020":  21.723699065520226,
+                                               "2022":  25.565435252505402
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "2021":  22.062410845739112,
+                                               "2020":  20.627496628660662,
+                                               "2022":  17.107476338112686
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "2021":  29.329254324004427,
+                                               "2020":  39.48308023004067,
+                                               "2022":  30.796086596879547
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "2021":  24.862370605454764,
+                                               "2020":  26.381906463117446,
+                                               "2022":  21.95779988087385
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "2021":  29.166341687756674,
+                                               "2020":  31.737206078639634,
+                                               "2022":  29.441126980218336
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "2021":  24.21488332102426,
+                                               "2020":  22.199779866421562,
+                                               "2022":  15.833773044882557
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "2021":  26.85231165860446,
+                                               "2020":  25.065496809760841,
+                                               "2022":  23.28989094668615
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "2021":  23.397227200874131,
+                                               "2020":  21.200055361619018,
+                                               "2022":  17.778301434052533
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+                                               "2021":  33.0756400146024,
+                                               "2020":  23.614133058841176,
+                                               "2022":  30.788734812494635
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "2021":  28.885247353735771,
+                                               "2020":  19.425251334397867,
+                                               "2022":  20.128388568776828
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "2021":  30.211072690889296,
+                                               "2020":  25.471763865414438,
+                                               "2022":  28.562387849269417
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "2021":  24.889674848781283,
+                                               "2020":  25.231012098365564,
+                                               "2022":  21.973800556738169
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "2021":  29.343682211604293,
+                                               "2020":  23.413117723644735,
+                                               "2022":  21.491845921773113
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "2021":  25.110074538406323,
+                                               "2020":  20.634905776650335,
+                                               "2022":  17.108620164312622
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "2021":  24.439933581430797,
+                                               "2020":  28.747285445186989,
+                                               "2022":  19.44409170021887
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "2021":  17.490849892046047,
+                                               "2020":  25.812883946722359,
+                                               "2022":  18.906416295219127
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "2021":  23.559248240330891,
+                                               "2020":  23.719341315226323,
+                                               "2022":  20.088756172243524
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "2021":  26.644646582831584,
+                                               "2020":  25.280423367381317,
+                                               "2022":  24.15222781807821
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "2021":  27.281304249377314,
+                                               "2020":  27.678224687933429,
+                                               "2022":  29.252420981601258
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "2021":  31.951813837698712,
+                                               "2020":  22.403788559448937,
+                                               "2022":  29.965634000296319
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "2021":  29.767703408019898,
+                                               "2020":  21.38489401726158,
+                                               "2022":  21.677187632939617
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "2021":  22.234744910701135,
+                                               "2020":  27.765472489213117,
+                                               "2022":  29.915745293951829
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "2021":  20.741745911106591,
+                                               "2020":  27.570100813520032,
+                                               "2022":  23.276628999676845
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "2021":  31.693912527602912,
+                                               "2020":  25.707495336178475,
+                                               "2022":  32.031352278150116
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "2021":  30.336129924725579,
+                                               "2020":  34.218953397552724,
+                                               "2022":  25.150403721217014
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo sobre Ciberacoso (MOCIBA) 2020, 2021 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           }
+                       ],
+    "datosGrafica":  {
+
+                     },
+    "years":  [
+                  2020,
+                  2021,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Violencia y maltrato/5.7 Porcentaje de adolescentes usuarios de TIC que han sufrido ciberacoso en el último año Nacional y Quintana Roo, 2022/T_proteccion_5_7_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_5_7_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Violencia y maltrato/5.7 Porcentaje de adolescentes usuarios de TIC que han sufrido ciberacoso en el último año Nacional y Quintana Roo, 2022/M_proteccion_5_7.xlsx"
+}

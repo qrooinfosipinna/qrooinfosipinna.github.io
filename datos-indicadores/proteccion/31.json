@@ -1,0 +1,151 @@
+{
+    "id":  31,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de adolescentes de 12 a 17 años que realizan trabajo doméstico no remunerado en sus hogares",
+    "definicion":  "Se refiere al valor relativo de la población de adolescentes de 12 a 17 años  que realizan tareas domésticas orientadas a la producción de bienes y servicios para el consumo de los miembros del hogar sin recibir ningún tipo de pago. ",
+    "fuente":  "INEGI. Encuesta Intercensal 2015. Base de datos.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "15 de marzo de 2015",
+    "referencia":  "Baja California Sur\nMunicipios",
+    "nota":  2015,
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Quintana Roo",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  177176,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  5620
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Bacalar",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  4874,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  262
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Benito Juárez",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  83970,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  2485
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Cozumel",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  9012,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  149
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Felipe Carrillo Puerto",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  10672,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  514
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Isla Mujeres",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  2379,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  112
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "José María Morelos",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  4952,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  211
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Lázaro Cárdenas",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  3411,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  149
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Othón P. Blanco",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  23342,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  583
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Puerto Morelos",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  2405,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  96
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Solidaridad",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  27755,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  890
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "Tulum",
+                               "valores":  {
+                                               "Población de 12 a 17 años":  4404,
+                                               "Población de 12 a 17 años en trabajo doméstico no remunerado":  169
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Censo de Población y Vivienda 2020.",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           }
+                       ],
+    "datosGrafica":  {
+
+                     },
+    "years":  [
+                  5620,
+                  4814,
+                  4874,
+                  2428,
+                  2446,
+                  2485,
+                  2056,
+                  9012,
+                  4482,
+                  4530,
+                  5365,
+                  5307,
+                  2379,
+                  1195,
+                  1184,
+                  4952,
+                  2535,
+                  2417,
+                  3411,
+                  1750,
+                  1661,
+                  2405,
+                  1215,
+                  1190,
+                  4404,
+                  2280,
+                  2124
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.20 Porcentaje de adolescentes de 12 a 17 años que realizan trabajo doméstico no remunerado en sus hogares por municipio, 2020/T_proteccion_4_20_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_20_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.20 Porcentaje de adolescentes de 12 a 17 años que realizan trabajo doméstico no remunerado en sus hogares por municipio, 2020/M_proteccion_4_20.xlsx"
+}

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SIESESIPINNA</title>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <!-- Preconnect a fuentes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/contacto.css" />
+</head>
+
+<body>
+
+    <div id="header"></div>
+
+    <main>
+        <section class="contact-section">
+            <div class="container contact-container">
+
+                <h2 class="contact-title">Contáctanos</h2>
+                <p class="contact-desc">
+                    Aviso de Privacidad Sus datos personales serán protegidos en términos de lo dispuesto por la Ley en los Lineamientos de 
+                    Protección de Datos Personales emitidos por el Instituto Federal de Acceso a la Información Pública, publicados en el 
+                    Diario Oficial de la Federación el 30 de septiembre de 2005.
+                </p>
+
+                <form id="formContacto" class="contact-form">
+
+                    <div class="input-group">
+                        <label>Nombre completo</label>
+                        <input type="text" id="nombre" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label>Correo electrónico</label>
+                        <input type="email" id="correo" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label>Teléfono</label>
+                        <input type="text" id="telefono">
+                    </div>
+
+                    <div class="input-group">
+                        <label>Asunto</label>
+                        <input type="text" id="asunto" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label>Mensaje</label>
+                        <textarea id="mensaje" rows="5" required></textarea>
+                    </div>
+
+                    <div id="alertaForm" class="alerta-form"></div>
+
+                    <button type="submit" class="btn-contact">
+                        Enviar mensaje
+                    </button>
+
+                </form>
+
+            </div>
+        </section>
+        <section class="mapa-section">
+            <div class="mapa-container">
+                <h2>Ubicación</h2>
+                <p class="contact-desc">
+                    Si tienes dudas, sugerencias o requieres información, puedes encontrarnos en la ubicacion que se muestra en el mapa.
+                </p>
+
+                <iframe src="https://www.google.com/maps?q=18.5011822,-88.2968673&hl=es&z=17&output=embed"
+                    loading="lazy">
+                </iframe>
+            </div>
+        </section>
+    </main>
+
+    <div id="footer"></div>
+
+    <script src="js/layout.js" defer></script>
+    <script>
+        // ANIMACION AL ENTRAR
+        // =============================
+        window.addEventListener("load", () => {
+            document.querySelector(".contact-container")
+                .classList.add("visible");
+        });
+
+        // =============================
+        // VALIDACION PRO
+        // =============================
+        document.getElementById("formContacto")
+            .addEventListener("submit", function (e) {
+
+                e.preventDefault();
+
+                let nombre = document.getElementById("nombre");
+                let correo = document.getElementById("correo");
+                let telefono = document.getElementById("telefono");
+                let asunto = document.getElementById("asunto");
+                let mensaje = document.getElementById("mensaje");
+                let alerta = document.getElementById("alertaForm");
+
+                let valido = true;
+
+                // limpiar estados
+                [nombre, correo, telefono, asunto, mensaje]
+                    .forEach(c => {
+                        c.classList.remove("error", "ok");
+                    });
+
+                // validar nombre
+                if (nombre.value.trim().length < 4) {
+                    nombre.classList.add("error");
+                    valido = false;
+                } else nombre.classList.add("ok");
+
+                // validar correo
+                if (!correo.value.includes("@")) {
+                    correo.classList.add("error");
+                    valido = false;
+                } else correo.classList.add("ok");
+
+                // validar asunto
+                if (asunto.value.trim().length < 4) {
+                    asunto.classList.add("error");
+                    valido = false;
+                } else asunto.classList.add("ok");
+
+                // validar mensaje
+                if (mensaje.value.trim().length < 10) {
+                    mensaje.classList.add("error");
+                    valido = false;
+                } else mensaje.classList.add("ok");
+
+                // =============================
+                if (valido) {
+
+                    alerta.className = "alerta-form alerta-ok";
+                    alerta.innerHTML = "✔ Mensaje listo para enviarse";
+
+                    let destinatario = "sipinna.qroo.gob@outlook.com";
+
+                    let cuerpo =
+                        "Nombre: " + nombre.value + "%0D%0A" +
+                        "Correo: " + correo.value + "%0D%0A" +
+                        "Teléfono: " + telefono.value + "%0D%0A%0D%0A" +
+                        "Mensaje:%0D%0A" + mensaje.value;
+
+                    setTimeout(() => {
+                        window.location.href =
+                            "mailto:" + destinatario +
+                            "?subject=" + encodeURIComponent(asunto.value) +
+                            "&body=" + cuerpo;
+                    }, 1200);
+
+                } else {
+                    alerta.className = "alerta-form alerta-error";
+                    alerta.innerHTML = "⚠ Completa correctamente los campos obligatorios";
+                }
+
+            });
+    </script>
+</body>
+
+</html>

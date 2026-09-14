@@ -1,0 +1,303 @@
+{
+    "id":  5,
+    "tema":  "al25",
+    "nombre":  "Razón de horas dedicadas por mujeres de 5 a 17 años con respecto a las horas dedicadas por hombres de 5 a 17 años a la realización de actividades domésticas",
+    "definicion":  "Cociente que resulta de dividir el total de horas trabajadas de las niñas, niños y adolescentes de 5 a 17 años, entre la población total de niñas, niños y adolescentes de 5 a 17 años.\n\nEl valor del indicador se refiere al número de horas dedicadas por mujeres por cada 100 horas dedicadas por hombres.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil (MTI) 2017; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019. Base de datos.",
+    "unidad":  "Razón",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "2017 y 2019",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "2017":  160.67135188601949,
+                                               "2019":  128.67647179049152
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "2017":  150.1693590411673,
+                                               "2019":  138.16577104694784
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "2017":  131.75927658591979,
+                                               "2019":  118.49208788999633
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "2017":  127.50648250741492,
+                                               "2019":  123.32029770814185
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "2017":  152.28261671073068,
+                                               "2019":  126.65253423267005
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "2017":  150.39665209453881,
+                                               "2019":  112.13371879239733
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "2017":  148.02329490317814,
+                                               "2019":  102.17779236291466
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "2017":  251.532555163294,
+                                               "2019":  164.07246422479105
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "2017":  179.09468636293334,
+                                               "2019":  118.76129976578929
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "2017":  157.02230904309198,
+                                               "2019":  96.690230651722047
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "2017":  174.57496575596963,
+                                               "2019":  101.61572990764047
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "2017":  186.82215464437891,
+                                               "2019":  125.80228083399683
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "2017":  147.22432059127411,
+                                               "2019":  141.09500555382667
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "2017":  130.54022987873773,
+                                               "2019":  119.69875324810693
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "2017":  186.99730104256247,
+                                               "2019":  131.86762898643588
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "2017":  137.46025797847742,
+                                               "2019":  138.06530309170307
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "2017":  199.86772716467968,
+                                               "2019":  155.35862215397728
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "2017":  145.59166552821588,
+                                               "2019":  118.12258129863005
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "2017":  167.06763626490911,
+                                               "2019":  154.72033073625116
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "2017":  171.61961627662413,
+                                               "2019":  131.67490677955888
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "2017":  146.1366850372568,
+                                               "2019":  119.00267235083287
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "2017":  154.35961297979472,
+                                               "2019":  108.64416183148042
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "2017":  158.72646929111926,
+                                               "2019":  104.81146936111389
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "2017":  153.71685690380542,
+                                               "2019":  117.98517891356954
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "2017":  156.59665826776632,
+                                               "2019":  138.95357466796426
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "2017":  167.03539160888752,
+                                               "2019":  116.65255215444799
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "2017":  148.88266573775869,
+                                               "2019":  101.80254855858112
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "2017":  140.88688927814351,
+                                               "2019":  125.89167804150119
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "2017":  145.48525765746706,
+                                               "2019":  132.18444501818752
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "2017":  138.97695462969858,
+                                               "2019":  113.02039060721603
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "2017":  163.72978370660545,
+                                               "2019":  157.16360571975244
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "2017":  172.62873636030284,
+                                               "2019":  130.81726587869807
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "2017":  176.10553482476149,
+                                               "2019":  141.41878489127092
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil 2017; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019.",
+                               "valores":  {
+
+                                           },
+                               "year":  2017
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2017,
+                             "nacional":  161,
+                             "qroo":  153.71685690380542
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  128.67647179049152,
+                             "qroo":  117.98517891356954
+                         }
+                     ],
+    "years":  [
+                  2017,
+                  2019
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/25 AL 25/1.5 Razón de horas dedicadas por mujeres a la realización de actividades domésticas, Nacional y Quintana Roo, 2017 y 2019/T_1_5_QROO.xlsx",
+    "nombreArchivoExcel":  "T_1_5_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/25 AL 25/1.5 Razón de horas dedicadas por mujeres a la realización de actividades domésticas, Nacional y Quintana Roo, 2017 y 2019/M_1_5.xlsx"
+}

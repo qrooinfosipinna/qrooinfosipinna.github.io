@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>SIESESIPINNA</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+  <!-- Preconnect a fuentes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Bootstrap -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+  >
+
+  <!-- Fuente Montserrat -->
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap"
+  >
+
+  <!-- Estilos propios -->
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/indicadores.css">
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <div id="header"></div>
+
+  <!-- Aquí permanece todo el contenido actual del index -->
+
+  <section class="info-sections">
+  <div class="container info-layout">
+
+    <div class="info-text">
+
+      <h1>Bienvenidos al Sistema Estatal de Información</h1>
+
+      <div class="info-block">
+        <h3>¿Qué es el Sistema Estatal de Información?</h3>
+
+        <p>
+          El Sistema Estatal de Información es una plataforma que permite
+          conocer, consultar y descargar información estadística, cualitativa
+          y cuantitativa; sobre niñas, niños y adolescentes en el estado de
+          Quintana Roo.
+        </p>
+
+        <p>
+          Las cifras presentadas son recopiladas de plataformas de datos
+          abiertos con el objetivo de mostrar un panorama estatal y municipal
+          respecto de la garantía de los derechos de niñas, niños y adolescentes.
+        </p>
+
+        <p>
+          Con el objetivo de que la información sea de utilidad para Dependencias
+          de la administración pública estatal, ayuntamientos, organizaciones,
+          investigadores, ciudadanía, etc.
+        </p>
+      </div>
+
+    </div>
+
+    <div class="info-image">
+      <img
+        src="images/img_ninos.png"
+        alt="Sistema Estatal de Información"
+        loading="lazy"
+        decoding="async"
+      >
+    </div>
+
+  </div>
+</section>
+
+  <section class="hero">
+    <div class="container">
+      <h3>
+        A continuación podrás consultar los datos estadísticos sobre niñas,
+        niños y adolescentes en el estado de Quintana Roo.
+      </h3>
+    </div>
+  </section>
+
+  <section class="stats-overview stats-premium">
+    <div class="container">
+
+      <h2>Indicadores</h2>
+
+      <div class="stats-grid">
+
+           <a
+           href="indicador.html?tema=demografico"
+           class="stat-card c-demografico"
+         >
+           <img
+             src="images/demografico.png"
+             class="card-image"
+             alt="Indicadores demográficos"
+             loading="lazy"
+             decoding="async"
+           >
+        </a>
+
+           <a
+           href="indicador.html?tema=desarrollo"
+           class="stat-card c-desarrollo"
+         >
+           <img
+             src="images/desarrollo.png"
+             class="card-image"
+             alt="Indicadores de desarrollo"
+             loading="lazy"
+             decoding="async"
+           >
+        </a>
+
+           <a
+            href="indicador.html?tema=supervivencia"
+            class="stat-card c-supervivencia"
+          >
+            <img
+              src="images/supervivencia.png"
+              class="card-image"
+              alt="Indicadores de supervivencia"
+             loading="lazy"
+             decoding="async"
+           >
+        </a>
+
+           <a
+            href="indicador.html?tema=proteccion"
+            class="stat-card c-proteccion"
+          >
+            <img
+              src="images/proteccion.png"
+              class="card-image"
+              alt="Indicadores de protección"
+             loading="lazy"
+             decoding="async"
+           >
+        </a>
+
+           <a
+            href="indicador.html?tema=participacion"
+            class="stat-card c-participacion"
+          >
+            <img
+              src="images/participacion.png"
+              class="card-image"
+              alt="Indicadores de participación"
+             loading="lazy"
+             decoding="async"
+           >
+        </a>
+
+           <a
+            href="indicador.html?tema=al25"
+            class="stat-card c-25"
+          >
+            <img
+              src="images/25al25.png"
+              class="card-image"
+              alt="Indicadores 25 al 25"
+             loading="lazy"
+             decoding="async"
+           >
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <div id="footer"></div>
+
+   <!-- Scripts -->
+   <script src="js/layout.js" defer></script>
+ </body>
+</html>

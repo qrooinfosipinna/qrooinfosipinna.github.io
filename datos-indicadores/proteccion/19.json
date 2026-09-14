@@ -1,0 +1,278 @@
+{
+    "id":  19,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de niñas, niños y adolescentes de 5 a 17 años que no estudian, no trabajan y se dedican a los quehaceres del hogar",
+    "definicion":  "Se refiere al valor relativo de la población de 5 a 17 años que no asiste a la escuela, no realiza \nalguna actividad económica y se dedica a tareas orientadas a la producción de bienes y servicios \npara el consumo de los miembros del hogar.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  ""
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2017,
+                             "nacional":  2017,
+                             "qroo":  3.5079637459023476
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  2019,
+                             "qroo":  3.7562966093717209
+                         },
+                         {
+                             "year":  2022,
+                             "nacional":  2022,
+                             "qroo":  3.6220478703925529
+                         }
+                     ],
+    "years":  [
+                  "2013",
+                  "2015",
+                  "2017",
+                  "2019",
+                  "2022"
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.1 Porcentaje de niñas, niños y adolescentes de 5 a 17 años que no estudian, no trabajan y se dedican a los quehaceres del hogar, Nacional y Quintana Roo, 2017, 2019 y 2022/T_PROT~1.XLS",
+    "nombreArchivoExcel":  "T_PROT~1.XLS",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.1 Porcentaje de niñas, niños y adolescentes de 5 a 17 años que no estudian, no trabajan y se dedican a los quehaceres del hogar, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_1.xlsx"
+}

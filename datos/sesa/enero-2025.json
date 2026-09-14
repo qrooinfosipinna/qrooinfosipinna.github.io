@@ -1,0 +1,150 @@
+{
+  "institucion": "SESA",
+  "periodo": {
+    "anio": 2025,
+    "mes": "Enero"
+  },
+  "unidad_conteo": "Casos",
+  "registros": [
+    {
+        "municipio": "Bacalar",
+        "embarazos_adolescentes": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 1,
+            "edad_13": 2,
+            "edad_14": 3,
+            "edad_15": 4,
+            "edad_16": 1,
+            "edad_17": 2
+        },
+        "nacidos_vivos": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 1,
+            "edad_14": 0,
+            "edad_15": 2,
+            "edad_16": 3,
+            "edad_17": 2,
+            "edad_18_mas": 25
+        },
+        "mortalidad_fetal": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 0,
+            "edad_14": 0,
+            "edad_15": 1,
+            "edad_16": 0,
+            "edad_17": 1,
+            "edad_18_mas": 2
+        }
+    },
+    {
+        "municipio": "Benito Juárez",
+        "embarazos_adolescentes": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 1,
+            "edad_13": 2,
+            "edad_14": 5,
+            "edad_15": 8,
+            "edad_16": 10,
+            "edad_17": 12
+        },
+        "nacidos_vivos": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 1,
+            "edad_14": 3,
+            "edad_15": 6,
+            "edad_16": 9,
+            "edad_17": 11,
+            "edad_18_mas": 25
+        },
+        "mortalidad_fetal": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 0,
+            "edad_14": 0,
+            "edad_15": 1,
+            "edad_16": 0,
+            "edad_17": 1,
+            "edad_18_mas": 2
+        }
+    },
+    {
+        "municipio": "Cozumel",
+        "embarazos_adolescentes": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 1,
+            "edad_13": 2,
+            "edad_14": 2,
+            "edad_15": 5,
+            "edad_16": 1,
+            "edad_17": 3
+        },
+        "nacidos_vivos": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 1,
+            "edad_14": 3,
+            "edad_15": 2,
+            "edad_16": 6,
+            "edad_17": 1,
+            "edad_18_mas": 25
+        },
+        "mortalidad_fetal": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 0,
+            "edad_14": 0,
+            "edad_15": 1,
+            "edad_16": 0,
+            "edad_17": 1,
+            "edad_18_mas": 2
+        }
+    },
+    {
+        "municipio": "Felipe Carrillo Puerto",
+        "embarazos_adolescentes": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 1,
+            "edad_13": 2,
+            "edad_14": 1,
+            "edad_15": 1,
+            "edad_16": 1,
+            "edad_17": 3
+        },
+        "nacidos_vivos": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 1,
+            "edad_14": 1,
+            "edad_15": 2,
+            "edad_16": 1,
+            "edad_17": 1,
+            "edad_18_mas": 25
+        },
+        "mortalidad_fetal": {
+            "edad_10": 0,
+            "edad_11": 0,
+            "edad_12": 0,
+            "edad_13": 0,
+            "edad_14": 0,
+            "edad_15": 1,
+            "edad_16": 2,
+            "edad_17": 1,
+            "edad_18_mas": 2
+        }
+    }
+  ]
+}

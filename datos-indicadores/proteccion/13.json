@@ -1,0 +1,271 @@
+{
+    "id":  13,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de centros de asistencia social con características constructivas adecuadas que atienden a niñas, niños y adolescentes",
+    "definicion":  "Es el cociente que resulta de dividir el número de centros de asistencia social con características constructivas adecuadas que \natienden a niñas, niños y adolescentes, entre el número total de centros de asistencia social que atienden a niñas, niños y \nadolescentes, multiplicado por cien. ",
+    "fuente":  "INEGI. Tabulados del Cuestionario para Alojamientos de Asistencia Social (Censo de Población y Vivienda 2020).",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Censo de Población y Vivienda 2020: 15 de marzo",
+    "referencia":  "Nacional\nEntidad federativa",
+    "nota":  2020,
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Tabulados del Cuestionario para Alojamientos de Asistencia Social",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           },
+                           {
+                               "municipio":  "…........................2020.",
+                               "valores":  {
+
+                                           },
+                               "year":  2020
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2020,
+                             "nacional":  2020,
+                             "qroo":  80.3
+                         }
+                     ],
+    "years":  [
+                  2020
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Centros de asistencia social/1.1 Porcentaje de centros de asistencia social con características constructivas adecuadas/T_proteccion_1_1_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_1_1_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Centros de asistencia social/1.1 Porcentaje de centros de asistencia social con características constructivas adecuadas/M_proteccion_1_1.xlsx"
+}

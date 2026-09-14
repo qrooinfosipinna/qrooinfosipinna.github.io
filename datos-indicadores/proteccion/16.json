@@ -1,0 +1,522 @@
+{
+    "id":  16,
+    "tema":  "proteccion",
+    "nombre":  "Número de adolescentes privadas(os) de la libertad en centros de internamiento",
+    "definicion":  "\nEs la suma de adolescentes privadas(os) de la libertad al cierre del año en los centros de internamiento estatales.\n\n\n",
+    "fuente":  "INEGI. Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatales 2015-2020. Consulta interactiva de datos.",
+    "unidad":  "Número",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Serie anual de 2014 a 2019",
+    "nota":  "Censo",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "2014":  4365,
+                                               "2017":  1624,
+                                               "2012":  4959,
+                                               "2015":  3844,
+                                               "2018":  1587,
+                                               "2013":  4691,
+                                               "2016":  1913,
+                                               "2019":  1432
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "2014":  60,
+                                               "2017":  25,
+                                               "2012":  70,
+                                               "2015":  52,
+                                               "2018":  28,
+                                               "2013":  48,
+                                               "2016":  22,
+                                               "2019":  40
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "2014":  257,
+                                               "2017":  75,
+                                               "2012":  421,
+                                               "2015":  217,
+                                               "2018":  62,
+                                               "2013":  311,
+                                               "2016":  100,
+                                               "2019":  49
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "2014":  23,
+                                               "2017":  8,
+                                               "2012":  44,
+                                               "2015":  20,
+                                               "2018":  9,
+                                               "2013":  42,
+                                               "2016":  14,
+                                               "2019":  3
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "2014":  18,
+                                               "2017":  23,
+                                               "2012":  16,
+                                               "2015":  21,
+                                               "2018":  27,
+                                               "2013":  12,
+                                               "2016":  18,
+                                               "2019":  13
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+                                               "2014":  82,
+                                               "2017":  37,
+                                               "2012":  95,
+                                               "2015":  72,
+                                               "2018":  31,
+                                               "2013":  83,
+                                               "2016":  46,
+                                               "2019":  52
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "2014":  58,
+                                               "2017":  7,
+                                               "2012":  86,
+                                               "2015":  42,
+                                               "2018":  11,
+                                               "2013":  116,
+                                               "2016":  12,
+                                               "2019":  6
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "2014":  95,
+                                               "2017":  15,
+                                               "2012":  161,
+                                               "2015":  68,
+                                               "2018":  15,
+                                               "2013":  137,
+                                               "2016":  13,
+                                               "2019":  23
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "2014":  534,
+                                               "2017":  117,
+                                               "2012":  205,
+                                               "2015":  452,
+                                               "2018":  118,
+                                               "2013":  531,
+                                               "2016":  113,
+                                               "2019":  78
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "2014":  465,
+                                               "2017":  153,
+                                               "2012":  559,
+                                               "2015":  358,
+                                               "2018":  265,
+                                               "2013":  514,
+                                               "2016":  148,
+                                               "2019":  110
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "2014":  136,
+                                               "2017":  25,
+                                               "2012":  118,
+                                               "2015":  151,
+                                               "2018":  10,
+                                               "2013":  181,
+                                               "2016":  22,
+                                               "2019":  19
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "2014":  109,
+                                               "2017":  37,
+                                               "2012":  82,
+                                               "2015":  137,
+                                               "2018":  31,
+                                               "2013":  85,
+                                               "2016":  105,
+                                               "2019":  26
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "2014":  66,
+                                               "2017":  52,
+                                               "2012":  125,
+                                               "2015":  49,
+                                               "2018":  66,
+                                               "2013":  102,
+                                               "2016":  42,
+                                               "2019":  59
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "2014":  75,
+                                               "2017":  23,
+                                               "2012":  113,
+                                               "2015":  54,
+                                               "2018":  26,
+                                               "2013":  95,
+                                               "2016":  23,
+                                               "2019":  23
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "2014":  379,
+                                               "2017":  148,
+                                               "2012":  502,
+                                               "2015":  262,
+                                               "2018":  80,
+                                               "2013":  397,
+                                               "2016":  218,
+                                               "2019":  47
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "2014":  387,
+                                               "2017":  149,
+                                               "2012":  268,
+                                               "2015":  364,
+                                               "2018":  177,
+                                               "2013":  349,
+                                               "2016":  134,
+                                               "2019":  188
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+                                               "2014":  46,
+                                               "2017":  2,
+                                               "2012":  27,
+                                               "2015":  30,
+                                               "2018":  2,
+                                               "2013":  26,
+                                               "2016":  10,
+                                               "2019":  3
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "2014":  153,
+                                               "2017":  45,
+                                               "2012":  124,
+                                               "2015":  133,
+                                               "2018":  34,
+                                               "2013":  130,
+                                               "2016":  66,
+                                               "2019":  55
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "2014":  126,
+                                               "2017":  17,
+                                               "2012":  127,
+                                               "2015":  99,
+                                               "2018":  14,
+                                               "2013":  115,
+                                               "2016":  55,
+                                               "2019":  15
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "2014":  198,
+                                               "2017":  65,
+                                               "2012":  299,
+                                               "2015":  162,
+                                               "2018":  26,
+                                               "2013":  194,
+                                               "2016":  101,
+                                               "2019":  37
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "2014":  30,
+                                               "2017":  45,
+                                               "2012":  24,
+                                               "2015":  44,
+                                               "2018":  38,
+                                               "2013":  44,
+                                               "2016":  52,
+                                               "2019":  25
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "2014":  72,
+                                               "2017":  38,
+                                               "2012":  98,
+                                               "2015":  64,
+                                               "2018":  29,
+                                               "2013":  92,
+                                               "2016":  58,
+                                               "2019":  20
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "2014":  37,
+                                               "2017":  43,
+                                               "2012":  28,
+                                               "2015":  34,
+                                               "2018":  32,
+                                               "2013":  41,
+                                               "2016":  46,
+                                               "2019":  26
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "2014":  17,
+                                               "2017":  7,
+                                               "2012":  35,
+                                               "2015":  23,
+                                               "2018":  14,
+                                               "2013":  18,
+                                               "2016":  16,
+                                               "2019":  18
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "2014":  39,
+                                               "2017":  14,
+                                               "2012":  79,
+                                               "2015":  44,
+                                               "2018":  9,
+                                               "2013":  58,
+                                               "2016":  16,
+                                               "2019":  18
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "2014":  69,
+                                               "2017":  12,
+                                               "2012":  99,
+                                               "2015":  56,
+                                               "2018":  15,
+                                               "2013":  81,
+                                               "2016":  7,
+                                               "2019":  12
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "2014":  393,
+                                               "2017":  207,
+                                               "2012":  604,
+                                               "2015":  415,
+                                               "2018":  191,
+                                               "2013":  476,
+                                               "2016":  235,
+                                               "2019":  224
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "2014":  93,
+                                               "2017":  61,
+                                               "2012":  215,
+                                               "2015":  86,
+                                               "2018":  48,
+                                               "2013":  121,
+                                               "2016":  52,
+                                               "2019":  56
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "2014":  181,
+                                               "2017":  24,
+                                               "2012":  71,
+                                               "2015":  194,
+                                               "2018":  27,
+                                               "2013":  86,
+                                               "2016":  44,
+                                               "2019":  28
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "2014":  27,
+                                               "2017":  6,
+                                               "2012":  40,
+                                               "2015":  15,
+                                               "2018":  6,
+                                               "2013":  35,
+                                               "2016":  8,
+                                               "2019":  6
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "2014":  59,
+                                               "2017":  40,
+                                               "2012":  109,
+                                               "2015":  46,
+                                               "2018":  38,
+                                               "2013":  85,
+                                               "2016":  42,
+                                               "2019":  32
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "2014":  15,
+                                               "2017":  21,
+                                               "2012":  34,
+                                               "2015":  25,
+                                               "2018":  34,
+                                               "2013":  23,
+                                               "2016":  23,
+                                               "2019":  34
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "2014":  66,
+                                               "2017":  83,
+                                               "2012":  81,
+                                               "2015":  55,
+                                               "2018":  74,
+                                               "2013":  63,
+                                               "2016":  52,
+                                               "2019":  87
+                                           },
+                               "year":  2012
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Censo Nacional de Gobierno, Seguridad Pública y Sistema Penitenciario Estatales 2013-2020. Consulta interactiva de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2012
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2015,
+                             "nacional":  2015,
+                             "qroo":  3844
+                         },
+                         {
+                             "year":  2016,
+                             "nacional":  2016,
+                             "qroo":  1913
+                         },
+                         {
+                             "year":  2017,
+                             "nacional":  2017,
+                             "qroo":  1624
+                         },
+                         {
+                             "year":  2018,
+                             "nacional":  2018,
+                             "qroo":  1587
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  2019,
+                             "qroo":  1432
+                         }
+                     ],
+    "years":  [
+                  2012,
+                  2013,
+                  2014,
+                  2015,
+                  2016,
+                  2017,
+                  2018,
+                  2019
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Justicia para adolescentes/3.2 Número de adolescentes privadas(os) de la libertad en centros de internamiento, Nacional y Quintana Roo, 2015 a 2019/T_proteccion_3_2_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_3_2_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Justicia para adolescentes/3.2 Número de adolescentes privadas(os) de la libertad en centros de internamiento, Nacional y Quintana Roo, 2015 a 2019/M_proteccion_3_2.xlsx"
+}

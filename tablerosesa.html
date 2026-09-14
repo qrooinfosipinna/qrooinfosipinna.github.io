@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tablero SESA | SIESESIPINNA</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <!-- Preconnect a fuentes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/tablero-sesa.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+</head>
+
+<body>
+
+  
+  <div id="header"></div>
+
+  <main class="tablero-sesa">
+
+    <section class="tablero-hero-sesa">
+      <span class="etiqueta-sesa">SESA</span>
+
+     <p class="descripcion-sesa">
+        Tablero estadístico mensual sobre embarazos adolescentes, nacidos vivos
+        y mortalidad fetal/bebés nacidos muertos, clasificados por municipio
+        y edad de la madre.
+    </p>
+    </section>
+
+    <section class="filtros-tablero-sesa">
+      <div>
+        <label for="filtroMes">Mes reportado</label>
+        <select id="filtroMes">
+          <option value="todos">Todos los meses</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="filtroMunicipio">Municipio</label>
+        <select id="filtroMunicipio">
+          <option value="todos">Todos los municipios</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="resumen-cards-sesa">
+      <article class="card-indicador-sesa">
+        <span>Embarazos adolescentes</span>
+        <strong id="totalEmbarazos">0</strong>
+      </article>
+
+      <article class="card-indicador-sesa">
+        <span>Nacidos vivos</span>
+        <strong id="totalNacidosVivos">0</strong>
+      </article>
+
+      <article class="card-indicador-sesa">
+        <span>Mortalidad fetal</span>
+        <strong id="totalMortalidadFetal">0</strong>
+      </article>
+
+      <article class="card-indicador-sesa">
+        <span>Total general</span>
+        <strong id="totalGeneral">0</strong>
+      </article>
+    </section>
+
+    <section class="selector-estadistica-sesa">
+      <div>
+        <label for="selectorGrafica">Selecciona la estadística a visualizar</label>
+        <select id="selectorGrafica">
+          <option value="municipio">Totales por municipio</option>
+          <option value="tipo">Distribución por tipo de reporte</option>
+          <option value="edad">Distribución por edad de la madre</option>
+          <option value="rangoEdad">Distribución por rango de edad</option>
+          <option value="comparativo">Comparativo por municipio y tipo</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="panel-grafica-sesa grafica-activa-sesa">
+      <h2 id="tituloGrafica">Totales por municipio</h2>
+      <canvas id="graficaPrincipal"></canvas>
+    </section>
+
+    <section class="panel-tabla-sesa">
+      <h2>Detalle estadístico reportado</h2>
+
+      <div class="tabla-responsive">
+        <table>
+            <thead>
+            <tr>
+                <th>Municipio</th>
+                <th>Mes</th>
+                <th>Tipo de reporte</th>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18+</th>
+                <th>Total</th>
+            </tr>
+            </thead>
+          <tbody id="tablaReportes"></tbody>
+        </table>
+      </div>
+    </section>
+
+    
+  </main>
+
+   <div id="footer"></div>
+
+    <script src="js/tablero-base.js" defer></script>
+    <script src="js/tablero-sesa.js" defer></script>
+    <script src="js/layout.js" defer></script>
+
+</body>
+</html>

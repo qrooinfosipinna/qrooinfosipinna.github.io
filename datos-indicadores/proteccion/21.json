@@ -1,0 +1,1362 @@
+{
+    "id":  21,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela",
+    "definicion":  "Se refiere al valor relativo de los adolescentes de 12 a 17 años que no reciben ningún tipo de pago por sus labores y que no asisten a la escuela.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  11.036581714295794,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.7377452014103993
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.20772094846169,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.65115652259139467
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.8652535957607872,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.15026369326691807
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.3878905802907178,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.378187765114734
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.5758118128355925,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.6821811178429562
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.0538314492719421,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.39774264145375859
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.8713818519060865,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.288090966584494
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  22.930846891526024,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.2208228016735436
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  33.039423152284662,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.8826844834285359
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.8221781834488144,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.23581370837906179
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  19.28347805540788,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  3.1692020930616365
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.17493277462317,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.548025055173496
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  29.395184568886474,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  7.2609530839757408
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  12.095880288195087,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.717377049180328
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.4462705742612663,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.99618132340144883
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.7019088102017088,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.86444063124138526
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  11.335303833782492,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.4179386234124105
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.2760549761723876,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.0037874276458398
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.9601990049751246,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.6638629759902126
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.0286787974683538,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.56182258117977224
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  21.185429768391721,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  4.6493607129019763
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  12.667118097721767,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  3.0328528915609376
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.9044464518719262,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.328791669484076
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.6720630328398638,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.84837171870721118
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  10.122416967878333,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.7197928253615127
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.1450851528748478,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.3657014158844088
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.1158749722182932,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.77643227529614511
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.1565709343807429,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.0549440828031582
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.3610467856630537,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.81128904524556922
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.9517859508146049,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.1641285518525222
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  9.3308699787810045,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.1543152744808298
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.2870694766345068,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.3414181953017645
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  14.088390535962816,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.8477552363663388
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  9.19403744719052,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.4175183103142939
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.7227145137321813,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.19972689102441391
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.2002449479485608,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.098842134990115793
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.5910790366055125,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.36345895840956216
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  11.101280316435933,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.1375315669218744
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.4598334955130281,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.36399415334391189
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.3716341559390635,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.30176358554502958
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  23.425832667662281,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.02796877515848
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  22.769542399410735,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.2839727086965054
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.42980715816205,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.35537118526667483
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  16.686752572541021,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  3.4249344743439112
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.5562573396388109,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.3887572350854065
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  23.796261582132718,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.6043526339910779
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.8227427193335037,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.46030090868464169
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.7389157214956312,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.56452749484912
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.8649522520490263,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.45078438443272
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.8574140877159682,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.6167247114526302
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.9128473862806583,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.9202957364805231
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.3623478662763837,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.0195856649601143
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.8058964950018979,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.317417715630228
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  15.405375264860041,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.9631377427900341
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.8426045612418083,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.0517541754905744
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.8410291361390358,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.7064308964546494
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.8852402689834582,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.70785488679635145
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  9.6548605391088067,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.7920362604058313
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.77734105920013,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.695924209780716
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.30600709468678128,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.045940686769374829
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.5094630017074282,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.86418262883525832
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.5861967981257328,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.59628164082953217
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.6336077997624021,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.572908592983
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  15.731357245705585,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.8743068189889256
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.5363952747414338,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.3000520020800832
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  11.18100405752563,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.4847404814751579
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.9497939826799762,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.3203531426238859
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.53248136315228967,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.059689488995143161
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.84279853766081547,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.0800642635015655
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  19.927943103125585,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  4.2179174837086775
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.8981722438232862,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.18531969141282353
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.3131379291523393,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.70411098737936162
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  36.035280095351609,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.6569515150517242
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  11.023091576453096,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.0660166473832606
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.1208500740114191,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.75122755111383088
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.8227686185332574,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.4306767737426629
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  20.601372892042377,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.01335511643587
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.6054074142896972,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.2666260048083104
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.5064327233893109,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.41365572535247092
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.6821699559121273,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.29615175087317758
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.4364506850699774,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.1176582829700692
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.9603517549844591,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.36760206723211175
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.4341170707812889,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.2308780494570266
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.68735100144430716,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.072828109068851135
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  24.967106224964184,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.0000292776043889
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.8926643083224715,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.9825997169567795
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.5304771362368186,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.61409164684171913
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.9386326194398684,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.84887119948473189
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  10.648875418137463,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.7186917421067545
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.6998752665674162,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.38255852404246343
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.4421614912339029,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.46456808330516408
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.7648012976480132,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.66579991532313965
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.4870798999282702,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.21397966941399779
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.5698794135507939,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.53343185294651418
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  12.920787266572987,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.647383342272623
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.7638681520615593,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.1925448306886239
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.855936078030088,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.6857150504536818
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.5839247140885737,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.62037383166514259
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.58114591052693165,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.091651698939546777
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.1079881656804735,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.15133997426979065
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.8222284045068857,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.25150712283531085
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.4071581523401651,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.10745968801649272
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.8837039114169061,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.7407127755964966
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.782257526199853,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.28123025068464297
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.7129569190600522,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.37974231771298045
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.8355614732713175,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.90540334420103341
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.1298281376304784,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.18400995961497588
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.513804085798244,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.0679972707944736
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  10.908668370904021,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.0904529228195976
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.7602228828796753,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.6283407831869704
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.0157130386477262,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.25727511217802629
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.7757700845048483,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.33854766023475608
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  11.649261793302125,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.843555711183213
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.962629865095364,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  2.5351830269308371
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.6245296069957673,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.4710648767935606
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.6274559406358042,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.16170316159005316
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.62563783999645028,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.076245065700535339
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.2575965152632873,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.22007745742915105
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.3840226450699795,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.23676253779454762
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.33882278780237962,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.045714366714271037
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.7672007540056551,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.16169484948006124
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.6804797005690715,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.29377007150630607
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.8959571056182316,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.61591621305898725
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.5760996764645143,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.47268095173104047
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.4792214250195355,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.39143772046411729
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.9413222872258427,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.2876814437807746
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.4417177914110431,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.2110882271796945
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.0160377653421702,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.080908163011277345
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  15.4893238434164,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.8270159089955087
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  9.2679245283018865,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.273370179495422
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.6983695652173911,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.15808063015455767
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.9347442680776012,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.53310778773083178
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  22.084557197455119,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  5.3238212534566491
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.1254730315050381,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.68658013082583813
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.6957377049180327,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.18327692375732002
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.1476869917488308,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.33204843025371078
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.606102523684676,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.5266511257643243
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  22.840109045512065,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  6.2565283642158409
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  4.5801233405698261,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.67583274273564853
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.8885841571324287,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.488913985087777
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  8.7373245488398741,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.8429655407227914
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.8466592810482476,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.3268922883293077
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  6.7165713815654176,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.810309237426065
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.5463920807206288,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.60488749092668759
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.5047700838265221,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.1395782174857218
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  16.041627322154522,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  3.5292779839445081
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  9.5299602831980668,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.729413313110675
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.9145196873948322,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.19632504064541856
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.4438363304665103,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.13442882309263943
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.5517837199991571,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.38502871023330643
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  1.5083113697450483,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.17464662762800873
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  0.87937443917446478,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.10555210211781216
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  3.0373898411430855,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.39316883001816333
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  2.0462996281636081,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.21142435073143406
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.5740318906605912,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.980786506308408
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  12.42722153288155,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.9000258186185917
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  7.3047973156796955,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  1.4167619382640049
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto \na la población ocupada de 12 a 17 años":  5.0975753991720874,
+                                               "Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, respecto\n a la población total de 12 a 17 años":  0.96095426548869867
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "qroo":  7.9386326194398684,
+                             "nacional":  8.9497939826799762,
+                             "year":  2017
+                         },
+                         {
+                             "qroo":  0.62563783999645028,
+                             "nacional":  4.5839247140885737,
+                             "year":  2019
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.11 Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_11_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_11_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.11 Porcentaje de adolescentes de 12 a 17 años que realizan actividades sin pago y no asisten a la escuela, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_11.xlsx"
+}

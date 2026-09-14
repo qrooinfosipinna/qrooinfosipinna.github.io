@@ -1,0 +1,227 @@
+.tablero-fiscalia {
+  width: min(1200px, 92%);
+  margin: auto;
+  padding: 40px 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.tablero-hero-fiscalia {
+  background: linear-gradient(135deg, var(--color-azul), var(--color-azul-claro));
+  color: #fff;
+  padding: 40px;
+  border-radius: 26px;
+  margin-bottom: 28px;
+  box-shadow: 0 16px 36px rgba(0, 79, 115, 0.28);
+}
+
+.etiqueta-fiscalia {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.18);
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-weight: 800;
+  margin-bottom: 14px;
+}
+
+.tablero-hero-fiscalia h1 {
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.descripcion-fiscalia {
+  max-width: 900px;
+  margin: 0;
+  color: #ffffff;
+  font-weight: 600;
+  opacity: 1;
+}
+
+.filtros-tablero-fiscalia {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-bottom: 26px;
+}
+
+.filtros-tablero-fiscalia label,
+.selector-estadistica-fiscalia label {
+  display: block;
+  font-weight: 800;
+  color: var(--color-azul);
+  margin-bottom: 7px;
+}
+
+.filtros-tablero-fiscalia select,
+.selector-estadistica-fiscalia select {
+  width: 100%;
+  padding: 13px 15px;
+  border: 1px solid #d5dce1;
+  border-radius: 14px;
+  background: #fff;
+  font-weight: 600;
+}
+
+.resumen-cards-fiscalia {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-bottom: 26px;
+}
+
+.card-indicador-fiscalia {
+  background: #fff;
+  border-radius: 20px;
+  padding: 24px;
+  border-left: 7px solid var(--color-azul-claro);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.card-indicador-fiscalia span {
+  display: block;
+  color: #666;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.card-indicador-fiscalia strong {
+  display: block;
+  color: var(--color-azul);
+  font-size: 2rem;
+  font-weight: 800;
+  margin-top: 8px;
+}
+
+.selector-estadistica-fiscalia,
+.panel-grafica-fiscalia,
+.panel-tabla-fiscalia {
+  background: #fff;
+  border-radius: 22px;
+  padding: 26px;
+  margin-bottom: 26px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.panel-grafica-fiscalia h2,
+.panel-tabla-fiscalia h2 {
+  color: var(--color-azul);
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.grafica-activa-fiscalia {
+  width: 85%;
+  margin: 0 auto 26px auto;
+}
+
+#graficaPrincipal {
+  max-height: 400px;
+}
+
+.tabla-responsive {
+  overflow-x: auto;
+}
+
+.panel-tabla-fiscalia table {
+  width: 100%;
+  min-width: 1000px;
+  border-collapse: collapse;
+}
+
+.panel-tabla-fiscalia th {
+  background: var(--color-azul);
+  color: #fff;
+  padding: 14px;
+  font-size: 0.88rem;
+  text-align: left;
+}
+
+.panel-tabla-fiscalia td {
+  padding: 13px 14px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 0.88rem;
+}
+
+.panel-tabla-fiscalia tr:hover {
+  background: #D9EEF7;
+}
+
+.panel-tabla-fiscalia td:last-child {
+  font-weight: 800;
+  color: var(--color-azul);
+}
+
+@media (max-width: 900px) {
+  .filtros-tablero-fiscalia,
+  .resumen-cards-fiscalia {
+    grid-template-columns: 1fr;
+  }
+
+  .grafica-activa-fiscalia {
+    width: 100%;
+  }
+
+  .tablero-hero-fiscalia {
+    padding: 30px;
+  }
+}
+
+.tabla-fiscalia-matriz {
+  width: 100%;
+  min-width: 1800px;
+  border-collapse: collapse;
+}
+
+.tabla-fiscalia-matriz th,
+.tabla-fiscalia-matriz td {
+  border: 1px solid #d8e4ea;
+  padding: 10px;
+  font-size: 0.82rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.tabla-fiscalia-matriz th {
+  background: var(--color-azul);
+  color: white;
+  font-weight: 800;
+}
+
+.tabla-fiscalia-matriz .col-delito {
+  min-width: 360px;
+  text-align: left;
+  font-weight: 800;
+  background: #f3f6f8;
+  color: #111;
+  position: sticky;
+  left: 0;
+  z-index: 2;
+}
+
+.tabla-fiscalia-matriz thead .col-delito {
+  background: var(--color-azul);
+  color: white;
+  text-align: center;
+  z-index: 4;
+}
+
+.tabla-fiscalia-matriz .grupo-municipio {
+  background: var(--color-azul);
+}
+
+.tabla-fiscalia-matriz .grupo-sexo {
+  background: var(--color-azul-claro);
+}
+
+.tabla-fiscalia-matriz .grupo-edad {
+  background: #d9eef7;
+  color: var(--color-azul);
+}
+
+.tabla-fiscalia-matriz tbody tr:hover td {
+  background: #eef8fc;
+}
+
+.tabla-fiscalia-matriz tbody tr:hover .col-delito {
+  background: #d9eef7;
+}

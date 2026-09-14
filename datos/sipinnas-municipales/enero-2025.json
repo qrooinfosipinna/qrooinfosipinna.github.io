@@ -1,0 +1,233 @@
+{
+  "institucion": "SIPINNAS Municipales",
+  "periodo": {
+    "anio": 2025,
+    "mes": "Enero"
+  },
+  "unidad_conteo": "Beneficiarios",
+  "registros": [
+    {
+      "municipio": "Bacalar",
+      "fecha_reporte": "2026-01-01",
+      "responsable": "Juan Pérez",
+      "actividades": [
+        {
+          "nombre": "Feria de la paz",
+          "fecha": "2026-01-11",
+          "mujeres": 127,
+          "hombres": 160,
+          "total": 287
+        },
+        {
+          "nombre": "Congreso de educación sexual temprana",
+          "fecha": "2026-01-15",
+          "mujeres": 137,
+          "hombres": 100,
+          "total": 237
+        },
+        {
+          "nombre": "Unidos por la igualdad",
+          "fecha": "2026-01-17",
+          "mujeres": 50,
+          "hombres": 170,
+          "total": 220
+        }
+      ],
+      "totales": {
+        "actividades_realizadas": 3,
+        "mujeres": 314,
+        "hombres": 430,
+        "global": 744
+      },
+      "clasificacion": {
+        "mujeres": {
+          "edad_0_5": 25,
+          "edad_6_10": 27,
+          "edad_11_14": 100,
+          "edad_15_17": 87,
+          "edad_18_mas": 55,
+          "afrodescendiente": 5,
+          "discapacidad": 15
+        },
+        "hombres": {
+          "edad_0_5": 15,
+          "edad_6_10": 33,
+          "edad_11_14": 110,
+          "edad_15_17": 160,
+          "edad_18_mas": 91,
+          "afrodescendiente": 4,
+          "discapacidad": 17
+        }
+      }
+    },
+    {
+      "municipio": "Benito Juárez",
+      "fecha_reporte": "2026-01-04",
+      "responsable": "Hector Basurto",
+      "actividades": [
+        {
+          "nombre": "Taller de embarazo adolescente",
+          "fecha": "2026-01-11",
+          "mujeres": 100,
+          "hombres": 160,
+          "total": 260
+        },
+        {
+          "nombre": "Feria de la paz",
+          "fecha": "2026-01-15",
+          "mujeres": 130,
+          "hombres": 200,
+          "total": 330
+        },
+        {
+          "nombre": "Huellitas por la paz",
+          "fecha": "2026-01-20",
+          "mujeres": 173,
+          "hombres": 190,
+          "total": 363
+        },
+        {
+          "nombre": "Taller de derechos de niñas, niños y adolescentes",
+          "fecha": "2026-01-27",
+          "mujeres": 180,
+          "hombres": 193,
+          "total": 373
+        }
+      ],
+      "totales": {
+        "actividades_realizadas": 4,
+        "mujeres": 583,
+        "hombres": 743,
+        "global": 1326
+      },
+      "clasificacion": {
+        "mujeres": {
+          "edad_0_5": 50,
+          "edad_6_10": 75,
+          "edad_11_14": 125,
+          "edad_15_17": 180,
+          "edad_18_mas": 120,
+          "afrodescendiente": 25,
+          "discapacidad": 8
+        },
+        "hombres": {
+          "edad_0_5": 7,
+          "edad_6_10": 73,
+          "edad_11_14": 220,
+          "edad_15_17": 230,
+          "edad_18_mas": 170,
+          "afrodescendiente": 33,
+          "discapacidad": 10
+        }
+      }
+    },
+    {
+      "municipio": "Cozumel",
+      "fecha_reporte": "2026-01-06",
+      "responsable": "David Mendez",
+      "actividades": [
+        {
+          "nombre": "Feria de la paz",
+          "fecha": "2026-01-11",
+          "mujeres": 140,
+          "hombres": 135,
+          "total": 275
+        },
+        {
+          "nombre": "Concientización de embarazo adolescente",
+          "fecha": "2026-01-15",
+          "mujeres": 200,
+          "hombres": 180,
+          "total": 380
+        },
+        {
+          "nombre": "Taller de derechos adolescente",
+          "fecha": "2026-01-22",
+          "mujeres": 197,
+          "hombres": 236,
+          "total": 433
+        },
+        {
+          "nombre": "Curso de derecho infantil",
+          "fecha": "2026-01-27",
+          "mujeres": 168,
+          "hombres": 199,
+          "total": 367
+        }
+      ],
+      "totales": {
+        "actividades_realizadas": 4,
+        "mujeres": 705,
+        "hombres": 750,
+        "global": 1455
+      },
+      "clasificacion": {
+        "mujeres": {
+          "edad_0_5": 35,
+          "edad_6_10": 67,
+          "edad_11_14": 165,
+          "edad_15_17": 215,
+          "edad_18_mas": 171,
+          "afrodescendiente": 25,
+          "discapacidad": 27
+        },
+        "hombres": {
+          "edad_0_5": 40,
+          "edad_6_10": 77,
+          "edad_11_14": 210,
+          "edad_15_17": 249,
+          "edad_18_mas": 100,
+          "afrodescendiente": 33,
+          "discapacidad": 41
+        }
+      }
+    },
+    {
+      "municipio": "Felipe Carrillo Puerto",
+      "fecha_reporte": "2026-01-07",
+      "responsable": "Pedro Fernandez",
+      "actividades": [
+        {
+          "nombre": "Feria de la paz",
+          "fecha": "2026-01-11",
+          "mujeres": 230,
+          "hombres": 189,
+          "total": 419
+        },
+        {
+          "nombre": "Programa de desarrollo infantil y sus derechos",
+          "fecha": "2026-01-22",
+          "mujeres": 460,
+          "hombres": 530,
+          "total": 990
+        }
+      ],
+      "totales": {
+        "actividades_realizadas": 2,
+        "mujeres": 690,
+        "hombres": 719,
+        "global": 1409
+      },
+      "clasificacion": {
+        "mujeres": {
+          "edad_0_5": 35,
+          "edad_6_10": 75,
+          "edad_11_14": 180,
+          "edad_15_17": 230,
+          "edad_18_mas": 150,
+          "afrodescendiente": 2,
+          "discapacidad": 18
+        },
+        "hombres": {
+          "edad_0_5": 45,
+          "edad_6_10": 85,
+          "edad_11_14": 187,
+          "edad_15_17": 272,
+          "edad_18_mas": 120,
+          "afrodescendiente": 1,
+          "discapacidad": 9
+        }
+      }
+    }
+  ]
+}

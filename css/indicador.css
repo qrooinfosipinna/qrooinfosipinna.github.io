@@ -1,0 +1,563 @@
+/* ============================================================
+   VISOR INEGI · DISEÑO ÚNICO Y REUTILIZABLE
+   ============================================================ */
+
+:root {
+  --color-principal: #154f39;
+  --color-secundario: #4f8c70;
+  --visor-fondo: #f4f7f6;
+  --visor-borde: rgba(0, 0, 0, .07);
+  --visor-sombra: 0 16px 45px rgba(0, 0, 0, .08);
+}
+
+.volver {
+  color: var(--color-principal);
+  font-weight: 700;
+  text-decoration: none;
+  transition: opacity .2s ease;
+}
+
+.volver:hover {
+  color: var(--color-principal);
+  opacity: .75;
+}
+
+.visor-indicadores {
+  background: #fff;
+  border: 1px solid var(--visor-borde);
+  border-radius: 28px;
+  padding: 30px;
+  box-shadow: var(--visor-sombra);
+}
+
+/* ---------- Encabezado ---------- */
+
+.visor-header {
+  margin-bottom: 26px;
+}
+
+.visor-identidad {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.visor-logo {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  flex: 0 0 76px;
+  border-radius: 18px;
+}
+
+.visor-tag {
+  display: inline-flex;
+  align-items: center;
+  background: var(--color-principal);
+  color: #fff;
+  padding: 6px 13px;
+  border-radius: 999px;
+  font-size: 12px;
+  line-height: 1;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.visor-header h1 {
+  color: var(--color-principal);
+  font-weight: 800;
+  margin: 0 0 6px;
+  font-size: clamp(1.65rem, 3vw, 2.25rem);
+}
+
+.visor-header p {
+  color: #555;
+  font-weight: 500;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ---------- Tab Bar principal ---------- */
+
+.tabs-indicadores {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  padding: 8px 4px 15px;
+  margin: 0 0 24px;
+  border-bottom: 1px solid #e5e9e7;
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-secundario) transparent;
+}
+
+.tabs-indicadores::-webkit-scrollbar {
+  height: 6px;
+}
+
+.tabs-indicadores::-webkit-scrollbar-thumb {
+  background: var(--color-secundario);
+  border-radius: 999px;
+}
+
+.tab-btn {
+  flex: 0 0 auto;
+  min-width: 160px;
+  max-width: 270px;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #dfe6e2;
+  background: #f5f7f6;
+  color: var(--color-principal);
+  padding: 11px 14px;
+  border-radius: 14px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.25;
+  text-align: left;
+  text-decoration: none;
+  white-space: normal;
+  transition: transform .2s ease, background .2s ease, color .2s ease, box-shadow .2s ease;
+}
+
+.tab-btn:hover {
+  color: var(--color-principal);
+  background: #eaf1ee;
+  transform: translateY(-2px);
+}
+
+.tab-btn.active {
+  color: #fff;
+  background: var(--color-principal);
+  border-color: var(--color-principal);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, .11);
+}
+
+.tab-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  height: 30px;
+  padding: 0 7px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, .7);
+  color: var(--color-principal);
+  font-weight: 800;
+}
+
+.tab-btn.active .tab-num {
+  background: rgba(255, 255, 255, .18);
+  color: #fff;
+}
+
+.tab-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ---------- Contenedor del indicador ---------- */
+
+.indicador-activo {
+  background: var(--visor-fondo);
+  border-radius: 24px;
+  padding: 22px;
+}
+
+.indicador-titulo-box {
+  background: #fff;
+  border-left: 6px solid var(--color-principal);
+  border-radius: 20px;
+  padding: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, .06);
+}
+
+.indicador-identidad {
+  min-width: 0;
+}
+
+.indicador-clave {
+  display: inline-flex;
+  color: var(--color-principal);
+  background: rgba(0, 0, 0, .035);
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.indicador-titulo-box h2 {
+  color: #222;
+  font-size: clamp(1.15rem, 2.1vw, 1.65rem);
+  font-weight: 800;
+  line-height: 1.35;
+  margin: 0 0 8px;
+}
+
+.indicador-titulo-box p {
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+  white-space: pre-line;
+}
+
+.acciones-indicador {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 9px;
+  flex-wrap: wrap;
+  flex: 0 0 auto;
+}
+
+.btn-indicador {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  background: var(--color-principal);
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 800;
+  white-space: nowrap;
+  transition: transform .2s ease, opacity .2s ease, box-shadow .2s ease;
+}
+
+.btn-indicador:hover {
+  color: #fff;
+  opacity: .9;
+  transform: translateY(-2px);
+  box-shadow: 0 7px 18px rgba(0, 0, 0, .12);
+}
+
+.btn-indicador.secundario {
+  background: #edf3f0;
+  color: var(--color-principal);
+}
+
+.btn-indicador.secundario:hover {
+  color: var(--color-principal);
+}
+
+/* ---------- Estado ---------- */
+
+.estado-carga {
+  background: #fff8e1;
+  border: 1px solid #f1d27a;
+  color: #6b5200;
+  border-radius: 14px;
+  padding: 13px 16px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.estado-error {
+  background: #fff1f1;
+  border-color: #e5a8a8;
+  color: #7d2020;
+}
+
+/* ---------- Cards ---------- */
+
+.cards-resumen {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 14px;
+  margin-top: 20px;
+}
+
+.card-resumen {
+  min-width: 0;
+  background: linear-gradient(135deg, var(--color-principal), var(--color-secundario));
+  color: #fff;
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, .10);
+}
+
+.card-resumen.qroo {
+  background: linear-gradient(135deg, #28745a, #4f8c70);
+}
+
+.card-resumen.variacion {
+  background: linear-gradient(135deg, #4c6470, #718691);
+}
+
+.card-resumen span {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  opacity: .9;
+  margin-bottom: 7px;
+}
+
+.card-resumen strong {
+  display: block;
+  font-size: clamp(1rem, 2vw, 1.45rem);
+  font-weight: 800;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+/* ---------- Metadatos ---------- */
+
+.metadatos-card,
+.grafica-card,
+.tabla-card {
+  background: #fff;
+  border: 1px solid var(--visor-borde);
+  border-radius: 20px;
+  padding: 22px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, .055);
+}
+
+.metadatos-header,
+.grafica-header,
+.tabla-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 15px;
+  margin-bottom: 18px;
+}
+
+.seccion-kicker {
+  display: block;
+  color: var(--color-principal);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.metadatos-header h3,
+.grafica-header h3,
+.tabla-header h3 {
+  color: var(--color-principal);
+  font-weight: 800;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.btn-cerrar-metadatos {
+  width: 34px;
+  height: 34px;
+  border: 0;
+  border-radius: 50%;
+  background: #f0f3f2;
+  color: #333;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.metadatos-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.metadato-item {
+  border: 1px solid #e7ebe9;
+  border-radius: 14px;
+  padding: 14px;
+  background: #fafcfb;
+}
+
+.metadato-item span {
+  display: block;
+  color: var(--color-principal);
+  font-size: 11px;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.metadato-item p {
+  color: #444;
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 0;
+  white-space: normal;
+}
+
+/* ---------- Gráfica ---------- */
+
+.tipo-visualizacion,
+.origen-dato {
+  display: inline-flex;
+  align-items: center;
+  background: #f1f5f3;
+  color: var(--color-principal);
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 10px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.tabs-graficas {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 2px 0 12px;
+  margin-bottom: 8px;
+}
+
+.tab-grafica {
+  border: 1px solid #dfe6e2;
+  background: #f5f7f6;
+  color: var(--color-principal);
+  padding: 8px 12px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.tab-grafica.active {
+  background: var(--color-principal);
+  border-color: var(--color-principal);
+  color: #fff;
+}
+
+.canvas-wrapper {
+  position: relative;
+  width: 100%;
+  height: 410px;
+}
+
+.canvas-wrapper canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* ---------- Tabla ---------- */
+
+.tabla-scroll {
+  max-height: 520px;
+  overflow: auto;
+}
+
+.tabla-datos {
+  margin: 0;
+  font-size: 13px;
+}
+
+.tabla-datos thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--color-principal);
+  color: #fff;
+  border-color: rgba(255, 255, 255, .2);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.tabla-datos tbody td {
+  vertical-align: middle;
+}
+
+.tabla-datos tbody tr:hover td {
+  background: #f5f8f6;
+}
+
+.tabla-datos .dato-contexto {
+  font-weight: 700;
+  color: #222;
+  text-align: left;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 900px) {
+  .visor-indicadores {
+    padding: 22px;
+  }
+
+  .indicador-titulo-box {
+    flex-direction: column;
+  }
+
+  .acciones-indicador {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .metadatos-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .visor-identidad {
+    align-items: flex-start;
+  }
+
+  .visor-logo {
+    width: 60px;
+    height: 60px;
+    flex-basis: 60px;
+  }
+
+  .visor-indicadores {
+    border-radius: 20px;
+    padding: 16px;
+  }
+
+  .indicador-activo {
+    padding: 14px;
+    border-radius: 18px;
+  }
+
+  .tab-btn {
+    min-width: 145px;
+  }
+
+  .canvas-wrapper {
+    height: 350px;
+  }
+
+  .metadatos-card,
+  .grafica-card,
+  .tabla-card,
+  .indicador-titulo-box {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 520px) {
+  .visor-identidad {
+    flex-direction: column;
+  }
+
+  .acciones-indicador {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .btn-indicador {
+    width: 100%;
+  }
+
+  .grafica-header,
+  .tabla-header,
+  .metadatos-header {
+    flex-direction: column;
+  }
+
+  .canvas-wrapper {
+    height: 320px;
+  }
+}

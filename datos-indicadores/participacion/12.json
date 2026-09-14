@@ -1,0 +1,295 @@
+{
+    "id":  12,
+    "tema":  "participacion",
+    "nombre":  "Promedio de horas semanales dedicadas a la participación de adolescentes en juegos y aficiones, deporte y actividad física",
+    "definicion":  "Total de horas semanales dedicadas por los adolescentes de 12 a 17 años a la práctica de deportes y ejercicio físico, y la participación en juegos, aficiones y  pasatiempos, dividido entre el total de adolescentes de 12 a 17 años.",
+    "fuente":  "INEGI. Encuesta Nacional sobre Uso del Tiempo (ENUT)",
+    "unidad":  "Promedio",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "2014 y 2019",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "2014":  4.3744244681595958,
+                                               "2019":  4.5311656899730028
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "2014":  5.7803312951772954,
+                                               "2019":  6.1002502780867633
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "2014":  5.658890212318048,
+                                               "2019":  5.482635170857252
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "2014":  5.5799445677926958,
+                                               "2019":  4.8049606713459
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "2014":  5.319483800274436,
+                                               "2019":  5.6475655033414656
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+                                               "2014":  4.9126514697706467,
+                                               "2019":  5.0071620117082283
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "2014":  4.4189506143442232,
+                                               "2019":  5.22557618933645
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "2014":  2.6909152013055442,
+                                               "2019":  3.122493037431469
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "2014":  5.6639739336692925,
+                                               "2019":  5.3874207837441377
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "2014":  5.8151317379583558,
+                                               "2019":  6.3981308220386817
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "2014":  5.6197813806951009,
+                                               "2019":  6.1881588333201236
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "2014":  3.7207341967818066,
+                                               "2019":  4.3992387120054541
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "2014":  3.4594615384615386,
+                                               "2019":  4.1454458954780087
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "2014":  3.7340934160140216,
+                                               "2019":  3.1277648094545745
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "2014":  5.1149896858541242,
+                                               "2019":  5.7142312307012633
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "2014":  4.0002698833935684,
+                                               "2019":  4.0502340335304057
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+                                               "2014":  5.6622125448419389,
+                                               "2019":  6.2195289629173907
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "2014":  3.8343121463035108,
+                                               "2019":  4.5782914849764484
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "2014":  5.1123608293665939,
+                                               "2019":  5.2381174501478247
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "2014":  3.4917061747826255,
+                                               "2019":  3.3271952446273434
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "2014":  3.7251900093886552,
+                                               "2019":  3.6708191577539218
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "2014":  3.715244821067111,
+                                               "2019":  3.6332939519006335
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "2014":  4.5217177208081241,
+                                               "2019":  4.4017329482337262
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "2014":  4.3804793591277429,
+                                               "2019":  4.06850986322084
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "2014":  4.7995481230794166,
+                                               "2019":  4.208441318030359
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "2014":  5.1657072594761813,
+                                               "2019":  6.2648061177146026
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "2014":  5.6613086155013406,
+                                               "2019":  4.5465745051018009
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "2014":  3.1481183510408717,
+                                               "2019":  3.4388521770616456
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "2014":  5.2476535942499973,
+                                               "2019":  6.0364082540665436
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "2014":  4.9999891141059418,
+                                               "2019":  4.3992835615038821
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "2014":  3.7173992163863434,
+                                               "2019":  3.7551655137051778
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "2014":  4.2993963625997553,
+                                               "2019":  4.0201356113847613
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "2014":  3.9498235829426251,
+                                               "2019":  4.1264281544491705
+                                           },
+                               "year":  null
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Encuesta Nacional sobre Uso del Tiempo (ENUT) 2014 y 2019.",
+                               "valores":  {
+                                               "2014":  null,
+                                               "2019":  null
+                                           },
+                               "year":  null
+                           }
+                       ],
+    "datosGrafica":  [
+
+                     ],
+    "years":  [
+                  "2014",
+                  "2019"
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PARTICIPACIÓN/Cultura y recreación/3.5 Promedio de horas semanales dedicadas a la participación de adolescentes en juegos y aficiones, deporte y actividad física, Nacional y Quintana Roo, 2019/T_participacion_3_5_QROO.xlsx",
+    "nombreArchivoExcel":  "T_participacion_3_5_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PARTICIPACIÓN/Cultura y recreación/3.5 Promedio de horas semanales dedicadas a la participación de adolescentes en juegos y aficiones, deporte y actividad física, Nacional y Quintana Roo, 2019/M_participacion_3_5.xlsx"
+}

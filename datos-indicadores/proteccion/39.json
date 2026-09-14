@@ -1,0 +1,210 @@
+{
+    "id":  39,
+    "tema":  "proteccion",
+    "nombre":  "Número de homicidios contra niñas, niños y adolescentes",
+    "definicion":  "Se refiere al valor absoluto de homicidios cometidos contra niñas, niños y adolescentes de \n0 a 17 años.",
+    "fuente":  "INEGI. Registros administrativos. Estadísticas vitales. Mortalidad. Consulta interactiva de datos.               ",
+    "unidad":  "Número",
+    "cobertura":  "Quintana Roo\nMunicipio",
+    "referencia":  "2016 a 2024",
+    "nota":  "Registro administrativo.",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Quintana Roo",
+                               "valores":  {
+                                               "2022":  33,
+                                               "2020":  25,
+                                               "2024":  32,
+                                               "2017":  25,
+                                               "2018":  25,
+                                               "2016":  8,
+                                               "2019":  30,
+                                               "2021":  28,
+                                               "2023":  35
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Bacalar",
+                               "valores":  {
+                                               "2019":  2,
+                                               "2024":  1,
+                                               "2018":  1
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Benito Juárez",
+                               "valores":  {
+                                               "2022":  26,
+                                               "2020":  19,
+                                               "2024":  22,
+                                               "2017":  20,
+                                               "2018":  15,
+                                               "2016":  3,
+                                               "2019":  22,
+                                               "2021":  15,
+                                               "2023":  24
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Cozumel",
+                               "valores":  {
+                                               "2019":  1,
+                                               "2024":  1
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Felipe Carrillo Puerto",
+                               "valores":  {
+                                               "2023":  2,
+                                               "2018":  1
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Isla Mujeres",
+                               "valores":  {
+                                               "2021":  2
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "José María Morelos",
+                               "valores":  {
+                                               "2019":  1,
+                                               "2023":  1
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Lázaro Cárdenas",
+                               "valores":  {
+                                               "2020":  1,
+                                               "2024":  1
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Othón P. Blanco",
+                               "valores":  {
+                                               "2024":  3,
+                                               "2017":  1,
+                                               "2018":  1,
+                                               "2016":  1,
+                                               "2019":  2,
+                                               "2021":  2
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Puerto Morelos",
+                               "valores":  {
+                                               "2022":  1,
+                                               "2020":  1,
+                                               "2017":  2,
+                                               "2018":  1,
+                                               "2016":  1,
+                                               "2019":  1,
+                                               "2021":  1
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Solidaridad",
+                               "valores":  {
+                                               "2022":  2,
+                                               "2020":  4,
+                                               "2024":  2,
+                                               "2017":  1,
+                                               "2018":  6,
+                                               "2016":  2,
+                                               "2021":  3,
+                                               "2023":  4
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "Tulum",
+                               "valores":  {
+                                               "2022":  1,
+                                               "2024":  2,
+                                               "2016":  1,
+                                               "2019":  1,
+                                               "2021":  5,
+                                               "2023":  4
+                                           },
+                               "year":  2016
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Estadísticas de mortalidad. Consulta interactiva de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2016
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2016,
+                             "nacional":  2016,
+                             "qroo":  2
+                         },
+                         {
+                             "year":  2017,
+                             "nacional":  2017,
+                             "qroo":  5
+                         },
+                         {
+                             "year":  2018,
+                             "nacional":  2018,
+                             "qroo":  1
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  2019,
+                             "qroo":  3
+                         },
+                         {
+                             "year":  2020,
+                             "nacional":  2020,
+                             "qroo":  9
+                         },
+                         {
+                             "year":  2021,
+                             "nacional":  2021,
+                             "qroo":  5
+                         },
+                         {
+                             "year":  2022,
+                             "nacional":  2022,
+                             "qroo":  3
+                         },
+                         {
+                             "year":  2023,
+                             "nacional":  2023,
+                             "qroo":  1
+                         },
+                         {
+                             "year":  2024,
+                             "nacional":  2024,
+                             "qroo":  5
+                         }
+                     ],
+    "years":  [
+                  2016,
+                  2017,
+                  2018,
+                  2019,
+                  2020,
+                  2021,
+                  2022,
+                  2023,
+                  2024
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Violencia y maltrato/5.1 Número de homicidios contra niñas, niños y adolescentes, Quintana Roo, 2016 a 2024/T_proteccion_5_1_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_5_1_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Violencia y maltrato/5.1 Número de homicidios contra niñas, niños y adolescentes, Quintana Roo, 2016 a 2024/M_proteccion_5_1.xlsx"
+}

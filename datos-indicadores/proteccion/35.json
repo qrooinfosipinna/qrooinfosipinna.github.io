@@ -1,0 +1,1109 @@
+{
+    "id":  35,
+    "tema":  "proteccion",
+    "nombre":  "Tasa de quehaceres domésticos en condiciones no adecuadas",
+    "definicion":  "Se refiere a la proporción de la población de 5 a 17 años que trabaja en la producción de bienes y \nservicios para el consumo de los miembros de sus propios hogares en condiciones peligrosas u \nhorarios prolongados.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Tasa",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2015, 2017 y 2019",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.7348627116556834,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.9776617525145577
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.5446459342905352,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.6386153463776689
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.2778504677477054,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  2.8044078963245407
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  10.116121914218729,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  13.291969586048433
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  11.823238873348908,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  14.18895101330282
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.2186028514202123,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.8781702422726987
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  10.526009711843216,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.543660253922493
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.938867668057549,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.268523916728705
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.4607870944678192,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.099825978523203
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.3976196605441986,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.649756853382633
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.6101392784665931,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.5509132806035746
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.1022377396334386,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.8665517055029071
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.1040241689927051,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.747621181439367
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.3892444889508369,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.051021979821432
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.75905661398941,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  5.1761752617765042
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.6016928508627259,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.4966612352919162
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.4656259370753615,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.730904191221487
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  0.996708614008813,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  1.3086249506995695
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  12.353617308992563,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  15.940012301142437
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.8205343136874443,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.3997144896502487
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.7354422870013781,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.660051886101639
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.61541490690544,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.9281209597630342
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.1475117106759778,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  5.6709587853769259
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.1783466485833562,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.2585634263619685
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.51387420096505,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.875736482582985
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.887107864624106,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.112934116445353
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.446464509678786,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  5.70786599968562
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  14.838130391919298,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  19.281143717340154
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.4773463855736928,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.5105897273303732
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.8975307416796729,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.0445813626276266
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.6189747970095123,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.3509739427745
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  11.235950503634433,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  14.014367620043917
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.5562946899542851,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.191447162392567
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.6924087594474546,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.5593251302429749
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.2809572601756778,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.2698854101740422
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.455203020909225,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.2889312727545277
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.8958775129357868,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  13.0211857608248
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  10.541845854428535,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.449227086654204
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.0049442404116373,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.0530453492221117
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.940178060377316,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.5318761012579
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.4079890218227762,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.878382839389106
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.5729067213292538,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.1697433261223775
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.2412448706461312,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.1702235486232335
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.0876955421729679,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.182252576200014
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.9586169442186305,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.9085602508771373
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.1943326131223477,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.848515445589535
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.5003819759583674,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.6587067169034118
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.0690235277958493,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.2849460820526519
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.4362453759708269,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.6986784110795661
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.57439008919549,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.2922613803039429
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.0331673934802832,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  2.7220482365129919
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.5416935433699948,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.185341294930337
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.1400862540773655,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  5.5173039848477625
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.57137018785255,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.0526891885168421
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.5435821219056116,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.6853964235679433
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  1.5744687902627774,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  2.5006662082715105
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.33183723970726,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.14393580928027
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.5496256802513662,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.8293916231302205
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  1.7401745892578049,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  2.4026089980357326
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.9530582800180714,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.9279504213295282
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  14.241521233663843,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  18.382884038628635
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.8488307277640716,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.155341079398811
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.50542170859374,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.9908091409712751
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  1.7211292844395352,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  2.6801412754912683
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.541852615596115,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.534146779658442
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.3422637652685587,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  11.575092331574472
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.3078232309146234,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.2736905439519743
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.7302453298403524,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.7766773836731353
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.3139515172063061,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.0611868723330398
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.2679765081644012,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.6854775059194953
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.4939478067740142,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.8096763771471656
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.51070935817285,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.7775352069368431
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.0844229420334166,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.6370285645486566
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.7001070060561,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.471353128736547
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.4441894265464281,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.5967049832430229
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.489806943373102,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  3.4672448059166325
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.2349507750289863,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.0392788386664948
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.9535130518579207,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.35579471798297
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.8219071835572729,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.0281311823966233
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.9931614139573886,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  5.1240809258848783
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.011352864885855,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  5.2933966765673457
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.703712772254609,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.8642917270821435
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.7078046765414836,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  11.123121045729027
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.9519238796749283,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.5431164901664145
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.4860414212251776,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.2370536651245132
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.9717278878417739,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.33018719500634
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.2636531284940542,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.752092833594078
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.3710883208843185,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.62574816067023
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.1776657343194779,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.0097692187942613
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.5686190701403415,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.4347900428891007
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.58547988176389,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.21271936301916
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.5424113046435188,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.8555266639295649
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.7567110440779734,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.6828634657942843
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.278670868403208,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.434967064865468
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.9198072842791332,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.0981394828459923
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.37454899988201,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.2662597288602377
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.8292412831610481,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.8136582518604989
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.0362611093028224,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.6777192438797641
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.53424859214546,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.3387437373193656
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.749752027465604,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.4951420125362436
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.6671583432839316,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.1218359275057779
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.5269796448380282,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.579527458288676
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.34537097833224,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.714812603182409
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  6.8087447378492154,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.0391784528035863
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  2.9556777232666174,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.4495233893583164
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.6933611898603811,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  11.625331837992078
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.5048509130389078,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  13.373666145350366
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.7015342441953063,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  8.0064722725809467
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  1.6531549309460567,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  2.7094095779957419
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.048739925802737,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.096862719269359
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.2589899157143449,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.673357844745093
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  12.896226263835519,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  15.847142391795474
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.81172509107748,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.231676132640951
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.9942225605834807,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  11.044277524305834
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.1705787692136953,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.1790136499326254
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  10.576909268005871,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  14.922084036017139
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.9606695509783583,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.3004555630915862
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.12534549474848,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  10.130911816525302
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.6992571291636711,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.3141526906060292
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.3646469313334926,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  11.38301001395099
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.5231183636846879,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.860692169184842
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.3208414777820709,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.2301155717614085
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.1006203647109216,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.8396911011283228
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.0651999886091446,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  11.170663832677791
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  3.7590914064920233,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  4.8512598556755169
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  5.9324196909550606,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.4246318969988057
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  9.92512373909266,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.373296944628047
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.7783677305815537,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  6.43428296370849
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  4.69178822834202,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  7.5685210845445523
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.7352411942866617,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  12.283477739594733
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  7.5297973651963375,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  9.5142551760902
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población de 5 a 17 años":  8.8806572636178,
+                                               "Tasa de quehaceres domésticos en condiciones no adecuadas \nrespecto a la población que realiza quehaceres domésticos":  13.98411486417343
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "Nota: El cálculo se realiza para cada grupo de edad y por sexo.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2022,
+                             "nacional":  9.4951420125362436,
+                             "qroo":  4.8396911011283228
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  7.2736905439519743,
+                             "qroo":  6.4347900428891007
+                         },
+                         {
+                             "year":  2017,
+                             "nacional":  6.5593251302429749,
+                             "qroo":  7.14393580928027
+                         }
+                     ],
+    "years":  [
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.6 Tasa de quehaceres domésticos en condiciones no adecuadas de la población de 5 a 17 años, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_6_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_6_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.6 Tasa de quehaceres domésticos en condiciones no adecuadas de la población de 5 a 17 años, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_6.xlsx"
+}

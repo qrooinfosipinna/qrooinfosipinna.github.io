@@ -1,0 +1,1367 @@
+{
+    "id":  30,
+    "tema":  "proteccion",
+    "nombre":  "Promedio de horas que trabajan las niñas, niños y adolescentes de 5 a 17 años",
+    "definicion":  "Se refiere a la medición en horas del tiempo a la semana que trabaja la población ocupada de\n 5 a 17 años.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Horas",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1537727327574627,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.868287175468218
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0733137829912023,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  30.986837981823879
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.127030113148433,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.0727969348659
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4092834545747019,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.564533053515216
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.2975605479654315,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.084303679552864
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7977303968119751,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.885674662082977
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.287551356042262,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.985658520027155
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.504332880368394,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  32.227698903314348
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.95169291232603836,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  30.75689877161847
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.1569562940546754,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.2949052906597
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.4298519675667634,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.974454549972666
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.9671470012656478,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.424022144299652
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.7147259867242464,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.808919812441928
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.6003801554757122,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.070852379671955
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5901653178905941,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.016775557950766
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5550281756081437,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.211434223716545
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6472253749847212,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.180993851233342
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9674089546204898,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.0941018766756
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3131402246450445,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  18.211048350044592
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7027979376118685,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.07028356641424
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3810517248085734,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.276701460703205
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.4385587496623007,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.21391100187094
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.2550267238522042,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.585196968279217
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.4280737537518546,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.027789529349551
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3178699624160695,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.254409373945585
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.2767152767713337,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.895545733719828
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7470901802088756,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.681968885488395
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5497998341090904,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.204713010775155
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4662708109935054,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.262428386619849
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1139284305096062,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.117523530955864
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7775529913464407,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.687557465894226
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9337953916300277,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.055184798699251
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5000916338312105,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.945332228933918
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0761409324984554,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.811167174006023
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.83673928092999,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  31.362450107460855
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.0770117561733386,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.815440547476477
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7205019997241759,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.676702612723457
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1180651895902716,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.317155451601295
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5168105182135405,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.641303330838323
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6434997528423132,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.657853249853609
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.557062615793309,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.749146542710655
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.735637597038201,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  34.171919106804296
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.1305775147396597,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.783351195848375
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6645594583101055,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.523947638107391
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8091439568992858,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.338977060322854
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.2872495484167588,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.262702045310743
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3205813497164973,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.295885195489824
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.9083896193054972,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.462006396627231
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.6065390334187333,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.491715970127867
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8143769084820121,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.152766893976025
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.604659807271305,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.949046321525884
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5335936443542932,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  17.962021417740711
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.8091474420501887,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.141120295321404
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5960341481563414,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.20140781992367
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.9502818255891179,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.56516670664428
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5838459939092255,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  30.216718506998443
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.3438910551187777,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.471950842137836
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1357463867707356,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.033458902681438
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7528130956165424,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.234499013901583
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9676480630183519,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.289644355151388
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7680084710599779,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.283854012290789
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.1592515196021997,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.117893106119286
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.8766543669875408,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.389183001860065
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.750417972086596,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.085238391940397
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0203722762007406,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.984494421505755
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3304761067479389,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  19.371657050308734
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0533820851541571,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.05742873032251
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.8636199174817647,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  33.069274345832213
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.3504771360409138,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.810472898433478
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4748335312579524,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.571727667493796
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6556142010879071,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.333073098574186
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4198278823949726,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.707116741335806
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6294167984268122,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.430900692840648
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.243814186791913,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  32.019219682740406
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5392160823681262,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  30.723499076844718
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.81650719910423508,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  18.786455758774096
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3643387200228059,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.372262270994995
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.1950933982404486,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.767016450913744
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.2486841900735235,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.956526584777539
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.576869886582523,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.01816976127321
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1583252323552178,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.906881633852858
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7836327525277191,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.568647980776561
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.0275679246190927,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.73921651930646
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9707393215720339,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  31.25796412211071
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8398890660659384,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.333710490714548
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4896420674708291,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.431450962685844
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5849090675803472,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.509746293815102
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.1635150236139644,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.983525430065477
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5400587448163292,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  32.632022471910112
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.3004818890853624,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.836477987421382
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1927194954088476,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.64482595427322
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.8239512936268931,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.736291896478573
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.8967005261086902,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.187416539258
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4049028516449742,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.221955327314394
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7799632625317807,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.962732525924167
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1036682663829889,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.675056642636456
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7366602310762873,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.423267917877936
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1103054179106007,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.558786313750808
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8276823544587661,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.09205961586914
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.8378254975625208,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.374332622517997
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.4542357401654762,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.093816631130064
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.928948951180488,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.399568240261594
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.60700593538184633,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  17.277021024578026
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.104963908939478,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.066808813077468
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.0626744939762949,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.34523408555069
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.7808432702049721,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  31.093511194530098
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.0073567499032534,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.601351573007907
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.752322377539969,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  32.250180736579019
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.71053802137787014,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.229000478240078
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5073250753419725,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.940345717377433
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.2692282760293696,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.479107957595275
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.737790905204895,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.790032846657969
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.812746462965779,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  15.728571428571428
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0620960695832009,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.805995175619227
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.1727344667993573,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.159067438449721
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.1534561103267951,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.712631125603718
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9556473638638363,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.974204995223147
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1119967970911286,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.895259740259739
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.78876479773202957,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.083533060764132
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.4187269180691282,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.119127401181252
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8643534002771927,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.436738923913982
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.1492625153958633,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.403360741086495
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4533691795251813,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.7465279091769
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0354406708089523,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.909400756026521
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.2549454037102807,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.102594729218023
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.0080430152799986,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.163215274573144
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4691302006462164,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  18.916088854648176
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.2925176128570925,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.020070086014655
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5506734728095832,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.658283303585915
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5681425621748972,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  30.926799625430853
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.6460413913815737,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.521677579189525
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1037358754462807,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.010921998725767
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.0267553064433019,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.6823334672022
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.1037496195359511,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.646475112581196
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.1831976897470204,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.704807719044574
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7689428759028234,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.062782521346058
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.4678578262533486,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  19.608959611451944
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.2097249055702688,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.695533141210376
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.7041151508336245,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.28027227131598
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8803769332491496,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.512701067397529
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.6966441122956715,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.062243065256435
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  0.6552261166399671,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.330567231442561
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.004566969425611,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.596640853913772
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.8521482629527868,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.661693824407386
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  3.8214484605230106,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.836630329699638
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.937224069894909,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.031451713008938
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5119678267337382,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.22648
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.6773508684312746,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.497765286804459
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.894817185207212,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.149331813503238
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9174568593768091,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  29.938572219147758
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6257773631840795,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  19.418099593755588
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.2110306816397696,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.106472571757546
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.6783259006914437,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.643554757917844
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.4930660931294284,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.45490662139219
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7887874018145864,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  33.6091045630096
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.3123312526169379,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  27.1199462927048
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9049132554747297,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  23.0034388552433
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.6636083270270812,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  26.495998821738915
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.3726931230594608,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.472170032879287
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5568926180694991,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  21.725823389021478
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.5571404287656987,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  28.136775300946315
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.7399641178566969,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  25.384393192018841
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  1.9044503475689452,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  20.917593752079515
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.5816199760009839,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  24.666558632284726
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Con respecto al total de niñas, niños y adolescentes":  2.3134099674317579,
+                                               "Con respecto al total de niñas, niños y adolescentes que trabajan":  22.651884483602544
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2017,
+                             "nacional":  2017,
+                             "qroo":  26.05742873032251
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  2019,
+                             "qroo":  24.374332622517997
+                         },
+                         {
+                             "year":  2022,
+                             "nacional":  2022,
+                             "qroo":  24.6823334672022
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.2 Promedio de horas que trabajan las niñas, niños y adolescentes de 5 a 17 años, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_2_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_2_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.2 Promedio de horas que trabajan las niñas, niños y adolescentes de 5 a 17 años, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_2.xlsx"
+}

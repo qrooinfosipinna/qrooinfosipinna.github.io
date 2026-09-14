@@ -1,0 +1,260 @@
+{
+    "id":  2,
+    "tema":  "al25",
+    "nombre":  "Porcentaje de niñas, niños y adolescentes que vive en hogares donde se presenta violencia de pareja",
+    "definicion":  "Valor relativo que resulta de dividir el número de niñas, niños y adolescentes que viven en hogares con mujeres violentadas (según periodo de referencia), dividido entre el total de niñas, niños y adolescentes, multiplicado por cien.",
+    "fuente":  "INEGI. Encuesta Nacional de la Dinámica de las Relaciones en los Hogares (ENDIREH). Base de datos.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  2021,
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Encuesta Nacional de la Dinámica de las Relaciones en los Hogares (ENDIREH) 2021. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2021
+                           }
+                       ],
+    "datosGrafica":  {
+
+                     },
+    "years":  [
+                  2021
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/25 AL 25/1.14 Porcentaje de niñas, niños y adolescentes que vive en hogares donde se presenta violencia de pareja Nacional y Quintana Roo, 2021/T_1_14_QROO.xlsx",
+    "nombreArchivoExcel":  "T_1_14_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/25 AL 25/1.14 Porcentaje de niñas, niños y adolescentes que vive en hogares donde se presenta violencia de pareja Nacional y Quintana Roo, 2021/M_1_14.xlsx"
+}

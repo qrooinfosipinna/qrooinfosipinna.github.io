@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indicadores | Sistema Estatal de Información</title>
+
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/indicador.css">
+</head>
+
+<body>
+
+  <div id="header"></div>
+
+  <main class="container my-5">
+
+    <a href="listado.html" id="btnVolverListado" class="volver d-block mb-4">
+      ← Volver al listado
+    </a>
+
+    <section class="visor-indicadores">
+
+      <header class="visor-header">
+        <div class="visor-identidad">
+          <div>
+            <span id="visorFuente" class="visor-tag">INEGI</span>
+            <h1 id="visorTitulo">Indicadores</h1>
+            <p id="visorDescripcion">Consulta de indicadores estadísticos.</p>
+          </div>
+        </div>
+      </header>
+
+      <!-- TAB BAR PRINCIPAL: se genera automáticamente según el tema -->
+      <nav id="tabsIndicadores" class="tabs-indicadores" aria-label="Indicadores del tema"></nav>
+
+      <section class="indicador-activo" aria-live="polite">
+
+        <div class="indicador-titulo-box">
+          <div class="indicador-identidad">
+            <span id="indicadorClave" class="indicador-clave"></span>
+            <h2 id="indicadorNombre">Cargando indicador...</h2>
+            <p id="indicadorDescripcion"></p>
+          </div>
+
+          <div class="acciones-indicador">
+            <a id="btnDescargarExcel" class="btn-indicador" href="#" target="_blank" rel="noopener">
+              Descargar Excel
+            </a>
+            <a id="btnDescargarMetadatos" class="btn-indicador secundario" href="#" target="_blank" rel="noopener">
+              Descargar metadatos
+            </a>
+          </div>
+        </div>
+
+        <div id="estadoCarga" class="estado-carga">
+          Cargando información del indicador...
+        </div>
+
+        <div id="cardsResumen" class="cards-resumen"></div>
+
+        <section id="metadatosCard" class="metadatos-card mt-4" hidden>
+          <div class="metadatos-header">
+            <div>
+              <span class="seccion-kicker">Ficha técnica</span>
+              <h3>Metadatos del indicador</h3>
+            </div>
+            <button id="btnCerrarMetadatos" type="button" class="btn-cerrar-metadatos" aria-label="Cerrar metadatos">×</button>
+          </div>
+          <div id="metadatosContenido" class="metadatos-grid"></div>
+        </section>
+
+        <section class="grafica-card mt-4">
+          <div class="grafica-header">
+            <div>
+              <span class="seccion-kicker">Visualización</span>
+              <h3 id="tituloGrafica">Gráfica del indicador</h3>
+            </div>
+            <span id="tipoVisualizacion" class="tipo-visualizacion">XLSX</span>
+          </div>
+
+          <!-- Algunos Excel contienen más de una hoja de gráfica. -->
+          <div id="tabsGraficas" class="tabs-graficas" hidden></div>
+
+          <div class="canvas-wrapper">
+            <canvas id="graficaIndicador"></canvas>
+          </div>
+        </section>
+
+        <section class="tabla-card mt-4">
+          <div class="tabla-header">
+            <div>
+              <span class="seccion-kicker">Datos</span>
+              <h3 id="tituloTabla">Quintana Roo y Nacional</h3>
+            </div>
+            <span id="origenTabla" class="origen-dato">Hoja de gráfica del Excel</span>
+          </div>
+
+          <div id="tablaIndicador" class="tabla-indicador"></div>
+        </section>
+
+      </section>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <!-- Las librerías externas se cargan antes del visor. -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+
+  <script src="js/indicadores-config.js"></script>
+  <script src="js/indicador.js"></script>
+  <script src="js/layout.js"></script>
+
+</body>
+</html>

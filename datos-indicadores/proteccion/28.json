@@ -1,0 +1,410 @@
+{
+    "id":  28,
+    "tema":  "proteccion",
+    "nombre":  "Número de niñas, niños y adolescentes que trabajan y no estudian",
+    "definicion":  "Se refiere a la población de 5 a 17 años que se dedica a producir o proporcionar bienes y \nservicios para el mercado o el autoconsumo, o para el consumo del hogar o de la comunidad \ny que no asiste a la escuela.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Personas",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "2019":  558205,
+                                               "2013":  913798,
+                                               "2015":  915309,
+                                               "2017":  915048,
+                                               "2022":  912392
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "2019":  8582,
+                                               "2013":  9737,
+                                               "2015":  10484,
+                                               "2017":  9235,
+                                               "2022":  11446
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "2019":  7368,
+                                               "2013":  15590,
+                                               "2015":  13573,
+                                               "2017":  14934,
+                                               "2022":  18543
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "2019":  1233,
+                                               "2013":  2991,
+                                               "2015":  4122,
+                                               "2017":  2844,
+                                               "2022":  4708
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "2019":  2919,
+                                               "2013":  7049,
+                                               "2015":  7048,
+                                               "2017":  9677,
+                                               "2022":  4400
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "2019":  7464,
+                                               "2013":  21045,
+                                               "2015":  16957,
+                                               "2017":  15170,
+                                               "2022":  13353
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "2019":  5427,
+                                               "2013":  7382,
+                                               "2015":  5326,
+                                               "2017":  5328,
+                                               "2022":  5629
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "2019":  54283,
+                                               "2013":  66403,
+                                               "2015":  69327,
+                                               "2017":  65796,
+                                               "2022":  79997
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "2019":  13832,
+                                               "2013":  21223,
+                                               "2015":  28376,
+                                               "2017":  26803,
+                                               "2022":  22209
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "2019":  8487,
+                                               "2013":  28225,
+                                               "2015":  26816,
+                                               "2017":  14378,
+                                               "2022":  10504
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "2019":  11872,
+                                               "2013":  16974,
+                                               "2015":  20730,
+                                               "2017":  14340,
+                                               "2022":  13459
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "2019":  34611,
+                                               "2013":  67934,
+                                               "2015":  68566,
+                                               "2017":  76407,
+                                               "2022":  80623
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "2019":  11443,
+                                               "2013":  55706,
+                                               "2015":  41205,
+                                               "2017":  41339,
+                                               "2022":  49089
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "2019":  8600,
+                                               "2013":  15977,
+                                               "2015":  24795,
+                                               "2017":  18470,
+                                               "2022":  18451
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "2019":  24648,
+                                               "2013":  63524,
+                                               "2015":  78517,
+                                               "2017":  55563,
+                                               "2022":  72689
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "2019":  94387,
+                                               "2013":  92952,
+                                               "2015":  94011,
+                                               "2017":  86567,
+                                               "2022":  95224
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "2019":  31905,
+                                               "2013":  59302,
+                                               "2015":  61702,
+                                               "2017":  74088,
+                                               "2022":  63912
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "2019":  6845,
+                                               "2013":  13406,
+                                               "2015":  13000,
+                                               "2017":  15764,
+                                               "2022":  14436
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "2019":  5054,
+                                               "2013":  7621,
+                                               "2015":  9991,
+                                               "2017":  10714,
+                                               "2022":  8833
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "2019":  14972,
+                                               "2013":  28730,
+                                               "2015":  31614,
+                                               "2017":  26328,
+                                               "2022":  17388
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "2019":  28311,
+                                               "2013":  33602,
+                                               "2015":  37215,
+                                               "2017":  47823,
+                                               "2022":  45465
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "2019":  34720,
+                                               "2013":  77054,
+                                               "2015":  56233,
+                                               "2017":  59242,
+                                               "2022":  57339
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "2019":  5247,
+                                               "2013":  11304,
+                                               "2015":  13423,
+                                               "2017":  13802,
+                                               "2022":  16931
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "2019":  4882,
+                                               "2013":  10893,
+                                               "2015":  7501,
+                                               "2017":  8517,
+                                               "2022":  7606
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "2019":  12799,
+                                               "2013":  24442,
+                                               "2015":  22615,
+                                               "2017":  27041,
+                                               "2022":  21044
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "2019":  9492,
+                                               "2013":  20474,
+                                               "2015":  13722,
+                                               "2017":  16264,
+                                               "2022":  16432
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "2019":  8700,
+                                               "2013":  16308,
+                                               "2015":  16554,
+                                               "2017":  20666,
+                                               "2022":  12681
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "2019":  5718,
+                                               "2013":  18212,
+                                               "2015":  14587,
+                                               "2017":  10153,
+                                               "2022":  9361
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "2019":  17164,
+                                               "2013":  13551,
+                                               "2015":  13885,
+                                               "2017":  19522,
+                                               "2022":  17631
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "2019":  7748,
+                                               "2013":  9919,
+                                               "2015":  7842,
+                                               "2017":  10188,
+                                               "2022":  8989
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "2019":  55157,
+                                               "2013":  46475,
+                                               "2015":  54454,
+                                               "2017":  64107,
+                                               "2022":  58161
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "2019":  5795,
+                                               "2013":  14313,
+                                               "2015":  16055,
+                                               "2017":  17331,
+                                               "2022":  19912
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "2019":  8540,
+                                               "2013":  15480,
+                                               "2015":  15063,
+                                               "2017":  16647,
+                                               "2022":  15947
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2013
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "year":  2017,
+                             "nacional":  2017,
+                             "qroo":  8517
+                         },
+                         {
+                             "year":  2019,
+                             "nacional":  2019,
+                             "qroo":  4882
+                         },
+                         {
+                             "year":  2022,
+                             "nacional":  2022,
+                             "qroo":  7606
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.18 Número de niñas, niños y adolescentes de 5 a 17 años que trabajan y no estudian, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_18_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_18_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.18 Número de niñas, niños y adolescentes de 5 a 17 años que trabajan y no estudian, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_18.xlsx"
+}

@@ -1,0 +1,989 @@
+{
+  "institucion": "Fiscalía General del Estado de Quintana Roo",
+  "periodo": {
+    "anio": 2025,
+    "mes": "Enero"
+  },
+  "unidad_conteo": "Casos",
+  "registros": [
+    {
+      "municipio": "Benito Juárez",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 13,
+            "mujer_13_17": 6,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Othón P. Blanco",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 10,
+            "mujer_13_17": 1,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 0,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Playa del Carmen",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 8,
+            "mujer_13_17": 8,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Cozumel",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 6,
+            "mujer_13_17": 13,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Tulum",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 2,
+            "mujer_13_17": 4,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Felipe Carrillo Puerto",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 15,
+            "mujer_13_17": 9,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Bacalar",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 0,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "José María Morelos",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 9,
+            "mujer_13_17": 6,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Lázaro Cárdenas",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 16,
+            "mujer_13_17": 6,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Puerto Morelos",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 6,
+            "mujer_13_17": 6,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    },
+    {
+      "municipio": "Isla Mujeres",
+      "delitos": [
+        {
+            "nombre": "Violencia familiar",
+            "mujer_0_12": 0,
+            "mujer_13_17": 6,
+            "hombre_0_12": 2,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Abuso sexual",
+            "mujer_0_12": 6,
+            "mujer_13_17": 4,
+            "hombre_0_12": 5,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Incumplimiento de obligaciones de asistencia familiar",
+            "mujer_0_12": 1,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 2
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad y la seguridad sexual",
+            "mujer_0_12": 4,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 5
+            },
+            {
+            "nombre": "Otros delitos contra la familia",
+            "mujer_0_12": 2,
+            "mujer_13_17": 1,
+            "hombre_0_12": 4,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Retención o sustracción de menores e incapaces",
+            "mujer_0_12": 1,
+            "mujer_13_17": 1,
+            "hombre_0_12": 1,
+            "hombre_13_17": 4
+            },
+            {
+            "nombre": "Otros delitos que atentan contra la libertad personal",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 1
+            },
+            {
+            "nombre": "Corrupción de menores",
+            "mujer_0_12": 3,
+            "mujer_13_17": 4,
+            "hombre_0_12": 1,
+            "hombre_13_17": 6
+            },
+            {
+            "nombre": "Lesiones",
+            "mujer_0_12": 0,
+            "mujer_13_17": 0,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Violación",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Trata de personas",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            },
+            {
+            "nombre": "Tráfico de menores",
+            "mujer_0_12": 5,
+            "mujer_13_17": 1,
+            "hombre_0_12": 0,
+            "hombre_13_17": 0
+            }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+    "id":  24,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de adolescentes de 15 a 17 años que trabajan más de 35 horas a la semana",
+    "definicion":  "Se refiere al valor relativo de la población de adolescentes de 15 a 17 años que en la semana de referencia \ntrabajaron más de 35 horas.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.920849621245353,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.4259017404085679
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  54.886069222081979,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.367934946290532
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.238651378884107,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.7416011174005739
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  30.999169665098258,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.65214100073175
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.50455179201181,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.654313546304758
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  54.660876483458196,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.556473194279056
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  40.187442745402016,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  15.14861741971472
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  50.15325964098929,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  16.049227562530653
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  54.10632810950208,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.2088306628726393
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.926226371776231,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.1789006002741411
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  49.970384159756307,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.589183036677984
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.053661438276819,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  13.144177900624893
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.314029881691312,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  15.911974605662083
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.083166267865227,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.0599083164130363
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.329394897307012,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.000308041728161
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  44.338542296448566,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.5048368008610531
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.448772851357816,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.406045609265908
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.830235677332823,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.482983043304932
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.684125791563808,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.4022385009589087
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  54.18683762920319,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.6739155824437653
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  29.241905234279336,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.3244717230059173
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  34.780708145126042,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.941304306795478
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  56.8968877915665,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.6506408296275588
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.795966684987107,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.104122205997978
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  42.151344590368986,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.682649353393876
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  38.82958871389117,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.65787896944278
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  33.057631381653728,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.1152485216937
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.784651842888117,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.9742287421301956
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  35.356600910470412,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.3799972081136511
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  42.073058801933549,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.6659919028340084
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  44.487231705360337,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.4163629188742366
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  37.02951741371232,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.4933371543201037
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.835102941736118,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.2451902150256817
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.62106248914376,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.9785676658968754
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  53.936723490320716,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.4706001724925173
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  45.447769976071861,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.6123388135905214
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.906282661711764,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.96790773473737
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  35.1576852418861,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.2988885064685274
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  48.653283567033192,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.44979122258884
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  30.17043202536663,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.05091436588904
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  45.819714433167043,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  14.36670871927338
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  61.3518810036303,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.7984740772820889
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  44.14822061880885,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.6130366059184968
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.0672469108351,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  13.01151631477927
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  55.028812056737586,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  14.480421774579217
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  39.846738442051929,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  13.427949462182005
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  47.474173298403436,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.835198146687699
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  52.115966121612523,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  16.104261876926348
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  45.344102677583535,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.39427832290586
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  44.044941042691519,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  13.703555579483314
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  47.811925400577884,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.7699991462477591
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.51429085026065,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.3356874862061368
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  56.366067728933587,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.853182662179412
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.7464471461225,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.076636401191868
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  30.0086414314277,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.9139707825299155
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  59.312857886517435,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.8800759605629409
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  32.215221151470224,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.1386161922922993
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.824016751638752,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.3943247339174665
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  34.918347742555234,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.1959243085880642
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.399252814235851,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.438542651604376
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  25.352213146913005,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.2884543844768839
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  32.084081160831076,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.5514616866505957
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  33.71868978805395,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.7045199850579005
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.052525065627421,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.4826706258001163
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  33.5114876975721,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.4686717617604419
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  29.573159366262814,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.5832684151302683
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.184039445914131,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.030855166489786
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  54.329903931321113,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.4999821294542333
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  48.990215135241989,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.3422309124215532
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.668457818377213,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.11619079400171
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  38.547205058198017,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.9942251448370936
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  53.430346051464063,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.6092715231788084
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  31.101113651449218,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.52542296311355
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  49.385901401961426,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.154819354128943
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  57.693087958266922,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.4831364329268286
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.185504614919054,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  3.5068124885440213
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  50.006041322646908,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.310010806952141
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  55.381972304294059,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  17.618459893754711
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  40.818615849738023,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.346690501017925
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  26.676658876130478,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.1070078511195112
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  47.870121339617782,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.526799174016357
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  53.181044108565331,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.8011215354629844
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  51.54215387700367,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  16.466075704070274
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  49.565911585670094,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.0474412335267171
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  39.992937229628325,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.906902201011469
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  47.763313609467453,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.218407188422109
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  39.561769437760724,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.894940108608285
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  42.782520172561981,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  13.450142054025127
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  63.568710832587286,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.40145478016931
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  42.962074651476541,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.27243281099536
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.215859030837009,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.079540388399147
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.365023265274985,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.1251668834968545
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  40.824011518440578,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.4816549121575751
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  38.897749424065218,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.2606959498003416
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  37.223529411764709,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.5337023312538118
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.423912426975214,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.225625905751837
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  49.830433882158019,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.8650065168632466
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  49.862096863163316,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.673496797300089
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  34.463276836158194,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.539310373819008
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  39.343907594494283,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.2989237440163679
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  42.095607506027889,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.1253067902917913
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.943863160767904,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.0765207264549677
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  22.561797752808989,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  2.4980717075962282
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  37.457135320495908,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.407052014317264
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.163670210160191,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.9332877947178932
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  50.678235366002689,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.121052374676625
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  39.617931679071731,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.935278053937052
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.409055700302794,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.6539735497300656
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  32.48858895018342,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  2.9895358514972159
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  45.801654273539974,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.42071436755867
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  55.677949128780291,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.612361929419166
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  33.21726662911567,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.9974298050165027
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  26.070534913365751,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  3.6117942546177595
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  50.605365488647095,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.040083428045744
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  31.144544745347151,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.141465236351709
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  40.124308484776812,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.243285939968404
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  35.73455324570039,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.1155927298674015
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  32.89351725642004,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.2961262288514277
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  26.333558406482105,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  3.0857648417017023
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.36088205074163,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.330199003863935
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  38.848595632604123,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  11.015437775176949
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  37.121604139715394,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.7857303679983989
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  37.542378302309217,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.3981946821615843
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  33.618262018092551,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.2200962768874533
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  34.7052067381317,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.2638608227068966
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.444809941520464,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  3.6383398978506563
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  26.152322980455427,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.153998467964561
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  42.965792206921968,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.2608322063770263
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  41.233262456180682,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.5274137221314845
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  50.587356841629251,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.578726866869728
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  34.391290307699407,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.6202523776962767
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.143364640615111,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.777571920571955
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  40.364156930713804,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.0967638969683975
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  48.895316634869843,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.119601075008596
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.534472684779431,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.9135543510543513
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.594470046082954,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.782820678282067
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  21.547631073845842,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.4079355238685674
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  51.976300624949282,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.4146544787222339
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  55.488750969743982,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  14.085616522659578
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.740286130667705,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  10.29739595168718
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  47.13127248338516,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.7337121818472871
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  23.288196218702094,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  1.8346223324762367
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  39.248405915072581,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.1175117146945759
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  51.691946070604935,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  13.070990206990521
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  40.111886270896406,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  14.22921394484446
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  32.83688693719909,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.595117286082405
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  49.1576382769167,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.904615887070436
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  55.419659224088711,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.6791112517592586
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  45.822346625559476,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  12.742204156529782
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  55.629700842617204,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.222504523592999
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.489483747609945,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.97617398114401
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  32.202415181138583,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.4531417468209131
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  28.872396843875308,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.7572948849982826
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  35.157063648717006,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.37244568953096
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  54.58801092280352,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.2090350036926818
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  43.770082113530883,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.8353720644651546
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.1949237347242,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  7.7626461674535978
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  35.239846340742687,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.2118379701706763
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  26.378144606200888,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  4.7019799238866664
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  33.881856540084385,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.3548802987529731
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  36.70908396273547,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  6.1195594661858941
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  46.178123316141942,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  8.1479368701274
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  24.343164040570382,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  5.3955573805509411
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  34.402046875987111,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.080524937884574
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población de 15 a 17 años que trabaja":  38.923188668966766,
+                                               "Porcentaje de adolescentes que trabajan más de 35 horas, respecto a la población total de 15 a 17 años":  9.42954238015111
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "qroo":  42.962074651476541,
+                             "nacional":  46.184039445914131,
+                             "year":  2017
+                         },
+                         {
+                             "qroo":  37.542378302309217,
+                             "nacional":  39.343907594494283,
+                             "year":  2019
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.14 Porcentaje de adolescentes de 15 a 17 años que trabajan más de 35 horas a la semana, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_14_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_14_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.14 Porcentaje de adolescentes de 15 a 17 años que trabajan más de 35 horas a la semana, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_14.xlsx"
+}

@@ -1,0 +1,1362 @@
+{
+    "id":  22,
+    "tema":  "proteccion",
+    "nombre":  "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian",
+    "definicion":  "Se refiere al valor relativo de la población de niñas, niños y adolescentes de 5 a 17 años que durante el \nperiodo de referencia realizaron algún tipo de actividad económica o se incorporaron a alguna durante la \nsemana de la entrevista y que no asisten a la escuela.",
+    "fuente":  "INEGI. Módulo de Trabajo Infantil. Base de datos 2013, 2015 y 2017. Encuesta Nacional de Trabajo Infantil. Base de datos 2019.",
+    "unidad":  "Porcentaje",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  "Trimestre: Octubre-Diciembre. 2013, 2015, 2017 y 2019.",
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1147652740747205,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.023200284780224
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.9166754034130227,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  43.591350673769981
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.8390159200505816,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.912192305673642
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.7819800175159519,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.531908804731472
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.2524489108518009,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.847144006436043
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.041892694687637,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  41.106727088053752
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.4798854236835561,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  31.322131704005429
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.3845817601715718,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.32293323941267
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2851759132143532,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  73.8525246198281
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6350338071117743,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.92082672389661
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.9458268243695604,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  42.17981213657373
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.5157833721536225,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  34.127741663233827
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.5596086536916518,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.123310068641644
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.3306769130675162,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  30.686052318211498
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.3297357817650788,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.449772937408369
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.3561505358954791,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  41.230272437745626
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.1774956782901747,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  47.293665414583188
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0109265685184563,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.934465296395594
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.6161673028863319,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  20.596740628631657
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.5583942580834749,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.702061798684426
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1878670928287693,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  27.147427611168563
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.8187180436457515,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.334201548112546
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.243493689677825,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  52.886684757181627
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.8705145739289923,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.802221047065046
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.4405484157036077,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  37.486580166252573
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.7992966893538132,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.380363344143728
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2882864932444473,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.70816482675702
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.12107979901151,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  27.179655553234038
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6474939272141049,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  22.766754590816689
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0105927702066957,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  37.195785052686844
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.404053811492179,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  34.741169874789755
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.9134098680996581,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  34.734389788142792
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.7328729135217773,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  31.273359057758743
+                                           },
+                               "year":  2013
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1120216830945209,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.967409790592768
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1419229743377657,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  53.648551837068879
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6628443176862049,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.283682634730539
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2738932561026064,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.832814648621266
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1849177335026417,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  31.702051097517092
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.3602232030387684,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.663641467065872
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0973219737722077,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  23.989910364398
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.5305694335072753,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  43.666150183288615
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0371498570583015,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  59.776701074362762
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.67553503902667,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  37.815884476534293
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.5676991179691475,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.083531527350772
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.6366944397671306,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  46.603908241291421
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.082827748365828,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  33.859794729359947
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.3553459545042421,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.308390686776981
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.1273926466313311,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.670737247633063
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2651741076559468,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.853403598774086
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.5562209197093573,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  51.438051252980308
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.8094561973362033,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  50.603347606072404
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.3776200135226504,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  23.670868081880212
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.7263295966387857,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  42.283925848647783
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.7421190761093626,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.232377911052261
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.5601254302723042,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  26.976733029503482
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.7361602028627456,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  52.188958009331252
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.9869567060119946,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  33.159453605057251
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.2275374666934975,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  31.43635580144289
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.9216576502896772,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  22.00202029919669
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.3847974564465453,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.174156709315852
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.4209904368637165,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.824075720750091
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6146681877224747,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  30.729224300099588
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.358290555109479,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.051223350980109
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.8764931442012944,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  47.78720678186238
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.252554638055801,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.260915400158133
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.6784960731450003,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  30.494989371393867
+                                           },
+                               "year":  2015
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1182899581506542,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.571114860920233
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.8078699410453729,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  49.824656056110058
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.7778317452607821,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.611017136132972
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.5077614725591655,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  22.053349875930522
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.3395202626044291,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.7625015408637
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.0765262193945087,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.059683814820531
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0194324963022154,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  24.609699769053115
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.2872753360470357,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  61.17940230227066
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.849691353430623,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  56.88122068716708
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  0.9085291028828012,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  20.903724811723997
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.1937070163560559,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.921621745718355
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.2064928011840284,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  45.247119017445783
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.283856393038306,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.908762349045112
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.4119986157452451,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  30.620026525198941
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.9580371108203161,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.506010007093153
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.1681155500121467,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  34.726952531099691
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  6.4819181186269406,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  59.388702294971587
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.4754772056845789,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  55.124663426233525
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.5081055771478713,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  26.353462058787358
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.3054795420214975,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  42.454929532041149
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.5452428587042784,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  41.338980853178889
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.6901568824334778,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.142623829833287
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.8589420133149392,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  60.577598314606739
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.1331857276675468,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  37.4587676474469
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.9262918242062037,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  44.1291185926204
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2142230886941747,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  27.601187950784894
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.011790081175219,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.99535522827118
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6959203036053132,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.032248267483915
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2957389711156946,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  30.906356368241905
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0789502314954729,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  41.969104016477857
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.34332570867115,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  52.79381366889293
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.5560616786186947,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  44.754034861200779
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.1295805673801089,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.263503692075119
+                                           },
+                               "year":  2017
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.9570830467884861,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  25.955997027781319
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.5782766224636333,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.513721714010593
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  0.85549675240985823,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  23.391218768849807
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  0.64139577708765738,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  18.255848386141547
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.296612992781788,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  17.288557213930346
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.0540601226629986,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  25.139777702930278
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.2535386054207658,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.3788711623542
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.6281135186545446,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.67938413760675
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.5524043074954685,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.570838411170552
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  0.57026019507239289,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  16.235294117647058
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.7585501811227986,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.940262478843543
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.312986633715969,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.028280998389693
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.2606810299619691,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  17.983938141413507
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.269685664215386,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  24.571428571428573
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.3442804271068194,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  18.126728246161086
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.38255046262932,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.955558833994324
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.8966231030772933,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  24.537022795090287
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6327513948157462,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  23.355397843592193
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6585554749723519,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  16.40909090909091
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.3816753598151368,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.180224634616287
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.740645011398783,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  17.731944557531271
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2517833644315512,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  17.638422499149069
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.0611769416989751,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  18.83953897526121
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.2347208979420476,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  18.474929044465469
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.9302346624841649,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  19.828654644605564
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.4345411266860619,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  24.122595237490152
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.2544681415559154,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  25.09229349330872
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  0.95037695959152746,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  12.236774524910118
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.0120271490030128,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  42.061411032420907
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.4057479615726165,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  25.143598896641244
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0418492096056191,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.6314013800615
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.2491566306613526,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  17.091370258951219
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.09552553768388,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  25.909408088346837
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.2111294979567586,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.10593884864489
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.3498396197700826,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  45.614314749133221
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2845041062676947,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  51.561326919333759
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.5760560297658133,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.410681399631677
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.104860313815538,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.118609406952967
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "05 Coahuila ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.8116669561064558,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  38.481268011527376
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.3315380472416707,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  33.609983281585862
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.9180468965652917,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.024036146160789
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.6796185383416264,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  44.320494911195368
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  0.6990917265049873,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  22.758590804697317
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.86960044347789,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.210862285475095
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.4708657719896943,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  56.895760851922681
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.2471019566135251,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.729272927292726
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.6370664261754317,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.629282522343598
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.9783657990473467,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  41.536571428571428
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.6420287442428281,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  46.462517321466905
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "16 Michoacán ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  5.39916316012229,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  54.366817799025156
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.4110805772088968,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  53.259546209186496
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.0517551133222773,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  22.5682822759907
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.4368229257046532,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  28.601036269430054
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.5076709226721023,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  36.426494035076473
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.6027663998160255,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  32.449915110356535
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.2224419452274327,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  60.5457016163639
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.8302924714001763,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  37.823859963200555
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.3292937986286679,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.204038744435742
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.5325703153537078,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.335804408660216
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.9039054007795189,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  29.78158759981212
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  1.6009974379936307,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  22.341288782816228
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.2036987041036715,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.819770987194254
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  2.7380694919539321,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.945785006443586
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "30 Veracruz ",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.2033844254083057,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  35.184479410537008
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  4.221452406897809,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  40.334636498065507
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes":  3.9859229209938936,
+                                               "Porcentaje de niñas, niños y adolescentes que trabajan y no estudian,\nrespecto al total de niñas, niños y adolescentes que trabajan":  39.02838962310328
+                                           },
+                               "year":  2022
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.",
+                               "valores":  {
+
+                                           },
+                               "year":  2022
+                           }
+                       ],
+    "datosGrafica":  [
+                         {
+                             "qroo":  37.4587676474469,
+                             "nacional":  39.571114860920233,
+                             "year":  2017
+                         },
+                         {
+                             "qroo":  18.474929044465469,
+                             "nacional":  25.955997027781319,
+                             "year":  2019
+                         }
+                     ],
+    "years":  [
+                  2013,
+                  2015,
+                  2017,
+                  2019,
+                  2022
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.12 Porcentaje de niñas, niños y adolescentes de 5 a 17 años que trabajan y no estudian, Nacional y Quintana Roo, 2017, 2019 y 2022/T_proteccion_4_12_QROO.xlsx",
+    "nombreArchivoExcel":  "T_proteccion_4_12_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PROTECCIÓN/Trabajo/4.12 Porcentaje de niñas, niños y adolescentes de 5 a 17 años que trabajan y no estudian, Nacional y Quintana Roo, 2017, 2019 y 2022/M_proteccion_4_12.xlsx"
+}

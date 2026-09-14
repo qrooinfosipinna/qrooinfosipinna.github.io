@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tablero SIPINNAS Municipales | SIESESIPINNA</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <!-- Preconnect a fuentes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/tablero-sipinnas.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+</head>
+
+<body>
+
+  
+   <div id="header"></div>
+
+   <main class="tablero-sipinnas">
+
+    <section class="tablero-hero">
+      <span class="etiqueta">SIPINNAS Municipales</span>
+      <p>
+        Tablero estadístico mensual de acciones, talleres, programas, ferias y actividades
+        realizadas por los SIPINNAS municipales del Estado de Quintana Roo.
+      </p>
+    </section>
+
+    <section class="filtros-tablero">
+      <div>
+        <label for="filtroMes">Mes reportado</label>
+        <select id="filtroMes">
+          <option value="todos">Todos los meses</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="filtroMunicipio">Municipio</label>
+        <select id="filtroMunicipio">
+          <option value="todos">Todos los municipios</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="resumen-cards">
+      <article class="card-indicador">
+        <span>Total de beneficiarios</span>
+        <strong id="totalBeneficiarios">0</strong>
+      </article>
+
+      <article class="card-indicador">
+        <span>Total de actividades</span>
+        <strong id="totalActividades">0</strong>
+      </article>
+
+      <article class="card-indicador">
+        <span>Mujeres beneficiarias</span>
+        <strong id="totalMujeres">0</strong>
+      </article>
+
+      <article class="card-indicador">
+        <span>Hombres beneficiarios</span>
+        <strong id="totalHombres">0</strong>
+      </article>
+    </section>
+
+    <section class="selector-estadistica">
+      <div>
+        <label for="selectorGrafica">Selecciona la estadística a visualizar</label>
+        <select id="selectorGrafica">
+          <option value="municipios">Beneficiarios por municipio</option>
+          <option value="sexo">Distribución por sexo</option>
+          <option value="edad">Beneficiarios por rango de edad</option>
+          <option value="condiciones">Condiciones registradas</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="panel-grafica grafica-activa">
+      <h2 id="tituloGrafica">Beneficiarios por municipio</h2>
+      <canvas id="graficaPrincipal"></canvas>
+    </section>
+
+    <section class="panel-tabla">
+      <h2>Detalle de actividades reportadas</h2>
+
+      <div class="tabla-responsive">
+        <table>
+          <thead>
+            <tr>
+              <th>Municipio</th>
+              <th>Mes</th>
+              <th>Actividad</th>
+              <th>Fecha</th>
+              <th>Mujeres</th>
+              <th>Hombres</th>
+              <th>Total</th>
+            </tr>
+          </thead>
+
+          <tbody id="tablaReportes"></tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <div id="footer"></div>
+
+   <script src="js/tablero-base.js" defer></script>
+   <script src="js/tablero-sipinnas.js" defer></script>
+    <script src="js/layout.js" defer></script>
+
+</body>
+</html>

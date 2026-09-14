@@ -1,0 +1,260 @@
+{
+    "id":  11,
+    "tema":  "participacion",
+    "nombre":  "Promedio de horas semanales dedicadas a la realización de actividades artísticas o culturales",
+    "definicion":  "Total de horas semanales dedicadas por los adolescentes de 12 a 17 años a la realización de actividades artísticas o culturales dividido entre el total de adolescentes de 12 a 17 años.",
+    "fuente":  "INEGI. Encuesta Nacional sobre Uso del Tiempo (ENUT)",
+    "unidad":  "Promedio",
+    "cobertura":  "Nacional\nEntidad federativa",
+    "referencia":  2019,
+    "nota":  "Encuesta",
+    "datosTabulares":  [
+                           {
+                               "municipio":  "Nacional",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "01 Aguascalientes",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "02 Baja California",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "03 Baja California Sur",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "04 Campeche",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "05 Coahuila",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "06 Colima",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "07 Chiapas",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "08 Chihuahua",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "09 Ciudad de México",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "10 Durango",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "11 Guanajuato",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "12 Guerrero",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "13 Hidalgo",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "14 Jalisco",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "15 México",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "16 Michoacán",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "17 Morelos",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "18 Nayarit",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "19 Nuevo León",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "20 Oaxaca",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "21 Puebla",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "22 Querétaro",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "23 Quintana Roo",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "24 San Luis Potosí",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "25 Sinaloa",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "26 Sonora",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "27 Tabasco",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "28 Tamaulipas",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "29 Tlaxcala",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "30 Veracruz",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "31 Yucatán",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "32 Zacatecas",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           },
+                           {
+                               "municipio":  "FUENTE: INEGI. Encuesta Nacional sobre Uso del Tiempo (ENUT) 2019.",
+                               "valores":  {
+
+                                           },
+                               "year":  2019
+                           }
+                       ],
+    "datosGrafica":  {
+
+                     },
+    "years":  [
+                  2019
+              ],
+    "archivoExcel":  "Data/INDICADORES INEGI/PARTICIPACIÓN/Cultura y recreación/3.4 Promedio de horas semanales dedicadas a la realización de actividades artísticas o culturales, Nacional y Quintana Roo, 2019/T_participacion_3_4_QROO.xlsx",
+    "nombreArchivoExcel":  "T_participacion_3_4_QROO.xlsx",
+    "archivoMetadato":  "Data/INDICADORES INEGI/PARTICIPACIÓN/Cultura y recreación/3.4 Promedio de horas semanales dedicadas a la realización de actividades artísticas o culturales, Nacional y Quintana Roo, 2019/M_participacion_3_4.xlsx"
+}

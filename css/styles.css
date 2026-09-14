@@ -1,0 +1,505 @@
+/* ===== VARIABLES INSTITUCIONALES ===== */
+
+:root {
+  --color-guinda: #7a1f3d;
+  --color-guinda-bright: #a4163d;
+  --color-guinda-oscuro: #5f1930;
+  --color-guinda-claro: #a8325a;
+  --color-rojo-hover: #d72638;
+  --color-nav-hover: #72122a;
+  --color-verde: #154f39;
+  --color-verde-medio: #1e6b4b;
+  --color-verde-claro: #4f8c70;
+  --color-azul: #004f73;
+  --color-azul-claro: #0073a8;
+  --color-azul-muy-claro: #8cc7dd;
+  --color-gris-fondo: #f4f6f9;
+  --color-gris-texto: #555;
+  --color-gris-borde: #e5e5e5;
+  --color-footer-base: #37393b;
+
+  --color-principal: #154f39;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== TIPOGRAFIA INSTITUCIONAL ===== */
+
+body {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: var(--color-gris-fondo);
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: var(--color-guinda);
+}
+
+.card-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.card-text {
+  font-weight: 400;
+  color: var(--color-gris-texto);
+}
+
+.btn-institucional {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1400px;
+  margin: auto;
+}
+
+/* ===== HEADER ===== */
+
+header {
+  background-color: #fffcf6;
+  color: white;
+  padding: 1rem 0;
+}
+
+.header-inner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo-left img,
+.logo-right img {
+  height: 60px;
+  width: auto;
+}
+
+.nav-toggle {
+  display: none;
+  font-size: 1.6rem;
+  background: none;
+  border: none;
+  color: white;
+}
+
+/* ===== NAVEGACIÓN ===== */
+
+#main-nav {
+  flex: 2;
+  text-align: center;
+}
+
+#main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+  padding: 0;
+  margin: 0;
+}
+
+#main-nav .nav-link {
+  text-decoration: none;
+  color: var(--color-guinda-bright);
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+#main-nav .nav-link:hover {
+  color: var(--color-nav-hover);
+  transform: scale(1.05);
+}
+
+.nav-toggle:hover {
+  color: var(--color-nav-hover);
+}
+
+/* --- RESPONSIVO NAVEGACIÓN --- */
+
+@media (max-width: 768px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+  }
+
+  #main-nav {
+    position: static;
+    transform: none;
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  #main-nav > ul {
+    flex-direction: column;
+    gap: 10px;
+    display: none;
+  }
+
+  #main-nav.nav-open > ul {
+    display: flex;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+}
+
+/* ===== DROPDOWN CONSULTA ===== */
+
+.dropdown {
+  position: relative;
+}
+
+.submenu {
+  position: absolute;
+  top: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 260px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 10px 0;
+  list-style: none;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.18);
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.35s cubic-bezier(0.2, 0.8, 0.2, 1);
+  z-index: 999;
+}
+
+.submenu li {
+  width: 100%;
+}
+
+.submenu li a {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 12px 20px;
+  color: #444;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.25s;
+  border-radius: 0;
+}
+
+.submenu li a:hover {
+  background: rgba(164, 22, 61, 0.08);
+  color: var(--color-guinda);
+  padding-left: 26px;
+}
+
+.dropdown:hover .submenu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.dropdown > a::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 0%;
+  background: var(--color-guinda);
+  transition: 0.3s;
+  margin: auto;
+}
+
+.dropdown:hover > a::after {
+  width: 80%;
+}
+
+/* ===== HERO ===== */
+
+.hero {
+  background-color: #a4163dbd;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.hero h3 {
+  color: #ffffff;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.hero img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
+
+/* ===== INFO SECCIONES ===== */
+
+.info-sections {
+  padding: 2rem 0;
+}
+
+.info-sections p {
+  font-size: 1.15rem;
+  font-weight: 450;
+  line-height: 1.5;
+  color: #333;
+}
+
+.info-layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.info-text {
+  flex: 1 1 60%;
+}
+
+.info-text h1,
+.info-text h3 {
+  text-align: center;
+  color: var(--color-guinda);
+}
+
+.info-text p {
+  text-align: justify;
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+.info-image {
+  flex: 1 1 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.info-block {
+  margin-bottom: 2rem;
+}
+
+.info-block h2 {
+  margin-bottom: 0.5rem;
+}
+
+/* ===== STAT CARDS ===== */
+
+.stats-overview {
+  padding: 2rem 0;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.stat-card {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 15px;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stat-card img.card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.stat-card .card-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+/* ===== FOOTER ===== */
+
+.footer-inst {
+  background: var(--color-footer-base);
+  color: #fff;
+  margin-top: 80px;
+  padding-top: 60px;
+  position: relative;
+  overflow: hidden;
+}
+
+.footer-inst::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    rgba(255, 255, 255, 0.15) 0%,
+    rgba(255, 255, 255, 0.05) 40%,
+    rgba(255, 255, 255, 0.15) 100%
+  );
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+.footer-grid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer-col h4 {
+  font-size: 18px;
+  margin-bottom: 18px;
+  font-weight: 800;
+}
+
+.footer-col p,
+.footer-col a {
+  color: #f1f1f1;
+  font-size: 14px;
+  text-decoration: none;
+  line-height: 1.6;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-col ul li {
+  margin-bottom: 8px;
+}
+
+.footer-col a:hover {
+  color: #ffd166;
+}
+
+.footer-desc {
+  margin-top: 15px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.footer-social {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-bottom {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  margin-top: 40px;
+  padding: 18px;
+  background: rgba(0, 0, 0, 0.25);
+  font-size: 14px;
+}
+
+/* ===== RESPONSIVE GENERAL ===== */
+
+@media (max-width: 900px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .stat-card {
+    height: auto;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .stat-card img.card-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    max-height: 140px;
+  }
+}
+
+/* ===== PLACEHOLDER ===== */
+
+.placeholder-container {
+  text-align: center;
+  width: 100%;
+  padding: 2rem 1rem;
+}
+
+.placeholder-icon {
+  font-size: 4rem;
+  opacity: 0.3;
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+/* ===== BADGES ===== */
+
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: 20px;
+}
+
+.badge.bg-ready {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.badge.bg-pending {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+/* ===== INDICATOR CARD THEME COLORS ===== */
+
+.indicator-card-al25 .card-title { color: var(--color-verde); }
+.indicator-card-participacion .card-title { color: var(--color-azul); }
+.indicator-card-proteccion .card-title { color: var(--color-guinda); }
