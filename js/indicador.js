@@ -1203,6 +1203,51 @@ function mostrarError(mensaje) {
   `;
 }
 
+function mostrarPlaceholderData(indicador, tema) {
+  limpiarContenido();
+
+  const config = TEMAS_CONFIG[tema] || TEMAS_CONFIG.al25;
+  document.documentElement.style.setProperty("--color-principal", config.colorPrincipal);
+  document.documentElement.style.setProperty("--color-secundario", config.colorSecundario || config.colorPrincipal);
+
+  const excelBtn = qs("btnDescargarExcel");
+  const metaBtn = qs("btnDescargarMetadatos");
+  if (excelBtn) excelBtn.style.display = "none";
+  if (metaBtn) metaBtn.style.display = "none";
+
+  if (qs("tituloGrafica")) qs("tituloGrafica").textContent = "Datos no disponibles";
+  if (qs("tituloTabla")) qs("tituloTabla").textContent = "Datos no disponibles";
+
+  qs("tablaIndicador").innerHTML = `
+    <div class="placeholder-container text-center">
+      <div class="placeholder-icon" aria-hidden="true">&#9201;</div>
+      <h3 class="text-muted mb-3">En construcción / Actualización</h3>
+      <p class="text-secondary mb-2">
+        El indicador <strong>${escaparHTML(indicador?.clave || indicador?.nombre || "seleccionado")}</strong>
+        aún no tiene los archivos de datos configurados en el sistema.
+      </p>
+      <p class="text-muted">
+        Estamos trabajando en la integración de la información. Vuelve pronto para consultar los datos completos.
+      </p>
+      <a href="listado.html" class="btn-institucional mt-3" style="max-width: 260px; margin: 20px auto;">
+        Volver a indicadores
+      </a>
+    </div>
+  `;
+
+  mostrarEstado("", "");
+}
+
+function esErrorArchivoFaltante(error) {
+  return error?.code === "FILE_NOT_FOUND" ||
+    /no se pudo abrir el archivo/i.test(error?.message || "") ||
+    /archivo de datos configurado/i.test(error?.message || "");
+}
+
+function esErrorSinDatos(error) {
+  return /sin\s*hoja\s*de\s*gráfica|contiene una hoja/i.test(error?.message || "");
+}
+
 /* ---------- Carga principal ---------- */
 
 async function cargarIndicadorDetallado(tema, indicadorId) {
@@ -1210,12 +1255,31 @@ async function cargarIndicadorDetallado(tema, indicadorId) {
   aplicarTema(tema);
   limpiarContenido();
 
+  const config = TEMAS_CONFIG[tema] || {};
+
+  if (config.sinDatos) {
+    const indicadoresTema = obtenerIndicadoresTema(tema);
+    construirTabs(indicadoresTema, tema, indicadorId);
+
+    const indicador = obtenerIndicador(indicadorId, tema) ||
+      { id: indicadorId, nombre: config.titulo };
+    pintarEncabezadoIndicador(indicador);
+    mostrarPlaceholderData(indicador, tema);
+    return;
+  }
+
   const indicadoresTema = obtenerIndicadoresTema(tema);
   construirTabs(indicadoresTema, tema, indicadorId);
 
   const indicador = obtenerIndicador(indicadorId, tema);
   if (!indicador) {
     mostrarError(`No se encontró el indicador ${indicadorId} dentro del tema ${tema}.`);
+    return;
+  }
+
+  if (!rutaArchivo(indicador, "archivoExcel")) {
+    pintarEncabezadoIndicador(indicador);
+    mostrarPlaceholderData(indicador, tema);
     return;
   }
 
@@ -1256,6 +1320,12 @@ async function cargarIndicadorDetallado(tema, indicadorId) {
     mostrarEstado("");
   } catch (error) {
     console.error("Visor INEGI:", error);
+
+    if (esErrorArchivoFaltante(error) || esErrorSinDatos(error)) {
+      mostrarPlaceholderData(indicador, tema);
+      return;
+    }
+
     mostrarError(error.message || "Error desconocido al leer el indicador.");
   }
 }
@@ -1290,6 +1360,21 @@ async function inicializarVisor() {
   if (!TEMAS_CONFIG[tema]) {
     aplicarTema("al25");
     mostrarError(`Tema no reconocido: ${tema}`);
+    return;
+  }
+
+  const configTema = TEMAS_CONFIG[tema];
+
+  if (configTema.sinDatos) {
+    aplicarTema(tema);
+    limpiarContenido();
+    const indicadoresTema = obtenerIndicadoresTema(tema);
+    construirTabs(indicadoresTema, tema, indicadorId);
+
+    const indicador = obtenerIndicador(indicadorId, tema) ||
+      { id: indicadorId, nombre: configTema.titulo };
+    pintarEncabezadoIndicador(indicador);
+    mostrarPlaceholderData(indicador, tema);
     return;
   }
 

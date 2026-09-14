@@ -44,7 +44,8 @@ const TEMAS_CONFIG = {
     descripcion: "Indicadores sobre las características poblacionales de niñas, niños y adolescentes.",
     colorPrincipal: "#0d6efd",
     colorSecundario: "#6610f2",
-    imagen: "images/demografico.png"
+    imagen: "images/demografico.png",
+    sinDatos: true
   },
 
   desarrollo: {
@@ -53,16 +54,18 @@ const TEMAS_CONFIG = {
     descripcion: "Indicadores relacionados con educación, desarrollo y condiciones socioeconómicas.",
     colorPrincipal: "#17a2b8",
     colorSecundario: "#20c997",
-    imagen: "images/desarrollo.png"
+    imagen: "images/desarrollo.png",
+    sinDatos: true
   },
 
   supervivencia: {
     nombre: "Supervivencia",
     titulo: "Indicadores de Supervivencia",
     descripcion: "Indicadores relacionados con mortalidad, nacimientos y condiciones de supervivencia.",
-    colorPrincipal: "#fd7e14",
+    colorPrincipal: "#fd7e10",
     colorSecundario: "#e83e4a",
-    imagen: "images/supervivencia.png"
+    imagen: "images/supervivencia.png",
+    sinDatos: true
   }
 };
 
