@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SESIPINNA · Tablero estatal | SIESESIPINNA</title>
+  <link rel="icon" href="images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/tablero-sesipinna.css?v=3">
+  <script src="js/layout.js" defer></script>
+  <script src="js/tablero-sesipinna.js?v=2" defer></script>
+</head>
+<body>
+  <div id="header"></div>
+  <main class="se-tablero">
+    <a class="se-back" href="tableroEstadistico.html">← Todos los tableros</a>
+    <section class="se-hero" aria-labelledby="se-titulo">
+      <h1 id="se-titulo" class="se-etiqueta">SESIPINNA estatal</h1>
+      <p>Actividades, fortalecimiento institucional y comunicación digital de la Secretaría Ejecutiva.</p>
+    </section>
+
+    <p class="se-review"><strong>Cifras reportadas, en revisión de consistencia.</strong> Se conservan los datos originales y se señalan diferencias de captura. Los registros y las participaciones no equivalen a personas únicas.</p>
+    <div id="se-estado" role="status" aria-live="polite">Cargando los reportes…</div>
+    <div id="se-contenido" hidden>
+      <div class="se-tabs" role="group" aria-label="Línea de trabajo">
+        <button type="button" data-linea="nna" aria-pressed="true">Atención a NNA</button>
+        <button type="button" data-linea="fortalecimiento" aria-pressed="false">Fortalecimiento y familias</button>
+        <button type="button" data-linea="gestion" aria-pressed="false">Gestión estatal</button>
+        <button type="button" data-linea="comunicacion" aria-pressed="false">Comunicación digital</button>
+      </div>
+      <section class="se-filtros" aria-label="Filtros de consulta">
+        <div><label for="se-desde">Mes inicial · 2026</label><select id="se-desde"></select></div>
+        <div><label for="se-hasta">Mes final · 2026</label><select id="se-hasta"></select></div>
+        <div><label for="se-municipio">Municipio / cobertura</label><select id="se-municipio"></select></div>
+        <div><label for="se-tipo">Tipo de registro</label><select id="se-tipo"></select></div>
+        <button type="button" id="se-limpiar">Restablecer</button>
+      </section>
+      <div class="se-heading">
+        <div>
+          <h2 id="se-linea-titulo"></h2>
+          <p id="se-cobertura"></p>
+        </div>
+      </div>
+      <p id="se-contexto" class="se-note"></p>
+      <section id="se-kpis" class="se-kpis" aria-label="Resumen de la selección"></section>
+      <div class="se-charts">
+        <section class="se-panel"><div class="se-panel-heading"><h3 id="se-chart1-title"></h3><span>POR MES REPORTADO</span></div><div id="se-chart1"></div></section>
+        <section class="se-panel"><div class="se-panel-heading"><h3 id="se-chart2-title"></h3><span>DESGLOSE DISPONIBLE</span></div><div id="se-chart2"></div><p id="se-chart2-note" class="se-note"></p></section>
+      </div>
+      <section class="se-panel se-territorio" id="se-territorio"><h3>Cobertura territorial reportada</h3><p class="se-note">Municipio consignado en el reporte o cobertura estatal explícita. Sin registro no significa ausencia de atención. Las cifras estatales sin desglose no se reparten entre municipios.</p><div id="se-municipios"></div></section>
+      <section class="se-panel se-detalle">
+        <div class="se-heading"><div><h3>Detalle de los registros</h3><p id="se-conteo" aria-live="polite"></p></div><div class="se-search"><label for="se-buscar">Buscar actividad, programa o lugar</label><input id="se-buscar" type="search" placeholder="Escribe para buscar…"></div></div>
+        <p class="se-note">Abre cada registro para consultar su objetivo, desglose, fuente y observaciones. La búsqueda también actualiza las gráficas y los totales.</p>
+        <div class="se-table-wrap"><table><caption class="se-sr">Registros de la selección actual</caption><thead id="se-thead"></thead><tbody id="se-tbody"></tbody></table></div>
+      </section>
+      <section class="se-panel se-metodo" hidden><details><summary>Fuentes y criterios de lectura</summary><div id="se-fuentes"></div><p>La consulta utiliza el mes de la hoja de reporte, aunque alguna fecha capturada no coincida. Se mantienen los blancos como datos no reportados. Los totales se calculan desde las filas, no desde subtotales incompletos. Discapacidad y afrodescendencia son características que no se suman al total de participantes.</p><p>Las cifras se presentan por línea de trabajo: una feria puede tener registros para distintos públicos, y una solicitud de información puede referir actividades ya reportadas. No se calcula un total único entre fuentes. Los contenidos digitales con igual título y fecha, pero métricas distintas, se conservan por separado.</p><div id="se-auditoria"></div></details></section>
+    </div>
+  </main>
+  <div id="footer"></div>
+</body>
+</html>

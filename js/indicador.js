@@ -1357,24 +1357,17 @@ async function inicializarVisor() {
     return;
   }
 
-  if (!TEMAS_CONFIG[tema]) {
-    aplicarTema("al25");
-    mostrarError(`Tema no reconocido: ${tema}`);
+  const configTema = TEMAS_CONFIG[tema];
+
+  /* Temas sin datos → página de placeholder dedicada */
+  if (configTema?.sinDatos) {
+    window.location.replace(`placeholder.html?tema=${encodeURIComponent(tema)}`);
     return;
   }
 
-  const configTema = TEMAS_CONFIG[tema];
-
-  if (configTema.sinDatos) {
-    aplicarTema(tema);
-    limpiarContenido();
-    const indicadoresTema = obtenerIndicadoresTema(tema);
-    construirTabs(indicadoresTema, tema, indicadorId);
-
-    const indicador = obtenerIndicador(indicadorId, tema) ||
-      { id: indicadorId, nombre: configTema.titulo };
-    pintarEncabezadoIndicador(indicador);
-    mostrarPlaceholderData(indicador, tema);
+  if (!TEMAS_CONFIG[tema]) {
+    aplicarTema("al25");
+    mostrarError(`Tema no reconocido: ${tema}`);
     return;
   }
 

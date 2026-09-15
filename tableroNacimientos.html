@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nacimientos registrados | SIESESIPINNA</title>
+  <link rel="icon" href="images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/tableros-oficiales.css?v=2">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" defer></script>
+  <script src="js/layout.js" defer></script>
+  <script src="js/tablero-nacimientos.js?v=1" defer></script>
+</head>
+<body>
+  <div id="header"></div>
+  <main class="of-tablero">
+    <a class="of-back" href="tableroEstadistico.html">← Todos los tableros</a>
+    <section class="of-hero" aria-labelledby="nacimientos-titulo">
+      <h1 id="nacimientos-titulo">Nacimientos registrados</h1>
+      <p>Consulta los nacimientos inscritos en el Registro Civil, según el municipio de residencia habitual de la madre en Quintana Roo.</p>
+      <p class="of-source-hero">Datos obtenidos del <strong>Instituto Nacional de Estadística y Geografía (INEGI)</strong>, <a href="https://www.inegi.org.mx/programas/natalidad/#Datos_abiertos" target="_blank" rel="noopener noreferrer">Estadística de Nacimientos Registrados 2024</a>. Actualización: 25 de septiembre de 2025.</p>
+    </section>
+    <p class="of-alert"><strong>Cómo leer las cifras:</strong> son nacimientos registrados durante el año seleccionado. Incluyen registros extemporáneos de nacimientos ocurridos en años anteriores.</p>
+    <div id="nacimientos-estado" class="of-status" role="status" aria-live="polite">Cargando datos oficiales…</div>
+    <div id="nacimientos-contenido" hidden>
+      <section class="of-filters" aria-label="Filtros de nacimientos registrados">
+        <div><label for="nacimientos-anio">Año de registro</label><select id="nacimientos-anio"></select></div>
+        <div><label for="nacimientos-mes">Mes de registro</label><select id="nacimientos-mes"></select></div>
+        <div><label for="nacimientos-municipio">Residencia habitual de la madre</label><select id="nacimientos-municipio"></select></div>
+        <div><label for="nacimientos-sexo">Sexo del registrado</label><select id="nacimientos-sexo"></select></div>
+        <div><label for="nacimientos-edad">Edad de la madre al nacer</label><select id="nacimientos-edad"></select></div>
+        <button id="nacimientos-limpiar" type="button">Restablecer</button>
+      </section>
+      <section class="of-selection">
+        <div><h2>Resultados de la selección</h2><p id="nacimientos-cobertura"></p></div>
+        <div class="of-view"><label for="nacimientos-vista">Gráfica</label><select id="nacimientos-vista"><option value="mes">Por mes de registro</option><option value="municipio">Por municipio</option><option value="sexo">Por sexo</option><option value="edad">Por edad de la madre</option><option value="ocurrencia">Por año de ocurrencia</option></select></div>
+      </section>
+      <section id="nacimientos-kpis" class="of-kpis" aria-label="Resumen de nacimientos"></section>
+      <section class="of-panel"><div class="of-panel-head"><div><h3 id="nacimientos-grafica-titulo">Por mes de registro</h3><p>La gráfica responde a todos los filtros activos.</p></div><span class="of-badge">Fuente oficial</span></div><div class="of-chart-wrap"><canvas id="nacimientos-grafica"></canvas></div></section>
+      <section class="of-panel"><div class="of-panel-head"><div><h3>Detalle por residencia y características</h3><p id="nacimientos-conteo"></p></div></div><div class="of-table-wrap"><table><thead><tr><th>Municipio</th><th>Mes</th><th>Sexo</th><th>Edad de la madre</th><th>Ocurrencia</th><th>Total</th></tr></thead><tbody id="nacimientos-tabla"></tbody></table></div></section>
+      <section class="of-panel of-method"><details open><summary>Fuente, cobertura y criterios</summary><div id="nacimientos-metodo"></div></details></section>
+    </div>
+  </main>
+  <div id="footer"></div>
+</body>
+</html>

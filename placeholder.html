@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>En construcción | SEISESIPINNA</title>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/listado.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main>
+    <section class="listado-menu-section" style="min-height: 70vh;">
+      <div class="container text-center">
+
+        <div class="placeholder-container">
+          <div class="placeholder-icon" aria-hidden="true">&#9201;</div>
+          <h1 class="listado-placeholder-title">En construcción / Actualización</h1>
+          <p class="listado-placeholder-text">
+            La sección <strong id="placeholderTemaNombre">solicitada</strong>
+            aún no tiene los indicadores y archivos de datos configurados en el sistema.
+          </p>
+          <p class="listado-placeholder-subtext">
+            Estamos trabajando en la integración de la información.
+            Vuelve pronto para consultar los datos completos.
+          </p>
+
+          <div class="listado-placeholder-actions">
+            <a href="listado.html" class="listado-primary-btn">Volver a indicadores</a>
+            <a href="index.html" class="listado-primary-btn" style="background: #6c757d; margin-left: 12px;">Ir a inicio</a>
+          </div>
+
+          <div class="listado-placeholder-debug">
+            <small>Tema: <code id="placeholderTemaClave">—</code></small>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="js/layout.js" defer></script>
+  <script src="js/indicadores-config.js" defer></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const params = new URLSearchParams(window.location.search);
+      const tema = params.get("tema");
+
+      if (tema && window.TEMAS_CONFIG && TEMAS_CONFIG[tema]) {
+        const config = TEMAS_CONFIG[tema];
+        document.getElementById("placeholderTemaNombre").textContent = config.nombre || tema;
+        document.getElementById("placeholderTemaClave").textContent = tema;
+      } else if (tema) {
+        document.getElementById("placeholderTemaNombre").textContent = "solicitada";
+        document.getElementById("placeholderTemaClave").textContent = tema || "desconocido";
+      }
+    });
+  </script>
+</body>
+
+</html>

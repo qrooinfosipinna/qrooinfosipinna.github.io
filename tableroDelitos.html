@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Víctimas de delitos NNA | SIESESIPINNA</title>
+  <link rel="icon" href="images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/tableros-oficiales.css?v=2">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" defer></script>
+  <script src="js/layout.js" defer></script>
+  <script src="js/tablero-delitos.js?v=1" defer></script>
+</head>
+<body>
+  <div id="header"></div>
+  <main class="of-tablero">
+    <a class="of-back" href="tableroEstadistico.html">← Todos los tableros</a>
+    <section class="of-hero" aria-labelledby="delitos-titulo">
+      <h1 id="delitos-titulo">Víctimas de delitos de 0 a 17 años</h1>
+      <p>Consulta las víctimas niñas, niños y adolescentes registradas en carpetas de investigación en Quintana Roo, por sexo y clasificación oficial del delito.</p>
+      <p class="of-source-hero">Datos obtenidos del <strong>Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública</strong>, publicados en <a href="https://www.datos.gob.mx/dataset/incidencia_delictiva/resource/386f17d2-a488-4da2-9c85-99765b5a9cdc" target="_blank" rel="noopener noreferrer">Víctimas del fuero común</a>. Corte: diciembre de 2025.</p>
+    </section>
+    <p class="of-alert"><strong>Cobertura NNA:</strong> todos los datos están filtrados al rango oficial “Menores de edad (0-17)”. El SESNSP publica la edad y el sexo con cobertura estatal, sin desglose municipal.</p>
+    <div id="delitos-estado" class="of-status" role="status" aria-live="polite">Cargando datos oficiales…</div>
+    <div id="delitos-contenido" hidden>
+      <section class="of-filters" aria-label="Filtros de víctimas de delitos NNA">
+        <div><label for="delitos-anio">Año</label><select id="delitos-anio"></select></div>
+        <div><label for="delitos-mes">Mes</label><select id="delitos-mes"></select></div>
+        <div><label for="delitos-sexo">Sexo</label><select id="delitos-sexo"></select></div>
+        <div><label for="delitos-bien">Bien jurídico afectado</label><select id="delitos-bien"></select></div>
+        <button id="delitos-limpiar" type="button">Restablecer</button>
+      </section>
+      <section class="of-selection">
+        <div><h2>Resultados de la selección</h2><p id="delitos-cobertura"></p></div>
+        <div class="of-view"><label for="delitos-vista">Gráfica</label><select id="delitos-vista"><option value="tendencia">Evolución mensual</option><option value="sexo">Por sexo</option><option value="tipo">Por tipo de delito</option><option value="bien">Por bien jurídico</option></select></div>
+      </section>
+      <section id="delitos-kpis" class="of-kpis" aria-label="Resumen de víctimas NNA"></section>
+      <section class="of-panel"><div class="of-panel-head"><div><h3 id="delitos-grafica-titulo">Evolución mensual</h3><p>La gráfica responde a todos los filtros activos.</p></div><span class="of-badge">Fuente oficial</span></div><div class="of-chart-wrap"><canvas id="delitos-grafica"></canvas></div></section>
+      <section class="of-panel"><div class="of-panel-head"><div><h3>Detalle por clasificación oficial</h3><p id="delitos-conteo"></p></div></div><div class="of-table-wrap"><table><thead><tr><th>Sexo</th><th>Bien jurídico</th><th>Tipo</th><th>Subtipo / modalidad</th><th>Víctimas NNA</th></tr></thead><tbody id="delitos-tabla"></tbody></table></div></section>
+      <section class="of-panel of-method"><details open><summary>Fuente, cobertura y criterios</summary><div id="delitos-metodo"></div></details></section>
+    </div>
+  </main>
+  <div id="footer"></div>
+</body>
+</html>

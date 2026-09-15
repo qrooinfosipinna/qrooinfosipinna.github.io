@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css" />
-    <link rel="stylesheet" href="css/contacto.css" />
+    <link rel="stylesheet" href="css/contacto.css?v=apps-script-1" />
 </head>
 
 <body>
@@ -31,40 +31,14 @@
                     Diario Oficial de la Federación el 30 de septiembre de 2005.
                 </p>
 
-                <form id="formContacto" class="contact-form">
-
-                    <div class="input-group">
-                        <label>Nombre completo</label>
-                        <input type="text" id="nombre" required>
-                    </div>
-
-                    <div class="input-group">
-                        <label>Correo electrónico</label>
-                        <input type="email" id="correo" required>
-                    </div>
-
-                    <div class="input-group">
-                        <label>Teléfono</label>
-                        <input type="text" id="telefono">
-                    </div>
-
-                    <div class="input-group">
-                        <label>Asunto</label>
-                        <input type="text" id="asunto" required>
-                    </div>
-
-                    <div class="input-group">
-                        <label>Mensaje</label>
-                        <textarea id="mensaje" rows="5" required></textarea>
-                    </div>
-
-                    <div id="alertaForm" class="alerta-form"></div>
-
-                    <button type="submit" class="btn-contact">
-                        Enviar mensaje
-                    </button>
-
-                </form>
+                <iframe id="formularioContacto" class="contacto-app-frame"
+                    title="Formulario de contacto SIESESIPINNA" hidden></iframe>
+                <div class="contacto-alternativas">
+                    <p id="contactoAlternativa">Puedes contactarnos por correo electrónico.</p>
+                    <a id="abrirFormulario" target="_blank" rel="noopener noreferrer" hidden>Abrir formulario en otra pestaña</a>
+                    <a href="mailto:sipinna.qroo.gob@outlook.com">sipinna.qroo.gob@outlook.com</a>
+                </div>
+                <noscript>Activa JavaScript para utilizar el formulario de contacto.</noscript>
 
             </div>
         </section>
@@ -76,7 +50,7 @@
                 </p>
 
                 <iframe src="https://www.google.com/maps?q=18.5011822,-88.2968673&hl=es&z=17&output=embed"
-                    loading="lazy">
+                    loading="lazy" title="Ubicación de la Secretaría Ejecutiva del SIPINNA">
                 </iframe>
             </div>
         </section>
@@ -85,89 +59,7 @@
     <div id="footer"></div>
 
     <script src="js/layout.js" defer></script>
-    <script>
-        // ANIMACION AL ENTRAR
-        // =============================
-        window.addEventListener("load", () => {
-            document.querySelector(".contact-container")
-                .classList.add("visible");
-        });
-
-        // =============================
-        // VALIDACION PRO
-        // =============================
-        document.getElementById("formContacto")
-            .addEventListener("submit", function (e) {
-
-                e.preventDefault();
-
-                let nombre = document.getElementById("nombre");
-                let correo = document.getElementById("correo");
-                let telefono = document.getElementById("telefono");
-                let asunto = document.getElementById("asunto");
-                let mensaje = document.getElementById("mensaje");
-                let alerta = document.getElementById("alertaForm");
-
-                let valido = true;
-
-                // limpiar estados
-                [nombre, correo, telefono, asunto, mensaje]
-                    .forEach(c => {
-                        c.classList.remove("error", "ok");
-                    });
-
-                // validar nombre
-                if (nombre.value.trim().length < 4) {
-                    nombre.classList.add("error");
-                    valido = false;
-                } else nombre.classList.add("ok");
-
-                // validar correo
-                if (!correo.value.includes("@")) {
-                    correo.classList.add("error");
-                    valido = false;
-                } else correo.classList.add("ok");
-
-                // validar asunto
-                if (asunto.value.trim().length < 4) {
-                    asunto.classList.add("error");
-                    valido = false;
-                } else asunto.classList.add("ok");
-
-                // validar mensaje
-                if (mensaje.value.trim().length < 10) {
-                    mensaje.classList.add("error");
-                    valido = false;
-                } else mensaje.classList.add("ok");
-
-                // =============================
-                if (valido) {
-
-                    alerta.className = "alerta-form alerta-ok";
-                    alerta.innerHTML = "✔ Mensaje listo para enviarse";
-
-                    let destinatario = "sipinna.qroo.gob@outlook.com";
-
-                    let cuerpo =
-                        "Nombre: " + nombre.value + "%0D%0A" +
-                        "Correo: " + correo.value + "%0D%0A" +
-                        "Teléfono: " + telefono.value + "%0D%0A%0D%0A" +
-                        "Mensaje:%0D%0A" + mensaje.value;
-
-                    setTimeout(() => {
-                        window.location.href =
-                            "mailto:" + destinatario +
-                            "?subject=" + encodeURIComponent(asunto.value) +
-                            "&body=" + cuerpo;
-                    }, 1200);
-
-                } else {
-                    alerta.className = "alerta-form alerta-error";
-                    alerta.innerHTML = "⚠ Completa correctamente los campos obligatorios";
-                }
-
-            });
-    </script>
+    <script src="js/contacto.js?v=apps-script-2" defer></script>
 </body>
 
 </html>
