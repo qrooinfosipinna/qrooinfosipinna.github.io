@@ -833,15 +833,31 @@ async function construirVistasWorkbook(workbook) {
 /* Esquema de los nuevos Excel: conserva periodo, sexo, edad y municipio.
    Solo se leen filas de datos; fuentes y notas al pie no son observaciones. */
 function construirVistasIntegradas(matriz) {
-  const registros = [];
-  for (const fila of matriz.slice(1)) {
-    if (!fila?.[0] || !fila[1] || numero(fila[2]) === null) continue;
-    registros.push({ entidad: String(fila[0]), etiqueta: String(fila[1]), valor: numero(fila[2]) });
-  }
+  const registros = registrosIntegradosDesdeMatriz(matriz);
   const regionales = registros.filter(r => ["Nacional", "Quintana Roo"].includes(r.entidad));
   const municipales = registros.filter(r => !["Nacional", "Quintana Roo"].includes(r.entidad));
   const periodos = new Set(regionales.flatMap(r => r.etiqueta.split(" / ").filter(p => /^\d{4}$/.test(p))));
   const temporal = periodos.size > 1;
+  const grupos = agruparRegistrosIntegrados(regionales, temporal);
+  return [
+    ...Array.from(grupos, ([clave, datos]) => crearVistaRegionalIntegrada(clave, datos, temporal)),
+    ...Array.from(new Set(municipales.map(r => r.etiqueta)), etiqueta =>
+      crearVistaMunicipalIntegrada(etiqueta, municipales.filter(r => r.etiqueta === etiqueta))),
+  ];
+}
+
+function registrosIntegradosDesdeMatriz(matriz) {
+  const registros = [];
+  for (const fila of matriz.slice(1)) {
+    if (!fila?.[0] || !fila[1]) continue;
+    const valor = numero(fila[2]);
+    if (valor === null) continue;
+    registros.push({ entidad: String(fila[0]), etiqueta: String(fila[1]), valor });
+  }
+  return registros;
+}
+
+function agruparRegistrosIntegrados(regionales, temporal) {
   const grupos = new Map();
   regionales.forEach(r => {
     const partes = r.etiqueta.split(" / ");
@@ -851,18 +867,18 @@ function construirVistasIntegradas(matriz) {
     if (!grupos.has(clave)) grupos.set(clave, []);
     grupos.get(clave).push({ ...r, x: periodo || sexo || r.etiqueta });
   });
-  const vistas = [];
-  for (const [clave, datos] of grupos) {
-    const labels = [...new Set(datos.map(r => r.x))];
-    const entidades = ["Nacional", "Quintana Roo"].filter(e => datos.some(r => r.entidad === e));
-    const datasets = entidades.map(entidad => ({ label: entidad, data: labels.map(x => datos.find(r => r.x === x && r.entidad === entidad)?.valor ?? null) }));
-    vistas.push({ hoja: "Datos", tituloVista: clave, modo: temporal ? "serie-integrada" : "categorias-integradas", labels, datasets, tabla: { columnas: [temporal ? "Año" : "Categoría", ...entidades], filas: labels.map((x, i) => [x, ...datasets.map(d => d.data[i])]) } });
-  }
-  for (const etiqueta of new Set(municipales.map(r => r.etiqueta))) {
-    const datos = municipales.filter(r => r.etiqueta === etiqueta);
-    vistas.push({ hoja: "Datos", tituloVista: `Municipios · ${etiqueta}`, modo: "municipios-integrados", labels: datos.map(r => r.entidad), datasets: [{ label: "Quintana Roo · municipios", data: datos.map(r => r.valor) }], tabla: { columnas: ["Municipio", "Valor"], filas: datos.map(r => [r.entidad, r.valor]) } });
-  }
-  return vistas;
+  return grupos;
+}
+
+function crearVistaRegionalIntegrada(clave, datos, temporal) {
+  const labels = [...new Set(datos.map(r => r.x))];
+  const entidades = ["Nacional", "Quintana Roo"].filter(e => datos.some(r => r.entidad === e));
+  const datasets = entidades.map(entidad => ({ label: entidad, data: labels.map(x => datos.find(r => r.x === x && r.entidad === entidad)?.valor ?? null) }));
+  return { hoja: "Datos", tituloVista: clave, modo: temporal ? "serie-integrada" : "categorias-integradas", labels, datasets, tabla: { columnas: [temporal ? "Año" : "Categoría", ...entidades], filas: labels.map((x, i) => [x, ...datasets.map(d => d.data[i])]) } };
+}
+
+function crearVistaMunicipalIntegrada(etiqueta, datos) {
+  return { hoja: "Datos", tituloVista: `Municipios · ${etiqueta}`, modo: "municipios-integrados", labels: datos.map(r => r.entidad), datasets: [{ label: "Quintana Roo · municipios", data: datos.map(r => r.valor) }], tabla: { columnas: ["Municipio", "Valor"], filas: datos.map(r => [r.entidad, r.valor]) } };
 }
 
 function elegirVistaPrincipal(vistas) {
