@@ -65,8 +65,8 @@
 
   <div id="footer"></div>
 
-  <script src="js/layout.js" defer></script>
-  <script src="js/indicadores-config.js" defer></script>
+  <script src="js/layout.js?v=20261023-navegacion-global" defer></script>
+  <script src="js/indicadores-config.js?v=20261025-qroo-visual" defer></script>
 
   <script>
     let catalogoCache = null;
@@ -93,9 +93,7 @@
           return;
         }
 
-        window.location.replace(
-          `indicador.html?tema=${encodeURIComponent(tema)}`
-        );
+        mostrarIndicadoresDelTema(tema);
         return;
       }
 
@@ -140,7 +138,7 @@
         if (tema.sinDatos) {
           enlace.href = `placeholder.html?tema=${encodeURIComponent(clave)}`;
         } else {
-          enlace.href = `indicador.html?tema=${encodeURIComponent(clave)}`;
+          enlace.href = `listado.html?tema=${encodeURIComponent(clave)}`;
         }
 
         enlace.className = `dependencia-card tema-card tema-${clave}`;
@@ -210,7 +208,7 @@
       try {
         const catalogo = await cargarCatalogo();
         const indicadores = catalogo.indicadores
-          .filter(ind => normalizarTema(ind.tema) === tema)
+          .filter(ind => normalizarTema(ind.tema) === tema && ind.visible !== false)
           .sort((a, b) => compararClaves(a.clave, b.clave));
 
         if (!indicadores.length) {
@@ -224,6 +222,9 @@
           return;
         }
 
+        const disponibles = indicadores.filter(ind => Number(ind.rows || 0) > 0).length;
+        const pendientes = indicadores.length - disponibles;
+        document.getElementById("descripcionTema").textContent = `${config.descripcion || ""} ${disponibles} indicadores con datos${pendientes ? ` y ${pendientes} pendientes de integrar` : ""}.`;
         renderizarIndicadores(indicadores, tema, config);
       } catch (error) {
         console.error("Error al cargar catálogo:", error);
@@ -268,7 +269,7 @@
           <div class="indicador-card-top">
             <span class="indicador-clave">${escapeHtml(ind.clave || "Indicador")}</span>
             <span class="indicador-status ${tieneDatos ? "ready" : "pending"}">
-              ${tieneDatos ? "Disponible" : "En proceso"}
+              ${tieneDatos ? (ind.limitacion ? "Cobertura parcial" : "Disponible") : "Pendiente de datos"}
             </span>
           </div>
 
@@ -278,7 +279,7 @@
 
           <div class="indicador-card-content">
             <h2>${escapeHtml(ind.nombre || "Indicador sin nombre")}</h2>
-            <p>${escapeHtml(ind.fuente || "Fuente: INEGI")}</p>
+            <p>${escapeHtml(String(ind.fuente || "Fuente: INEGI").split("\n")[0].slice(0, 150))}</p>
           </div>
 
           <div class="indicador-card-footer">
@@ -315,11 +316,7 @@
     }
 
     function compararClaves(a, b) {
-      const partesA = String(a || "").match(/\d+(?:\.\d+)?/);
-      const partesB = String(b || "").match(/\d+(?:\.\d+)?/);
-
-      if (!partesA || !partesB) return String(a).localeCompare(String(b), "es");
-      return Number(partesA[0]) - Number(partesB[0]);
+      return String(a || "").localeCompare(String(b || ""), "es", { numeric: true });
     }
 
     function escapeHtml(valor) {

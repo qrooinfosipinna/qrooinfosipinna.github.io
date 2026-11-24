@@ -1,0 +1,385 @@
+﻿Tema,Clave,Indicador,Estado,Periodos integrados,Registros,Dato faltante,Fuente
+demografico,1.1,Población total,Disponible con cobertura parcial,2020,36,Disponible para 2020 y los 11 municipios de Quintana Roo. Los años anteriores del ejemplo requieren sus tabulados oficiales.,"INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER).
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_23_cpv2020_csv.zip
+
+Fuente: INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER), Quintana Roo."
+demografico,1.2,"Número de niñas, niños y adolescentes",Disponible con cobertura parcial,2020,108,Disponible para 2020 y los 11 municipios de Quintana Roo. Los años anteriores del ejemplo requieren sus tabulados oficiales.,"INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER).
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_23_cpv2020_csv.zip
+
+Fuente: INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER), Quintana Roo."
+demografico,1.3,"Porcentaje de niñas, niños y adolescentes",Disponible con cobertura parcial,2020,108,Disponible para 2020 y los 11 municipios de Quintana Roo. Los años anteriores del ejemplo requieren sus tabulados oficiales.,"INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER).
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_23_cpv2020_csv.zip
+
+Fuente: INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER), Quintana Roo."
+demografico,1.4,"Distribución porcentual de niñas, niños y adolescentes por sexo",Disponible con cobertura parcial,2020,108,Disponible para 2020 y los 11 municipios de Quintana Roo. Los años anteriores del ejemplo requieren sus tabulados oficiales.,"INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER).
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_23_cpv2020_csv.zip
+
+Fuente: INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER), Quintana Roo."
+demografico,1.5,Relación de dependencia infantil por sexo,Disponible con cobertura parcial,2020,36,Disponible para 2020 y los 11 municipios de Quintana Roo. Los años anteriores del ejemplo requieren sus tabulados oficiales.,"INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER).
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_23_cpv2020_csv.zip
+
+Fuente: INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER), Quintana Roo."
+demografico,1.6,"Tasa de crecimiento anual de la población de niñas, niños y adolescentes",Disponible con cobertura parcial,"2010, 2020",18,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Tiempo intercensal: del 12/06/2010 al 15/03/2020, 9.75770021 años de 365.25 días; no se redondea el periodo a diez años.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2010/tabulados/basico/01_03B_ESTATAL.xls
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"
+demografico,1.7,Tasa de crecimiento anual de la población total por sexo,Disponible con cobertura parcial,"2010, 2020",6,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Tiempo intercensal: del 12/06/2010 al 15/03/2020, 9.75770021 años de 365.25 días; no se redondea el periodo a diez años.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2010/tabulados/basico/01_03B_ESTATAL.xls
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"
+demografico,1.8,Porcentaje de niñas y niños menores de un año inscritos en el registro civil,Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+demografico,1.9,Porcentaje de niñas y niños menores de 5 años inscritos en el registro civil,Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+demografico,1.10,"Porcentaje de niñas y niños inscritos en el registro civil menores de 5 años de edad, respecto al total de registrados.",Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",36,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+demografico,1.11,Distribución porcentual de la población de 0 a 17 años en zonas urbanas y zonas rurales,Disponible con cobertura parcial,2020,6,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,1.1,Tasa de analfabetismo de la población de 15 a 17 años por sexo,Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,1.2,Grado promedio de escolaridad por sexo,Disponible con cobertura parcial,2020,36,Disponible para 2020 y los 11 municipios de Quintana Roo. Los años anteriores del ejemplo requieren sus tabulados oficiales.,"INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER).
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_23_cpv2020_csv.zip
+
+Fuente: INEGI. Censo de Población y Vivienda 2020. Principales resultados por localidad (ITER), Quintana Roo."
+desarrollo,1.3,"Porcentaje de niñas, niños y adolescentes en edad escolar que asisten a la escuela",Disponible con cobertura parcial,2020,30,"Tabulado censal completo 2020: desgloses estatales y nacionales por edades individuales, agrupadas sin incluir la condición de asistencia no especificada en el numerador.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_07_educacion.xlsx"
+desarrollo,1.4,"Porcentaje de niñas, niños y adolescentes con discapacidad en edad escolar que no asisten a la escuela por sexo",Disponible con cobertura parcial,2020,12,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,1.6,"Porcentaje de niñas, niños y adolescentes que no estudian y no trabajan según sexo",Disponible,"2013, 2015, 2017, 2019, 2022",90,,"INEGI. Módulo de Trabajo Infantil (MTI) 2013, 2015 y 2017. Base de datos.
+            Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos.
+
+FUENTE: INEGI. Módulos de Trabajo Infantil (MTI) 2013, 2015 y 2017; y Encuesta Nacional de Trabajo Infantil (ENTI) 2019 y 2022. Base de datos."
+desarrollo,1.7,"Porcentaje de niñas, niños y adolescentes en edad escolar que no asisten a la escuela por sexo",Disponible con cobertura parcial,2020,30,"Tabulado censal completo 2020: desgloses estatales y nacionales por edades individuales, agrupadas sin incluir la condición de asistencia no especificada en el numerador.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_07_educacion.xlsx"
+desarrollo,1.8,"Porcentaje de niñas, niños y adolescentes de 6 a 14 años que no saben leer y escribir por sexo",Disponible con cobertura parcial,2020,6,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_07_educacion.xlsx"
+desarrollo,1.9,Porcentaje de madres adolescentes que no sabe leer y escribir,Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,1.10,"Porcentaje de escuelas de educación básica que cuentan con acceso a servicios básicos (agua, electricidad, drenaje y sanitarios)",Disponible con cobertura parcial,2013,8,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. CEMABE 2013, microdatos y diccionario oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/masiva/cemabe/cemabe_2015_00_csv.zip"
+desarrollo,1.11,"Porcentaje de escuelas de educación básica con pisos, paredes y techos de materiales resistentes",Disponible con cobertura parcial,2013,8,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. CEMABE 2013, microdatos y diccionario oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/masiva/cemabe/cemabe_2015_00_csv.zip"
+desarrollo,1.12,Porcentaje de escuelas de educación básica con equipamiento básico de protección civil,Disponible con cobertura parcial,2013,8,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. CEMABE 2013: se excluye CONAFE porque su cuestionario no recoge los seis elementos de protección civil. El porcentaje corresponde únicamente a escuelas fuera de CONAFE con construcción.,"INEGI. CEMABE 2013, microdatos y diccionario oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/masiva/cemabe/cemabe_2015_00_csv.zip"
+desarrollo,1.13,Porcentaje de planteles educativos del nivel básico con disponibilidad de internet,Disponible con cobertura parcial,2013,8,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. CEMABE 2013, microdatos y diccionario oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/masiva/cemabe/cemabe_2015_00_csv.zip"
+desarrollo,1.14,Número de niñas y niños en educación preescolar,Disponible con cobertura parcial,2020,6,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_07_educacion.xlsx"
+desarrollo,1.15,Atención a niñas y niños en educación preescolar según sexo,Disponible,"2023, 2024",18,,"Principales Cifras del Sistema Educativo Nacional 2023-2024 D.R. © 2024 Dirección General de Planeación, Programación y Estadística Educativa Principales Cifras del Sistema Educativo Nacional 2023-2024 © Primera Edición Electrónica. Septiembre de 2024.
+
+1 Para su cálculo se toman las proyecciones de población a mitad de año de CONAPO, versión agosto de 2023.
+FUENTE: Principales Cifras del Sistema Educativo Nacional 2023-2024.
+Cálculos con base en cifras del Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+desarrollo,1.16,Eficiencia terminal de alumnos (as) por nivel educativo,Disponible,"2023, 2024",6,,"https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Educacion_Educacion_12_987437b7-5398-4067-8b19-a1cd2ec36b7b
+
+Nota: El nivel educativo Media superior incluye Profesional técnico y Bachillerato. Para este ciclo cifras preliminares.
+FUENTE: https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Educacion_Educacion_12_987437b7-5398-4067-8b19-a1cd2ec36b7b"
+desarrollo,1.17,Absorción escolar por nivel educativo,Disponible,"2023, 2024",12,,"Principales Cifras del Sistema Educativo Nacional 2023-2024 D.R. © 2024 Dirección General de Planeación, Programación y Estadística Educativa Principales Cifras del Sistema Educativo Nacional 2023-2024 © Primera Edición Electrónica. Septiembre de 2024.
+
+1 Para su cálculo se toman las proyecciones de población a mitad de año de CONAPO, versión agosto 2023.
+FUENTE: Principales Cifras del Sistema Educativo Nacional 2023-2024.
+Cálculos con base en cifras del Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+desarrollo,1.18,Tasa neta de escolarización,Disponible,"2022, 2023",18,,"DGPPyEE-SEP. Sistema Interactivo de Consulta de Estadística Educativa.
+CONAPO. Proyecciones de la población 2020-2070.
+
+1 Para su cálculo se toman las proyecciones de población a mitad de año de CONAPO 2020-2070.
+FUENTE: DGPPyEE-SEP. Sistema Interactivo de Consulta de Estadística Educativa."
+desarrollo,2.1,"Porcentaje de niñas, niños y adolescentes hablantes de lengua indígena que saben leer y escribir",Disponible con cobertura parcial,2020,6,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,2.2,"Porcentaje de niñas, niños y adolescentes hablantes de lengua indígena, afiliados a servicios de salud",Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,2.3,"Porcentaje de niñas, niños y adolescentes de 3 a 17 años que se considera indígena",Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,2.4,"Porcentaje de niñas, niños y adolescentes de 0 a 17 años que se considera afrodescendiente",Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,3.1,Índice de Desigualdad de Género (IDG),Disponible,"2008, 2010, 2012",3,,"PNUD, Índice de Desarrollo Humano."
+desarrollo,3.2,"Razón de niñas, niños y adolescentes en edad escolar que asisten a la escuela",Disponible con cobertura parcial,2020,10,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_07_educacion.xlsx"
+desarrollo,3.3,"Razón de niñas, niños y adolescentes de 6 a 14 años que no saben leer y escribir",Disponible con cobertura parcial,2020,2,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_07_educacion.xlsx"
+desarrollo,3.4,"Razón de niñas, niños y adolescentes con acceso a servicios de salud",Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,4.1,"Porcentaje de niñas, niños y adolescentes con discapacidad",Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,4.4,Porcentaje de la población de 6 a 14 años con discapacidad que no asiste a la escuela,Disponible,"2010, 2020",4,,"INEGI. Censo de Población y Vivienda, 2010 y 2020. Consulta interactiva.
+
+FUENTE: INEGI. Censo de Población y Vivienda, 2010 y 2020. Consulta interactiva de datos."
+desarrollo,5.6,"Porcentaje de niñas, niños y adolescentes con carencia por acceso a servicios de salud",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.8,"Porcentaje de niñas, niños y adolescentes con carencia por acceso a la seguridad social",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.11,"Porcentaje de niñas, niños y adolescentes vulnerables por carencias sociales",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.12,Coeficiente de GINI,Disponible con cobertura parcial,"2016, 2018, 2020, 2022, 2024",10,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Pobreza Multidimensional 2024, Contexto territorial, serie 2016–2024 (metodología CONEVAL). Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/desarrollosocial/pm/tabulados/pm_ct_2024.xlsx"
+desarrollo,5.14,"Número de niñas, niños y adolescentes en situación de pobreza",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.15,"Porcentaje de niñas, niños y adolescentes en situación de pobreza",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.16,"Número de niñas, niños y adolescentes en situación de pobreza extrema",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.17,"Porcentaje de niñas, niños y adolescentes en situación de pobreza extrema",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.18,"Número de niñas, niños y adolescentes en situación de pobreza moderada",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.19,"Porcentaje de niñas, niños y adolescentes en situación de pobreza moderada",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.20,"Número de niñas, niños y adolescentes con rezago educativo",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.21,"Porcentaje de niñas, niños y adolescentes con rezago educativo",Disponible,"2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024",48,,"Estimaciones del CONEVAL con base en el MCS-ENIGH, INEGI
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2010, 2012 y 2014, INEGI.
+Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), base de datos; 2022 calculó INEGI con estimaciones de CONEVAL."
+desarrollo,5.22,Índice de Rezago Social,Disponible con cobertura parcial,"2000, 2005, 2010, 2015, 2020",5,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Índice de Rezago Social publicado por CONEVAL; valores negativos son válidos. Los índices anuales no son una serie longitudinal comparable.,"CONEVAL. Índice de Rezago Social 2000–2020, acervo histórico oficial enlazado por INEGI. Fuentes consultadas el 25/10/2026.
+https://www.coneval.org.mx/Medicion/Documents/IRS_2020/IRS_ent_mun_2000_2020.zip"
+desarrollo,5.23,"Razón de niñas, niños y adolescentes con respecto a adultos en situación de pobreza",Disponible,"2016, 2018, 2020, 2022",8,,"Estimaciones del CONEVAL con base en la ENIGH 2016, 2018, 2020 y 2022, INEGI.
+
+FUENTE: Estimaciones del CONEVAL con base en el MCS-ENIGH 2016, 2018, 2020 y 2022 (Nueva serie), INEGI."
+desarrollo,5.24,Tasa de abandono escolar según nivel educativo,Disponible,"2020, 2021, 2022, 2023, 2024",32,,"SEP. Estadística e indicadores. Indicadores y pronósticos. Reporte de indicadores educativos. https://www.planeacion.sep.gob.mx/indicadorespronosticos.aspx
+
+FUENTE: SEP. Estadística e indicadores. Indicadores y pronósticos. Reporte de indicadores educativos.
+FUENTE: SEP. https://www.planeacion.sep.gob.mx/indicadorespronosticos.aspx."
+desarrollo,6.1,"Porcentaje de mujeres jóvenes casadas o unidas, cuyos esposos o parejas son mayores que ellas 10 años o más",Disponible con cobertura parcial,2020,2,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados. El denominador incluye todas las mujeres casadas o unidas del grupo; los casos sin pareja identificada no se atribuyen a una diferencia de edad específica. El control de parejas identificadas se conserva en el registro de validación.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,6.2,Porcentaje de mujeres entre 20 y 49 años que tuvieron su primer matrimonio/unión antes de los 18 años.,Disponible,2021,2,,"INEGI. Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH) 2021. 
+             Base de datos.
+
+FUENTE: INEGI. Encuesta Nacional sobre la Dinámica de las"
+desarrollo,6.3,Porcentaje de matrimonios de personas menores de 18 años,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",12,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/emat/datosabiertos/conjunto_de_datos_emat2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/emat/datosabiertos/conjunto_de_datos_emat2024_csv.zip
+https://www.inegi.org.mx/contenidos/programas/emat/datosabiertos/conjunto_de_datos_matrimonios_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/emat/datosabiertos/conjunto_de_datos_matrimonios_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/emat/datosabiertos/conjunto_de_datos_matrimonios_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/emat/datosabiertos/conjunto_de_datos_matrimonios_2022_csv.zip"
+desarrollo,6.4,Porcentaje de adolescentes que vive en unión libre,Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,6.5,Promedio de la diferencia de edad de mujeres de 15 a 17 años casadas o unidas con referencia a sus cónyuges o parejas.,Disponible,2020,8,,"INEGI. Censo de Población y Vivienda 2020. Base de datos.
+
+1 Cuando la edad del cónyuge o de la pareja es mayor a la de la mujer que se declaró casada o unida.
+2 Mujeres cuyos cónyuges o parejas fueron identificadas en el mismo hogar.
+FUENTE: INEGI. Censo de Población y Vivienda 2020. Cuestionario Ampliado. Base de datos."
+desarrollo,7.1,"Porcentaje de niñas, niños y adolescentes que habitan en viviendas con hacinamiento",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.2,"Porcentaje de niñas, niños y adolescentes con piso firme o recubrimiento en su vivienda",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.3,"Porcentaje de niñas, niños y adolescentes con acceso a servicios de saneamiento mejorados en la vivienda",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.4,"Porcentaje de niñas, niños y adolescentes que habitan en viviendas con acceso a electricidad",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.5,"Porcentaje de niñas, niños y adolescentes que disponen de agua entubada dentro del ámbito de la vivienda",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.6,"Porcentaje de niñas, niños y adolescentes que habitan en viviendas con acceso a drenaje",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.7,"Porcentaje de niñas, niños y adolescentes que habitan en viviendas que disponen de todos los servicios (agua, luz y drenaje)",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.8,Porcentaje de viviendas que disponen de agua entubada dentro del ámbito de la vivienda,Disponible con cobertura parcial,2020,2,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_16_vivienda.xlsx"
+desarrollo,7.9,"Porcentaje de niñas, niños y adolescentes que habitan en viviendas con características constructivas adecuadas (pisos, muros y techos de materiales resistentes)",Disponible con cobertura parcial,2020,9,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.10,"Porcentaje de viviendas donde habitan niñas, niños y adolescentes que disponen de drenaje conectado a la red pública o fosa séptica",Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.11,"Porcentaje de viviendas donde habitan niñas, niños y adolescentes que disponen de agua entubada dentro del ámbito de la vivienda",Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.12,"Porcentaje de viviendas con piso de tierra en donde habitan niñas, niños y adolescentes",Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.13,"Porcentaje de viviendas con piso firme o recubrimiento en donde habitan niñas, niños y adolescentes",Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.14,"Porcentaje de viviendas en donde habitan niñas, niños y adolescentes que disponen de taza de baño o letrina",Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+desarrollo,7.15,Puntos de descarga de aguas residuales sin tratamiento,Disponible con cobertura parcial,2022,2,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo Nacional de Gobiernos Municipales 2023, referencia 2022. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/cngmd/2023/tabulados/cngmd2023_agua_saneam.xlsx"
+desarrollo,7.16,Porcentaje de municipios con disposición adecuada de residuos sólidos urbanos,Disponible con cobertura parcial,2022,2,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo Nacional de Gobiernos Municipales 2023, referencia 2022. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/cngmd/2023/datosabiertos/m7/disp_final_rsu_cngmd2023_csv.zip"
+desarrollo,7.17,Plantas de tratamiento de aguas residuales según condición de operación.,Disponible con cobertura parcial,2022,6,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo Nacional de Gobiernos Municipales 2023, referencia 2022. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/cngmd/2023/tabulados/cngmd2023_agua_saneam.xlsx"
+supervivencia,1.1,"Porcentaje de niñas, niños y adolescentes con alguna forma de discapacidad con acceso a servicios de salud",Disponible,"2014, 2018, 2023",54,,"INEGI. Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014, 2018 y 2023. Base de 
+            datos.
+
+FUENTE: INEGI. Encuesta Nacional de la Dinámica Demográfica (ENADID). 2014, 2018 y 2023."
+supervivencia,1.2,Porcentaje de la población de 0 a 17 años afiliada a servicios de salud por sexo,Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+supervivencia,1.3,Porcentaje de adolescentes en tratamiento antirretroviral en supresión viral (<1.000 copias/ml),Disponible,2022,2,,"SS/Conasida. Comité de Monitoreo y Evaluación. Grupo de Información Sectorial en VIH y otras ITS. Datos al cierre de 2022.
+https://portales.segob.gob.mx/es/Derechos_Humanos/Supervivencia
+
+Nota: El nivel nacional incluye la sumatoria de la información reportada por las entidades
+federativas, así como la información de Hospitales e Institutos Nacionales, que no
+se incluyen en las entidades federativa. Los datos incluyen información de: SS, IMSS,
+ISSSTE, Pemex y Semar. La Sedena no envió información.
+FUENTE: SS/Conasida. Comité de Monitoreo y Evaluación. Grupo de Información"
+supervivencia,2.1,Porcentaje de cesáreas programadas y de emergencia,Disponible,"2014, 2018, 2023",12,,"INEGI. Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014. Tabulados básicos.
+             Encuesta Nacional de la Dinámica Demográfica (ENADID) 2018. Tabulados complementarios.
+             Encuesta Nacional de la Dinámica Demográfica (ENADID) 2023. Base de datos..
+
+FUENTE: INEGI. Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014, 2018 y 2023."
+supervivencia,2.2,Disciplina violenta por grupos de edad y sexo,Pendiente de datos,,0,"No se localizó un tabulado oficial de INEGI para Quintana Roo con el universo de esta ficha. ENIM 2015 (INSP/UNICEF) declara que su muestra permite estimaciones nacionales y por cinco regiones, pero no desagregación estatal; los resultados de disciplina de ENSANUT Continua citados en la ficha son nacionales/regionales. No se asigna el dato nacional o de la región Sur a Quintana Roo. Se requiere una estimación estatal publicada o una muestra cuyo diseño permita ese dominio.","INSP. Encuesta Nacional de Niños, Niñas y Mujeres (ENIM) 2015.
+INSP. Encuesta Nacional de Salud y Nutrición (ENSANUT) 2018-2019 y 2021.
+https://portales.segob.gob.mx/es/Derechos_Humanos/Supervivencia"
+supervivencia,3.1,Porcentaje de partos atendidos en instituciones de salud,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",12,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+supervivencia,3.2,Razón de mortalidad materna,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",12,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2019/conjunto_de_datos_defunciones_registradas_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2021/conjunto_de_datos_defunciones_registradas_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2022/conjunto_de_datos_defunciones_registradas_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2023/conjunto_de_datos_defunciones_registradas_2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2024/conjunto_de_datos_edr2024_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+supervivencia,3.3,Porcentaje de partos atendidos por personal sanitario calificado,Disponible,"1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023",68,,"INEGI. Catálogo Nacional de Indicadores.
+
+FUENTE: SNIEG. Catálogo Nacional de Indicadores."
+supervivencia,4.1,Porcentaje de nacimientos en mujeres de 10 a 17 años,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",12,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+supervivencia,5.1,Tasa de mortalidad neonatal,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",36,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2019/conjunto_de_datos_defunciones_registradas_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2021/conjunto_de_datos_defunciones_registradas_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2022/conjunto_de_datos_defunciones_registradas_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2023/conjunto_de_datos_defunciones_registradas_2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2024/conjunto_de_datos_edr2024_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+supervivencia,5.2,Tasa de mortalidad infantil,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",36,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2019/conjunto_de_datos_defunciones_registradas_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2021/conjunto_de_datos_defunciones_registradas_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2022/conjunto_de_datos_defunciones_registradas_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2023/conjunto_de_datos_defunciones_registradas_2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2024/conjunto_de_datos_edr2024_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+supervivencia,5.3,"Tasa de mortalidad de niñas, niños y adolescentes",Disponible con cobertura parcial,2020,18,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"
+supervivencia,5.4,"Tasa de mortalidad de niñas, niños y adolescentes por causas externas",Disponible con cobertura parcial,2020,18,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"
+supervivencia,5.5,Tasa de suicidios de adolescentes,Disponible con cobertura parcial,2020,6,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"
+supervivencia,5.6,Tasa de mortalidad en niñas y niños menores de 5 años,Disponible,"1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023",68,,"INEGI. Catálogo Nacional de Indicadores.
+
+Nota: Las series estadísticas se ajustaron con base en las proyecciones de la población de México y de las entidades federativas 2020-2070 publicadas por el CONAPO en 2023.
+FUENTE: SNIEG. Catálogo Nacional de Indicadores."
+supervivencia,5.7,"Número de suicidios en las niñas, niños y adolescentes de 10 a 17 años",Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",36,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2019/conjunto_de_datos_defunciones_registradas_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2021/conjunto_de_datos_defunciones_registradas_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2022/conjunto_de_datos_defunciones_registradas_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2023/conjunto_de_datos_defunciones_registradas_2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2024/conjunto_de_datos_edr2024_csv.zip"
+supervivencia,5.8,"Número de defunciones de niñas, niños y adolescentes",Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",108,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2019/conjunto_de_datos_defunciones_registradas_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2021/conjunto_de_datos_defunciones_registradas_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2022/conjunto_de_datos_defunciones_registradas_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2023/conjunto_de_datos_defunciones_registradas_2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2024/conjunto_de_datos_edr2024_csv.zip"
+supervivencia,6.1,Porcentaje de mujeres de 12 a 17 años que son madres,Disponible con cobertura parcial,2020,1,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+supervivencia,6.2,Porcentaje de nacimientos ocurridos en adolescentes de 15 a 19 años,Disponible con cobertura parcial,"2019, 2020, 2021, 2022, 2023, 2024",12,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Estadísticas vitales: nacimientos, defunciones o matrimonios registrados, según el cálculo. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2019/conjunto_de_datos_natalidad_2019_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2020/conjunto_de_datos_natalidad_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2021/conjunto_de_datos_natalidad_2021_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2022/conjunto_de_datos_natalidad_2022_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2023/conjunto_de_datos_enr2023_csv.zip
+https://www.inegi.org.mx/contenidos/programas/natalidad/datosabiertos/2024/conjunto_de_datos_enr2024_csv.zip"
+supervivencia,6.3,Porcentaje de partos de niñas de 10 a 17 años respecto al total de partos,Disponible,2023,2,,"Secretaría de Salud con base en la información del Subsistema de Información de Nacimientos.
+https://portales.segob.gob.mx/es/Derechos_Humanos/Supervivencia
+
+FUENTE: Secretaría de Salud con base en la información del Subsistema de Información de Nacimientos."
+supervivencia,6.4,Razón de fecundidad de niñas de 10 a 14 años,Disponible,"2010, 2023",8,,"Estimaciones de la SGCONAPO con base en Secretaría de Salud. Subsistema de Información sobre Nacimientos (SINAC), 2008-2022; INEGI, Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014 y 2018, y, INEGI. Registros Administrativos de Natalidad, 1990-2024
+https://portales.segob.gob.mx/es/Derechos_Humanos/Supervivencia
+
+FUENTE: Estimaciones de la SGCONAPO con base en Secretaría de Salud. Subsistema de Información sobre Nacimientos (SINAC), 2008-2022; INEGI, Encuesta Nacional de la Dinámica Demográfica (ENADID) 2014 y 2018, y, INEGI. Registros Administrativos de Natalidad, 1990-2024."
+supervivencia,6.5,Tasa de fecundidad en mujeres de 15 a 19 años,Disponible,"2010, 2020",4,,"INEGI. Censo de Población y Vivienda 2010. Tabulados del cuestionario ampliado.
+INEGI. Censo de Población y Vivienda 2020. Tabulados del cuestionario ampliado.
+
+FUENTE: Censos de Población y Vivienda 2010 y 2020. Cuestionario ampliado."
+supervivencia,7.1,Esperanza de vida al nacer,Disponible,"1990, 2000, 2010, 2020, 2025",30,,"CONAPO. Indicadores Demográficos. Proyecciones. 1950-2070.
+
+FUENTE: CONAPO. Proyecciones de la población en México 2020-2070."
+supervivencia,7.2,"Porcentaje de niñas, niños y adolescentes afiliados a servicios de salud",Disponible con cobertura parcial,2020,3,"Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal. Estimación de la muestra probabilística del Cuestionario Ampliado 2020, ponderada con FACTOR. Universo: viviendas particulares habitadas y sus ocupantes; excluye viviendas colectivas, población sin vivienda y Servicio Exterior Mexicano. No es un conteo exhaustivo del Cuestionario Básico. No se publican estimaciones municipales ni intervalos de confianza calculados.","INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/Censo2020_CA_qroo_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/microdatos/diccionario_cuestionario_ampliado_cpv2020.xlsx"
+supervivencia,7.3,Tasa de mortalidad infantil en niñas y niños menores de 5 años por enfermedades diarreicas,Disponible con cobertura parcial,2020,6,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"
+supervivencia,7.4,Tasa de mortalidad infantil en niñas y niños menores de 5 años por enfermedades respiratorias agudas,Disponible con cobertura parcial,2020,6,Cobertura estatal. Se integran los periodos y desgloses que permiten las fuentes oficiales descargadas; no se exige desglose municipal.,"INEGI. Censo de Población y Vivienda, tabulados y microdatos oficiales. Fuentes consultadas el 25/10/2026.
+https://www.inegi.org.mx/contenidos/programas/edr/datosabiertos/defunciones/2020/conjunto_de_datos_defunciones_registradas_2020_csv.zip
+https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_eum_01_poblacion.xlsx"

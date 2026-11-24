@@ -561,3 +561,7 @@
     height: 320px;
   }
 }
+.fuentes-integradas { margin-top: 1.25rem; padding-top: 1rem; border-top: 1px solid #dee2e6; font-size: .88rem; color: #495566; }
+.fuentes-integradas p { white-space: pre-line; overflow-wrap: anywhere; margin: .75rem 0; }
+.fuentes-integradas summary { cursor: pointer; font-weight: 600; }
+.nota-integracion:empty { display: none; }

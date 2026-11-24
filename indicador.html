@@ -15,7 +15,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/indicador.css">
+  <link rel="stylesheet" href="css/indicador.css?v=20261025-qroo-visual">
 </head>
 
 <body>
@@ -90,9 +90,14 @@
 
           <!-- Algunos Excel contienen más de una hoja de gráfica. -->
           <div id="tabsGraficas" class="tabs-graficas" hidden></div>
+          <button type="button" id="btnVerFichaIntegrada" class="tab-grafica mb-3" hidden aria-controls="metadatosCard" aria-expanded="false">Ver ficha técnica y metodología</button>
 
           <div class="canvas-wrapper">
             <canvas id="graficaIndicador"></canvas>
+          </div>
+          <div id="fuentesIntegradas" class="fuentes-integradas" hidden>
+            <p id="notaIntegradaTexto" class="nota-integracion"></p>
+            <details open><summary>Fuentes y notas del tabulado</summary><p id="fuenteIntegradaTexto"></p></details>
           </div>
         </section>
 
@@ -118,9 +123,9 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
 
-  <script src="js/indicadores-config.js"></script>
-  <script src="js/indicador.js"></script>
-  <script src="js/layout.js"></script>
+  <script src="js/indicadores-config.js?v=20261025-qroo-visual"></script>
+  <script src="js/indicador.js?v=20261025-qroo-visual"></script>
+  <script src="js/layout.js?v=20261023-navegacion-global"></script>
 
 </body>
 </html>

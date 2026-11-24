@@ -58,18 +58,18 @@ function numero(valor) {
   return null;
 }
 
-function formatearNumero(valor) {
+function formatearNumero(valor, decimales = 2) {
   const n = numero(valor);
   if (n === null) return "N/D";
 
   return new Intl.NumberFormat("es-MX", {
-    maximumFractionDigits: 2
+    maximumFractionDigits: decimales
   }).format(n);
 }
 
-function formatearValorTabla(valor) {
+function formatearValorTabla(valor, decimales = 2) {
   if (valor === null || valor === undefined || valor === "") return "—";
-  return esNumero(valor) ? formatearNumero(valor) : escaparHTML(valor);
+  return esNumero(valor) ? formatearNumero(valor, decimales) : escaparHTML(valor);
 }
 
 function ordenarAnios(a, b) {
@@ -122,7 +122,7 @@ async function cargarCatalogo() {
 function obtenerIndicadoresTema(tema) {
   if (!catalogoCache?.indicadores) return [];
   return catalogoCache.indicadores
-    .filter(ind => ind.tema === tema)
+    .filter(ind => ind.tema === tema && ind.visible !== false)
     .sort((a, b) => compararIds(a.id, b.id));
 }
 
@@ -140,7 +140,7 @@ function compararIds(a, b) {
 function obtenerIndicador(id, tema) {
   if (!catalogoCache?.indicadores) return null;
   return catalogoCache.indicadores.find(ind =>
-    String(ind.id) === String(id) && (!tema || ind.tema === tema)
+    ind.visible !== false && String(ind.id) === String(id) && (!tema || ind.tema === tema)
   ) || null;
 }
 
@@ -229,7 +229,7 @@ async function cargarMetadatos(indicador) {
   if (metadataCache.has(ruta)) return metadataCache.get(ruta);
 
   const workbook = await cargarWorkbook(ruta);
-  const nombreHoja = workbook.SheetNames[0];
+  const nombreHoja = workbook.SheetNames.find(n => normalizarTexto(n) === "metadato") || workbook.SheetNames[0];
   const matriz = hojaAMatriz(workbook, nombreHoja);
   const metadata = {};
 
@@ -251,7 +251,11 @@ async function cargarMetadatos(indicador) {
       }
     }
 
-    if (clave) metadata[normalizarTexto(clave)] = valor;
+    if (clave) {
+      const base = normalizarTexto(clave).replace(/ \(continuacion \d+\)$/, "");
+      if (/ \(continuación \d+\)$/.test(clave) && metadata[base]) metadata[base] += "\n" + (valor || "");
+      else metadata[base] = valor;
+    }
   });
 
   metadataCache.set(ruta, metadata);
@@ -279,7 +283,10 @@ function pintarMetadatos(meta, indicador) {
     ["Cobertura geográfica", metadataValor(meta, "Cobertura geográfica") || indicador.cobertura],
     ["Referencia temporal", metadataValor(meta, "Referencia temporal") || indicador.referencia],
     ["Tipo de estudio", metadataValor(meta, "Tipo de estudio")],
-    ["Nota", metadataValor(meta, "Nota")]
+    ["Nota", metadataValor(meta, "Nota")],
+    ["Periodo integrado", metadataValor(meta, "Referencia temporal disponible")],
+    ["Disponibilidad", metadataValor(meta, "Disponibilidad")],
+    ["Nota de integración", metadataValor(meta, "Nota de integración")]
   ];
 
   contenedor.innerHTML = campos
@@ -805,6 +812,12 @@ function inferirEntidadDesdeHoja(hojaNormalizada) {
 /* ---------- Selección de la vista correcta ---------- */
 
 async function construirVistasWorkbook(workbook) {
+  if (workbook.Sheets.Datos) {
+    const matriz = hojaAMatriz(workbook, "Datos");
+    if (matriz[0]?.[0] === "Entidad" && matriz[0]?.[1] === "Periodo / categoría" && matriz[0]?.[2] === "Valor") {
+      return construirVistasIntegradas(matriz);
+    }
+  }
   const hojas = ordenarHojasGrafica(obtenerHojasGrafica(workbook));
   const vistas = [];
 
@@ -814,6 +827,41 @@ async function construirVistasWorkbook(workbook) {
     if (vista) vistas.push(vista);
   }
 
+  return vistas;
+}
+
+/* Esquema de los nuevos Excel: conserva periodo, sexo, edad y municipio.
+   Solo se leen filas de datos; fuentes y notas al pie no son observaciones. */
+function construirVistasIntegradas(matriz) {
+  const registros = [];
+  for (const fila of matriz.slice(1)) {
+    if (!fila?.[0] || !fila[1] || numero(fila[2]) === null) continue;
+    registros.push({ entidad: String(fila[0]), etiqueta: String(fila[1]), valor: numero(fila[2]) });
+  }
+  const regionales = registros.filter(r => ["Nacional", "Quintana Roo"].includes(r.entidad));
+  const municipales = registros.filter(r => !["Nacional", "Quintana Roo"].includes(r.entidad));
+  const periodos = new Set(regionales.flatMap(r => r.etiqueta.split(" / ").filter(p => /^\d{4}$/.test(p))));
+  const temporal = periodos.size > 1;
+  const grupos = new Map();
+  regionales.forEach(r => {
+    const partes = r.etiqueta.split(" / ");
+    const sexo = partes.find(p => /^(Total|Hombres|Mujeres)$/.test(p));
+    const periodo = temporal ? partes.find(p => /^\d{4}$/.test(p)) : null;
+    const clave = temporal ? partes.filter(p => p !== periodo).join(" / ") || "Comparación" : sexo ? partes.filter(p => p !== sexo).join(" / ") : "Comparación";
+    if (!grupos.has(clave)) grupos.set(clave, []);
+    grupos.get(clave).push({ ...r, x: periodo || sexo || r.etiqueta });
+  });
+  const vistas = [];
+  for (const [clave, datos] of grupos) {
+    const labels = [...new Set(datos.map(r => r.x))];
+    const entidades = ["Nacional", "Quintana Roo"].filter(e => datos.some(r => r.entidad === e));
+    const datasets = entidades.map(entidad => ({ label: entidad, data: labels.map(x => datos.find(r => r.x === x && r.entidad === entidad)?.valor ?? null) }));
+    vistas.push({ hoja: "Datos", tituloVista: clave, modo: temporal ? "serie-integrada" : "categorias-integradas", labels, datasets, tabla: { columnas: [temporal ? "Año" : "Categoría", ...entidades], filas: labels.map((x, i) => [x, ...datasets.map(d => d.data[i])]) } });
+  }
+  for (const etiqueta of new Set(municipales.map(r => r.etiqueta))) {
+    const datos = municipales.filter(r => r.etiqueta === etiqueta);
+    vistas.push({ hoja: "Datos", tituloVista: `Municipios · ${etiqueta}`, modo: "municipios-integrados", labels: datos.map(r => r.entidad), datasets: [{ label: "Quintana Roo · municipios", data: datos.map(r => r.valor) }], tabla: { columnas: ["Municipio", "Valor"], filas: datos.map(r => [r.entidad, r.valor]) } });
+  }
   return vistas;
 }
 
@@ -849,6 +897,7 @@ function coloresDataset(index) {
 }
 
 function tipoChartParaVista(vista) {
+  if (vista?.modo === "serie-integrada") return "line";
   /* Las hojas "Gráfica" de los Excel suministrados son gráficas de barras. */
   if (vista?.modo === "comparacion-temporal" || vista?.modo === "comparacion-categorias") return "bar";
   if (vista?.modo === "temporal-sexo" || vista?.modo === "entidad-categorias") return "bar";
@@ -862,7 +911,7 @@ function construirGrafica(vista, indicador) {
   if (!canvas || !vista) return;
 
   const ctx = canvas.getContext("2d");
-  const tipo = tipoChartParaVista(vista);
+  const tipo = indicador.tema === "desarrollo" && String(indicador.id) === "5.22" ? "bar" : tipoChartParaVista(vista);
   const unidad = indicador.unidad || "";
 
   const datasets = vista.datasets.map((ds, index) => ({
@@ -924,7 +973,7 @@ function construirGrafica(vista, indicador) {
   });
 
   qs("tituloGrafica").textContent = indicador.nombre || "Gráfica del indicador";
-  qs("tipoVisualizacion").textContent = `Barras · ${vista.tituloVista}`;
+  qs("tipoVisualizacion").textContent = `${tipo === "line" ? "Líneas" : "Barras"} · ${vista.tituloVista}`;
 }
 
 /* ---------- Pestañas de hojas de gráfica ---------- */
@@ -955,6 +1004,7 @@ function construirTabsGraficas(vistas, vistaSeleccionada) {
       boton.classList.add("active");
       construirGrafica(vista, indicadorActual);
       construirTablaVista(vista, indicadorActual);
+      if (indicadorActual?.integracion === "qroo-2026") construirCardsResumen(indicadorActual, vista, {});
     });
 
     contenedor.appendChild(boton);
@@ -1000,6 +1050,7 @@ function construirTablaVista(vista, indicador) {
   }
 
   const columnas = vista.tabla.columnas || [];
+  const decimales = indicador.tema === "desarrollo" && ["5.12", "5.22"].includes(String(indicador.id)) ? 4 : 2;
 
   let html = `
     <div class="table-responsive tabla-scroll">
@@ -1011,7 +1062,7 @@ function construirTablaVista(vista, indicador) {
           ${filas.map(fila => `
             <tr>
               ${fila.map((valor, indice) => `
-                <td class="${indice === 0 ? "dato-contexto" : ""}">${formatearValorTabla(valor)}</td>
+                <td class="${indice === 0 ? "dato-contexto" : ""}">${indice === 0 && columnas[0] === "Año" ? escaparHTML(valor) : formatearValorTabla(valor, decimales)}</td>
               `).join("")}
             </tr>
           `).join("")}
@@ -1185,6 +1236,9 @@ function mostrarEstado(mensaje, tipo = "info") {
 }
 
 function limpiarContenido() {
+  if (qs("graficaIndicador")) qs("graficaIndicador").parentElement.hidden = false;
+  if (qs("fuentesIntegradas")) qs("fuentesIntegradas").hidden = true;
+  if (qs("btnVerFichaIntegrada")) qs("btnVerFichaIntegrada").hidden = true;
   destruirGrafica();
   qs("cardsResumen").innerHTML = "";
   qs("tablaIndicador").innerHTML = "";
@@ -1205,6 +1259,7 @@ function mostrarError(mensaje) {
 
 function mostrarPlaceholderData(indicador, tema) {
   limpiarContenido();
+  if (qs("graficaIndicador")) qs("graficaIndicador").parentElement.hidden = true;
 
   const config = TEMAS_CONFIG[tema] || TEMAS_CONFIG.al25;
   document.documentElement.style.setProperty("--color-principal", config.colorPrincipal);
@@ -1213,7 +1268,7 @@ function mostrarPlaceholderData(indicador, tema) {
   const excelBtn = qs("btnDescargarExcel");
   const metaBtn = qs("btnDescargarMetadatos");
   if (excelBtn) excelBtn.style.display = "none";
-  if (metaBtn) metaBtn.style.display = "none";
+  if (metaBtn && !indicador?.archivoMetadato) metaBtn.style.display = "none";
 
   if (qs("tituloGrafica")) qs("tituloGrafica").textContent = "Datos no disponibles";
   if (qs("tituloTabla")) qs("tituloTabla").textContent = "Datos no disponibles";
@@ -1221,13 +1276,13 @@ function mostrarPlaceholderData(indicador, tema) {
   qs("tablaIndicador").innerHTML = `
     <div class="placeholder-container text-center">
       <div class="placeholder-icon" aria-hidden="true">&#9201;</div>
-      <h3 class="text-muted mb-3">En construcción / Actualización</h3>
+      <h3 class="text-muted mb-3">Pendiente de datos de Quintana Roo</h3>
       <p class="text-secondary mb-2">
         El indicador <strong>${escaparHTML(indicador?.clave || indicador?.nombre || "seleccionado")}</strong>
-        aún no tiene los archivos de datos configurados en el sistema.
+        aún no cuenta con un tabulado de Quintana Roo integrado.
       </p>
       <p class="text-muted">
-        Estamos trabajando en la integración de la información. Vuelve pronto para consultar los datos completos.
+        ${escaparHTML(indicador?.limitacion || "Consulta la ficha metodológica para conocer la fuente y los datos requeridos.")}
       </p>
       <a href="listado.html" class="btn-institucional mt-3" style="max-width: 260px; margin: 20px auto;">
         Volver a indicadores
@@ -1280,6 +1335,8 @@ async function cargarIndicadorDetallado(tema, indicadorId) {
   if (!rutaArchivo(indicador, "archivoExcel")) {
     pintarEncabezadoIndicador(indicador);
     mostrarPlaceholderData(indicador, tema);
+    try { pintarMetadatos(await cargarMetadatos(indicador), indicador); }
+    catch (error) { mostrarEstado("No se pudo cargar la ficha metodológica. Puedes descargarla para consultarla.", "warning"); }
     return;
   }
 
@@ -1316,6 +1373,14 @@ async function cargarIndicadorDetallado(tema, indicadorId) {
     construirCardsResumen(indicador, vistaPrincipal, meta);
 
     pintarMetadatos(meta, indicador);
+    if (indicador.integracion === "qroo-2026") {
+      qs("metadatosCard").hidden = true;
+      qs("btnVerFichaIntegrada").hidden = false;
+      qs("btnVerFichaIntegrada").setAttribute("aria-expanded", "false");
+      qs("fuentesIntegradas").hidden = false;
+      qs("fuenteIntegradaTexto").textContent = metadataValor(meta, "Fuente") || indicador.fuente;
+      qs("notaIntegradaTexto").textContent = indicador.limitacion || metadataValor(meta, "Nota de integración");
+    }
 
     mostrarEstado("");
   } catch (error) {
@@ -1381,7 +1446,7 @@ async function inicializarVisor() {
       return;
     }
 
-    const idInicial = indicadorId || indicadores[0].id;
+    const idInicial = indicadorId || indicadores.find(ind => ind.archivoExcel)?.id || indicadores[0].id;
 
     if (!indicadorId) {
       window.history.replaceState(
@@ -1406,10 +1471,17 @@ window.addEventListener("popstate", () => {
 });
 
 document.addEventListener("DOMContentLoaded", () => {
+  qs("btnVerFichaIntegrada")?.addEventListener("click", () => {
+    const ficha = qs("metadatosCard");
+    ficha.hidden = !ficha.hidden;
+    qs("btnVerFichaIntegrada").setAttribute("aria-expanded", String(!ficha.hidden));
+    if (!ficha.hidden) ficha.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
   const cerrar = qs("btnCerrarMetadatos");
   if (cerrar) {
     cerrar.addEventListener("click", () => {
       qs("metadatosCard").hidden = true;
+      qs("btnVerFichaIntegrada")?.setAttribute("aria-expanded", "false");
     });
   }
   inicializarVisor();

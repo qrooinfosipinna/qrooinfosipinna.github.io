@@ -50,12 +50,16 @@
 
   <div id="footer"></div>
 
-  <script src="js/layout.js" defer></script>
+  <script src="js/layout.js?v=20261023-navegacion-global" defer></script>
   <script src="js/indicadores-config.js" defer></script>
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const params = new URLSearchParams(window.location.search);
       const tema = params.get("tema");
+      if (["demografico", "desarrollo", "supervivencia"].includes(tema)) {
+        window.location.replace(`listado.html?tema=${encodeURIComponent(tema)}`);
+        return;
+      }
 
       if (tema && window.TEMAS_CONFIG && TEMAS_CONFIG[tema]) {
         const config = TEMAS_CONFIG[tema];

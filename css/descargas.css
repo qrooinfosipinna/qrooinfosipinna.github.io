@@ -94,7 +94,7 @@
 /* COLORES */
 .icon-circle.pdf,
 .icon-circle.excel{
-  background:linear-gradient(135deg,var(--color-verde),var(--color-verde-claro));
+  background:linear-gradient(135deg,var(--color-verde, #154f39),var(--color-verde-claro, #4f8c70));
   box-shadow:0 10px 25px rgba(46,204,113,.4);
 }
 
@@ -106,13 +106,13 @@
 
 /* EMBARAZO → verde salud/estadistica */
 .icon-circle.embarazo{
-  background:linear-gradient(135deg,var(--color-verde),var(--color-verde-claro));
+  background:linear-gradient(135deg,var(--color-verde, #154f39),var(--color-verde-claro, #4f8c70));
   box-shadow:0 10px 25px rgba(46,204,113,.45);
 }
 
 /* NACIMIENTO → azul institucional (ultimo) */
 .icon-circle.nacimiento{
-  background:linear-gradient(135deg,var(--color-azul),var(--color-azul-claro));
+  background:linear-gradient(135deg,var(--color-azul, #004f73),var(--color-azul-claro, #0073a8));
   box-shadow:0 10px 25px rgba(52,152,219,.45);
 }
 
@@ -133,7 +133,7 @@
 .btn-download{
   display:inline-block;
   padding:14px 26px;
-  background:linear-gradient(135deg,var(--color-guinda),var(--color-guinda-claro));
+  background:linear-gradient(135deg,var(--color-guinda, #7a1f3d),var(--color-guinda-claro, #a8325a));
   color:#fff;
   border-radius:12px;
   font-weight:700;
@@ -152,7 +152,7 @@
   position:absolute;
   top:18px;
   left:18px;
-  background:linear-gradient(135deg,var(--color-guinda),var(--color-guinda-claro));
+  background:linear-gradient(135deg,var(--color-guinda, #7a1f3d),var(--color-guinda-claro, #a8325a));
   color:#fff;
   padding:6px 14px;
   border-radius:20px;
@@ -173,7 +173,7 @@
 /* etiqueta año */
 .year-badge{
   display:inline-block;
-  background:linear-gradient(135deg,var(--color-guinda),var(--color-guinda-claro));
+  background:linear-gradient(135deg,var(--color-guinda, #7a1f3d),var(--color-guinda-claro, #a8325a));
   color:#fff;
   font-weight:700;
   padding:6px 14px;
